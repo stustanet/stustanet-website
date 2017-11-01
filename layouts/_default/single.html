@@ -1,10 +1,22 @@
 {{ define "main" }}
-<header>
-  <h1>
-    {{ .Title }}
-  </h1>
-</header>
-<div class="">
-  {{ .Content }}
-</div>
+    <main aria-role="main">
+      <header>
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="container">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+      </div>
+      <aside>
+        <h3>Next Office Hours</h3><!-- TODO: translate -->
+        <ul>
+        {{ range getJSON "https://sprechstunden.stusta.mhn.de/appointments.json"}}
+           <li>{{ dateFormat "Monday, Jan 2, 2006 15:04" (int .start) }}-{{ dateFormat "15:04" (int .end) }}</li>
+        {{ end }}
+        </ul>
+      </aside>
+    </main>
 {{ end }}
