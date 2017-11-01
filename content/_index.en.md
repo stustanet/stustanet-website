@@ -16,7 +16,7 @@ If you want to do more than just surf the Internet the StuStaNet provides you th
 Residents of the Studentenstadt Freimann who would like to join the association must fill out a membership application form, which they can obtain within our office hours in the 'Blue House'. This is where residents go to for more information regarding the StuStaNet association or for any problems they are experiencing with the LAN. Our office hours are posted in every house on the notice board.
 
 ## The Board of Directors
-The contact details of the current board members can be found [Impressum]({{< ref "impressum.md" >}}).
+The contact details of the current board members can be found in the [imprint]({{< ref "impressum.md" >}}).
 
 ## Statute
 The current statute of the StuStaNet e.V. can be found [here](https://stustanet.de/satzung.pdf) (German).
