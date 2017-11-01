@@ -1,8 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">{{ readFile "/data/ascii.txt" | safeHTML }}
   <head>
     <meta charset="utf-8">
-    <title>{{ .Site.Title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    {{ if and (isset .Params "noindex") .Params.noindex }}
+      <meta name="robots" content="noindex">
+    {{ end }}
+    <link href='/styles.css' rel='stylesheet' type="text/css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="{{ .Permalink }}">
   </head>
   <body>
     <!-- Code that all your templates share, like a header -->
