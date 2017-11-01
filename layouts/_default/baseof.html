@@ -13,10 +13,26 @@
     <link rel="canonical" href="{{ .Permalink }}">
   </head>
   <body>
-    <!-- Code that all your templates share, like a header -->
-    {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
-    {{ end }}
+
+    <main aria-role="main">
+      <header>
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="container">
+        {{ block "main" . }}{{.Content}}{{ end }}
+      </div>
+    </main>
+    <aside>
+      <h3>Next Office Hours</h3><!-- TODO: translate -->
+      <ul>
+      {{ range getJSON "https://sprechstunden.stusta.mhn.de/appointments.json"}}
+         <li>{{ dateFormat "Monday, Jan 2, 2006 15:04" (int .start) }}-{{ dateFormat "15:04" (int .end) }}</li>
+      {{ end }}
+      </ul>
+    </aside>
     <footer>
       <div class="container">
         <a href="https://stustanet.de/impressum">Impressum</a>
