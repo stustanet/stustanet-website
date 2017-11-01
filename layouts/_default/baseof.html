@@ -17,6 +17,24 @@
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
-    <footer>This is teh foota &copy; {{ now.Format "2006" }}</footer>
+    <footer>
+      <div class="container">
+        <a href="https://stustanet.de/impressum">Impressum</a>
+      </div>
+      <div class="lang-dropdown">
+        <span><i class="globe"></i>{{ .Site.Language.LanguageName }} &#9652;</span>
+        <ul class="up">
+        {{ if .Site.IsMultiLingual }}
+          {{ $lang := .Site.Language }}
+          {{ range .Site.Languages }}
+            <li>
+              <a href="{{ delimit (slice "/" .) "" }}" class="lang">
+                <span class="shorthand">{{ .Lang }}</span>{{ .LanguageName }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+        </ul>
+      </div>
   </body>
 </html>
