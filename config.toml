@@ -1,0 +1,20 @@
+baseURL = "http://stustanet.zoidberg.stusta.de/"
+canonifyURLs = true
+defaultContentLanguage = "de"
+title = "StuStaNet e.V."
+enableRobotsTXT = true
+disableHugoGeneratorInject = true
+disableKinds = ["RSS","taxonomy","taxonomyTerm"]
+enableGitInfo = false
+
+
+[Languages]
+[Languages.de]
+weight = 1
+languageCode = "de-DE"
+languageName = "Deutsch"
+
+[Languages.en]
+weight = 2
+languageCode = "en-US"
+languageName = "English"
