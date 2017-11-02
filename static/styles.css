@@ -237,6 +237,17 @@ footer {
     position: relative;
 }
 
+footer .editPage {
+    float: left;
+    padding: 15px;
+    margin-right: -100px;
+}
+
+footer .editPage a {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAANlBMVEUAAADv7+/v7+/v7+/v7+/s7Ozs7Ozt7e3t7e3t7e3s7Ozs7Ozs7Ozs7Ozt7e3t7e3t7e3t7e3ECRl9AAAAEXRSTlMAECAwQFBgkJ+gr7C/wNDv8A/g33EAAABLSURBVHjarchBAoAgDAPBUCqISjX//6xyMnh2bztIGw+DtJMNSWB8OfML/XlSxMZPki5+JP8p4R0qsaCZigNeIdJXR0CzGiyYK+0GziYE48hUzCUAAAAASUVORK5CYII=) no-repeat;
+    padding-left: 20px;
+}
+
 footer a {
     color: #EDEDED;
 }
