@@ -7,6 +7,8 @@ disableHugoGeneratorInject = true
 disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 enableGitInfo = false
 
+[params]
+gitEditBaseUrl = "https://gitlab.stusta.de/stustanet/stustanet-website/edit/master/content/"
 
 [Languages]
 [Languages.de]
