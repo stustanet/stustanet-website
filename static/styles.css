@@ -20,6 +20,23 @@ body {
     color: #4B4B4B;
 }
 
+nav {
+    background: #fff;
+    width: 100%;
+    height: 54px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.12);
+    z-index: 1;
+}
+
+nav a img.logo {
+    height: 34px;
+    width: auto;
+    margin: 10px 10px 10px -5px;
+}
+
 .lang-dropdown {
     color: #EDEDED;
     cursor: default;
