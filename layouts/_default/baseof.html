@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "en" }}">{{ readFile "/data/ascii.txt" | safeHTML }}
+<html lang="{{ $.Site.LanguageCode | default "en" }}">{{ readFile "joinus.txt" | safeHTML }}
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -38,7 +38,7 @@
         <a href="{{ .Site.Params.gitEditBaseUrl }}{{ .File.Path }}">Edit this Page</a>
       </div>
       <div class="container">
-        <a href="https://stustanet.de/impressum">Impressum</a>
+        <a href="{{ ref . "impressum.md" }}">Impressum</a>
       </div>
       <div class="lang-dropdown">
         <span><i class="globe"></i>{{ .Site.Language.LanguageName }} &#9652;</span>
@@ -55,5 +55,6 @@
         {{ end }}
         </ul>
       </div>
+    </footer>
   </body>
 </html>
