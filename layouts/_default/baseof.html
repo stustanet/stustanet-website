@@ -44,26 +44,28 @@
       </ul>
     </aside>
     <footer>
-      <div class="editPage">
-        <a href="{{ .Site.Params.gitEditBaseUrl }}{{ .File.Path }}">Edit this Page</a>
-      </div>
       <div class="container">
-        <a href="{{ ref . "impressum.md" }}">Impressum</a>
-      </div>
-      <div class="lang-dropdown">
-        <span><i class="globe"></i>{{ .Site.Language.LanguageName }} &#9652;</span>
-        <ul class="up">
-        {{ if .Site.IsMultiLingual }}
-          {{ $lang := .Site.Language }}
-          {{ range .Site.Languages }}
-            <li>
-              <a href="{{ delimit (slice "/" .) "" }}" class="lang">
-                <span class="shorthand">{{ .Lang }}</span>{{ .LanguageName }}
-              </a>
-            </li>
+        <div class="editPage">
+          <a href="{{ .Site.Params.gitEditBaseUrl }}{{ .File.Path }}">Edit this Page</a>
+        </div>
+        <div class="center">
+          <a href="{{ ref . "impressum.md" }}">Impressum</a>
+        </div>
+        <div class="lang-dropdown">
+          <span><i class="globe"></i>{{ .Site.Language.LanguageName }} &#9652;</span>
+          <ul class="up">
+          {{ if .Site.IsMultiLingual }}
+            {{ $lang := .Site.Language }}
+            {{ range .Site.Languages }}
+              <li>
+                <a href="{{ delimit (slice "/" .) "" }}" class="lang">
+                  <span class="shorthand">{{ .Lang }}</span>{{ .LanguageName }}
+                </a>
+              </li>
+            {{ end }}
           {{ end }}
-        {{ end }}
-        </ul>
+          </ul>
+        </div>
       </div>
     </footer>
   </body>
