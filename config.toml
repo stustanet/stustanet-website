@@ -1,6 +1,7 @@
 baseURL = "http://stustanet.zoidberg.stusta.de/"
 canonifyURLs = true
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
 title = "StuStaNet e.V."
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
