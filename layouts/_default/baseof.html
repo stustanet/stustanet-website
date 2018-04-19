@@ -6,11 +6,16 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     {{ if and (isset .Params "noindex") .Params.noindex }}
-      <meta name="robots" content="noindex">
+    <meta name="robots" content="noindex">
     {{ end }}
     <link href='/styles.css' rel='stylesheet' type="text/css" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="canonical" href="{{ .Permalink }}">
+    {{ if .IsTranslated }}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{ range .Translations }}<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{- end }}
+    {{- end }}
   </head>
   <body>
 
