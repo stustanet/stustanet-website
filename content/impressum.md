@@ -8,36 +8,48 @@ Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.
 
 Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des Vereins StuStaNet e. V.
 
-# StuStaNet e.V. - Der Computernetzwerkverein in der Studentenstadt
+## StuStaNet e.V.
+Der Computernetzwerkverein in der Studentenstadt
 
-'''Postanschrift:'''
-:StuStaNet e.V.
-:Hans-Leipelt-Straße 7
-:80805 München
+{{% dl title="Postanschrift" %}}
+StuStaNet e.V.  
+Hans-Leipelt-Straße 7  
+80805 München  
+{{% /dl%}}
 
-Telefon: Der Verein ist telefonisch nicht zu erreichen.
+{{% dl title="Telefon" %}}
+Der Verein ist telefonisch nicht zu erreichen.
+{{% /dl %}}
 
-E-Mail an den Vorstand: vorstand[at]stustanet.de
+{{% dl title="E-Mail an den Vorstand" %}}
+{{% email %}}vorstand[at]stustanet.de{{% /email %}}
+{{% /dl %}}
 
-<span style="color:red;">'''HINWEIS: Diese Adresse kann bei Wohnungsanfragen NICHT helfen. [Hier ist die richtige Adresse](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/).<br />NOTE: This contact cannot help you get an appartment. Please see [this page](http://www.studentenwerk-muenchen.de/en/accommodation/munich-student-union-student-halls-of-residence/how-do-i-apply/).'''<span>
+{{% we-are-not-stuwerk %}}
 
-Internet: https://www.stustanet.de/
+{{% dl title="Internet" %}}
+https://www.stustanet.de/
+{{% /dl %}}
 
 {{% vorstand %}}
 
-Registergericht: Amtsgericht München<br>
-Vereinsregisternummer: 16245
+{{% dl title="Registergericht" %}}
+Amtsgericht München
+{{% /dl %}}
+{{% dl title="Vereinsregisternummer" %}}
+16245
+{{% /dl %}}
 
-# Über diese Webseite
+## Über diese Webseite
 
-Bei technischen Fragen zu dieser Webseite: admins[at]stustanet.de
+Bei technischen Fragen zu dieser Webseite: {{% email %}}admins[at]stustanet.de{{% /email %}}
 
-Bei redaktionellen Fragen zu dieser Webseite: vorstand[at]stustanet.de
+Bei redaktionellen Fragen zu dieser Webseite: {{% email %}}vorstand[at]stustanet.de{{% /email %}}
 
-Für Anfragen an die studentische Heimselbstverwaltung in der Studentenstadt Freimann wenden Sie sich bitte an den [mailto:orgtutor@stusta.de Organisationstutor].
+Für Anfragen an die studentische Heimselbstverwaltung in der Studentenstadt Freimann wenden Sie sich bitte an den Organisationstutor unter {{% email %}}orgtutor[at]stusta.de{{% /email %}}.
 
 
-:<span style="color:red;">'''HINWEIS: Diese Adresse kann bei Wohnungsanfragen NICHT helfen. [Hier ist die richtige Adresse](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/).<br />NOTE: This contact cannot help you get an appartment. Please see [this page](http://www.studentenwerk-muenchen.de/en/accommodation/munich-student-union-student-halls-of-residence/how-do-i-apply/).'''<span>
+{{% we-are-not-stuwerk %}}
 
 Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 

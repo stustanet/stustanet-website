@@ -1,9 +1,14 @@
-<div class="vorstand">
-    <ul>
-        <li>Vorsitzender Vorstand: {{ .Site.Data.Vorstand.VV }}</li>
-        <li>Schatzmeister: {{ .Site.Data.Vorstand.CC }}</li>
-        <li>1. Technischer Vorstand: {{ .Site.Data.Vorstand.TV1 }}</li>
-        <li>2. Technischer Vorstand: {{ .Site.Data.Vorstand.TV2 }}</li>
-    </ul>
-    <i>Gültig: {{ .Site.Data.Vorstand.Valid }}</i>
-</div>
+<dl class="vorstand">
+    <dt>Vorstandsmitglieder</dt>
+    <dd>
+        <ul>
+            <li>Vorsitzender Vorstand: {{ .Site.Data.Vorstand.VV }}</li>
+            <li>Schatzmeister: {{ .Site.Data.Vorstand.CC }}</li>
+            <li>1. Technischer Vorstand: {{ .Site.Data.Vorstand.TV1 }}</li>
+            <li>2. Technischer Vorstand: {{ .Site.Data.Vorstand.TV2 }}</li>
+        </ul>
+        <p>
+            <i>Gültig: {{ .Site.Data.Vorstand.Valid }}</i>
+        </p>
+    </dd>
+</dl>

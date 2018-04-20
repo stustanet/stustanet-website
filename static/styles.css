@@ -18,6 +18,8 @@ body {
     font-size: 100%;
     vertical-align: baseline;
     color: #4B4B4B;
+    display: flex;
+    flex-direction: column;
 }
 
 #top-bar {
@@ -102,13 +104,13 @@ ul.menu li a {
 }
 
 .lang-dropdown li {
-    background-color: #313131;
+    background-color: #454545;
     position: relative;
     line-height: 24px;
     vertical-align: middle;
 }
 .lang-dropdown li:hover {
-    background-color:#444;
+    background-color:#555;
 }
 .lang-dropdown li:first-child {
     border-radius: 3px 3px 0 0;
@@ -120,7 +122,7 @@ ul.menu li a {
     width: 1px;
     height: 1px;
     border: 5px solid transparent;
-    border-bottom-color: #313131;
+    border-bottom-color: #454545;
     left: 50%;
     top: -11px;
     margin-left: -5px;
@@ -140,7 +142,7 @@ ul.menu li a {
     width: 1px;
     height: 1px;
     border: 5px solid transparent;
-    border-top-color: #313131;
+    border-top-color: #454545;
     left: 50%;
     bottom: -11px;
     margin-left: -5px;
@@ -165,7 +167,8 @@ ul.menu li a {
 }
 
 article > *,
-.container {
+.container,
+header {
     position: relative;
     max-width: 800px;
     margin-left: auto;
@@ -215,6 +218,7 @@ main {
     width: 100%;
     position: relative;
     padding: 50px 0;
+    flex: 1 1 0;
 }
 
 p, ul, ol {
@@ -233,6 +237,14 @@ ul ol,
 ol ol {
     margin-top: 0;
     margin-bottom: 0;
+}
+
+dl {
+    line-height: 1.2;
+}
+
+dt {
+    font-weight: bold;
 }
 
 hr {
@@ -275,14 +287,13 @@ a:hover, a:active {
 
 footer {
     background: #363636;
-    position: relative;
+    display: flex;
+    flex-shrink: 0;
 }
 
 footer .editPage {
-    float: left;
     padding: 15px;
-    padding-left: 0px;
-    margin-right: -100px;
+    flex: 1 1 0;
 }
 
 footer .editPage a {
@@ -297,10 +308,31 @@ footer a {
 footer .center {
     padding: 15px;
     text-align: center;
+    flex: 1 1 0;
+}
+
+footer .lang-dropdown-container {
+    flex: 1 1 0;
 }
 
 footer .lang-dropdown {
-    position: absolute;
-    right: 20px;
-    bottom: 14px;
+    text-align: right;
+    padding: 15px;
+}
+
+.we-are-not-stuwerk {
+    border: 1px solid #fa7171;
+    border-radius: 2px;
+    margin: 5px 0;
+    padding: 10px;
+    background: #ffdbdb;
+    color: red;
+}
+
+.email {
+    font-style: italic;
+}
+
+.vorstand ul {
+    padding-left: 0;
 }
