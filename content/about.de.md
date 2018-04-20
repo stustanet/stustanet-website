@@ -1,6 +1,7 @@
 ---
 title: StuStaNet e.V.
 type: page
+color: green
 ---
 
 ## Der Verein

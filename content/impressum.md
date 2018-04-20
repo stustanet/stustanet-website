@@ -2,6 +2,7 @@
 title: Impressum
 type: page
 noindex: true
+color: yellow
 ---
 
 Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.
@@ -27,18 +28,12 @@ Der Verein ist telefonisch nicht zu erreichen.
 
 {{% we-are-not-stuwerk %}}
 
-{{% dl title="Internet" %}}
-https://www.stustanet.de/
-{{% /dl %}}
+**Internet:** https://www.stustanet.de/
 
 {{% vorstand %}}
 
-{{% dl title="Registergericht" %}}
-Amtsgericht München
-{{% /dl %}}
-{{% dl title="Vereinsregisternummer" %}}
-16245
-{{% /dl %}}
+**Registergericht:** Amtsgericht München  
+**Vereinsregisternummer**: 16245  
 
 ## Über diese Webseite
 
