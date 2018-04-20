@@ -1,4 +1,4 @@
-baseURL = "http://stustanet.zoidberg.stusta.de/"
+baseURL = "https://stustanet.de/"
 canonifyURLs = true
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
