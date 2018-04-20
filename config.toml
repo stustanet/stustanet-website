@@ -7,6 +7,7 @@ enableRobotsTXT = true
 disableHugoGeneratorInject = true
 disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 enableGitInfo = false
+SectionPagesMenu = "main"
 
 [params]
 gitEditBaseUrl = "https://gitlab.stusta.de/stustanet/stustanet-website/edit/master/content/"
@@ -17,7 +18,31 @@ weight = 1
 languageCode = "de-DE"
 languageName = "Deutsch"
 
+[[Languages.de.menu.main]]
+weight = 1
+name = "Home"
+identifier = "home"
+url = "/de/"
+
+[[Languages.de.menu.main]]
+weight = 2
+name = "Verein"
+identifier = "about"
+url = "/de/about/"
+
 [Languages.en]
 weight = 2
 languageCode = "en-US"
 languageName = "English"
+
+[[Languages.en.menu.main]]
+weight = 1
+name = "Home"
+identifier = "home"
+url = "/en/"
+
+[[Languages.en.menu.main]]
+weight = 2
+name = "About Us"
+identifier = "about"
+url = "/en/about/"

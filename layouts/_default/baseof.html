@@ -22,14 +22,22 @@
     {{- end }}
   </head>
   <body>
+    <nav id="top-bar">
+      <div class="container">
+        <div class="logo">
+          <a href="/" title="To Homepage"><img src="/logo.png" alt="StuStaNet" /></a>
+        </div>
+        <ul class="menu">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main }}
+            <li><a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
 
     <main aria-role="main">
       <header>
-        <nav>
-          <div class="container">
-            <a href="/" title="To Homepage"><img src="/logo.png" alt="StuStaNet" class="logo" /></a>
-          </div>
-        </nav>
         <h1>{{.Title}}</h1>
         {{ with .Params.subtitle }}
         <span class="subtitle">{{.}}</span>
