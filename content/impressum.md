@@ -28,7 +28,7 @@ Der Verein ist telefonisch nicht zu erreichen.
 
 {{% we-are-not-stuwerk %}}
 
-**Internet:** https://www.stustanet.de/
+**Internet:** https://stustanet.de/
 
 {{% vorstand %}}
 
