@@ -17,8 +17,12 @@ StuStaNet operates all higher-level services such as DNS, email, HTTP Proxy, NAT
 ## Participation
 If you want to do more than just surf the Internet the StuStaNet provides you the possibility of actively participating in the computer network, whether you want to administer one of the many servers we have, be a house administrator or even be part of the board of directors. Everyone interested in participating is welcome to join us at the monthly administrators' meeting.
 
+See also the ["Participation" page]({{< ref "participate.en.md" >}}).
+
 ## Membership
-Residents of the Studentenstadt Freimann who would like to join the association must fill out a membership application form, which they can obtain within our office hours in the 'Blue House'. This is where residents go to for more information regarding the StuStaNet association or for any problems they are experiencing with the LAN. Our office hours are posted in every house on the notice board.
+Residents of the Studentenstadt Freimann who would like to join the association must fill out a [membership application form](https://reg.stusta.de/), which they can obtain within our office hours in the 'Blue House'. This is where residents go to for more information regarding the StuStaNet association or for any problems they are experiencing with the LAN. Our office hours are posted in every house on the notice board.
+
+[You can find the application form here](https://reg.stusta.de/).
 
 ## The Board of Directors
 The contact details of the current board members can be found in the [imprint]({{< ref "impressum.md" >}}).

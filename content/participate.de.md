@@ -45,4 +45,4 @@ Wir haben einige Services, die für die reibunslose Internetanbindung für über
 Aber es gibt auch noch weitere Services, die du betreuen kannst, z.B. Jabber, E-Mail, Backup, Gitlab.
 Wenn du einen Service vermisst, kannst du auch gern einen aufsetzen; wir sind für Vorschläge offen!
 
-Neben Spaß und Erfahrung kannst du beim StuStaNet auch Honorarsemester verdienen, sollstest du in der Studentenstadt (oder Max-Bill Wohnheim) länger wohnen wollen.
+Neben Spaß und Erfahrung kannst du beim StuStaNet auch Honorarsemester verdienen, sollstest du in der Studentenstadt (oder im Max-Bill Wohnheim) länger wohnen wollen.

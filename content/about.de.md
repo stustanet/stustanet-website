@@ -15,8 +15,12 @@ Der Verein betreibt ein eigenes NAT Gateway ins Internet sowie zahlreiche weiter
 ## Mitgestaltung
 Für Interessierte, die mehr wollen, als nur "surfen", gibt es die Möglichkeit, sich aktiv an der Gestaltung des Netzes zu beteiligen, sei es als Betreuer eines der zahlreichen Server, als Hausadministrator oder im Vorstand. Zu der monatlich stattfindenden Sitzung der Administratoren (Adminrat) ist jeder Interessierte herzlich eingeladen.
 
+Siehe auch die ["Mitmachen" Seite]({{< ref "participate.de.md" >}}).
+
 ## Beitritt
-Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen Aufnahmeantrag ausfüllen, den sie in der Sprechstunde des Vereins erhalten und abgeben können. Die Sprechstunde im Vereinsbüro im "Blauen Haus" (Zimmer 028) ist auch erste Anlaufstelle für weitere Informationen zum Verein und bei Problemen mit dem wohnheimweiten LAN. Die Sprechzeiten hängen an den schwarzen Brettern der Häuser sowie am Sprechstundenraum aus.
+Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen [Aufnahmeantrag](https://reg.stusta.de/) ausfüllen, den sie in der Sprechstunde des Vereins erhalten und abgeben können. Die Sprechstunde im Vereinsbüro im "Blauen Haus" (Zimmer 028) ist auch erste Anlaufstelle für weitere Informationen zum Verein und bei Problemen mit dem wohnheimweiten LAN. Die Sprechzeiten hängen an den schwarzen Brettern der Häuser sowie am Sprechstundenraum aus.
+
+[Hier gehts zum Aufnahmeantrag](https://reg.stusta.de/).
 
 ## Vorstand
 Die Kontaktadressen des aktuellen Vorstands findet sich im [Impressum]({{< ref "impressum.md" >}}).
