@@ -321,11 +321,11 @@ nav .container {
     white-space: nowrap;
 }
 
-.container .lang-dropdown {
+nav .container .lang-dropdown {
     color: #1b54ac;
 }
 
-.container .lang-dropdown {
+nav .container .lang-dropdown {
     padding: 15px 5px 15px 25px;
 }
 
@@ -337,7 +337,7 @@ nav .container {
     content: '▴';
 }
 
-.container .lang-dropdown ul {
+nav .container .lang-dropdown ul {
     top: 10px;
 }
 
@@ -492,9 +492,13 @@ a:hover, a:active {
 
 footer {
     background: #363636;
-    display: flex;
     flex-shrink: 0;
     white-space: nowrap;
+}
+
+footer .container {
+    display: flex;
+    position: relative;
 }
 
 footer .editPage {
@@ -509,7 +513,7 @@ footer .editPage a {
     padding-left: 20px;
 }
 
-footer a {
+footer .container a {
     color: #EDEDED;
 }
 
@@ -581,7 +585,9 @@ footer .lang-dropdown {
         line-height: inherit;
     }
 
-    article > *, article .container {
+    article > *, 
+    article .container,
+    footer .container {
         padding: 0 25px;
     }
 
