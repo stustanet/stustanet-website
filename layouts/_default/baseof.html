@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
     {{ if .Params.Description }}
     <meta name="description" content="{{ .Params.Description }}" />
     {{ end }}
@@ -82,8 +82,8 @@
 
     <article>
       <header class="{{ .Params.Color | default "blue" }}">
-        <h1>{{.Title}}</h1>
-        {{ with .Params.subtitle }}
+        <h1>{{ .Params.Header | default .Title }}</h1>
+        {{ with .Params.SubHeader }}
         <span class="subtitle">{{.}}</span>
         {{ end }}
       </header>

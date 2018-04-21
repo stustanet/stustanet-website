@@ -1,5 +1,5 @@
 ---
-title: StuStaNet e.V.
+header: StuStaNet e.V.
 ---
 
 ### Nächste Sprechstunden

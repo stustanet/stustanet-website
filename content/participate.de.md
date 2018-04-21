@@ -1,5 +1,6 @@
 ---
 title: Mitmachen
+header: Mitmachen
 description: Mitmachen beim StuStaNet
 type: page
 color: red

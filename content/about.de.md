@@ -1,5 +1,6 @@
 ---
-title: StuStaNet e.V.
+title: Verein
+header: StuStaNet e.V.
 description: Information über den StuStaNet e. V. in der Studentenstadt Freimann, München
 type: page
 color: green
