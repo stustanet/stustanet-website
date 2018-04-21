@@ -6,7 +6,7 @@
 }
 
 html {
-    font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+    font-family: sans-serif;
     font-size: 100%;
     -webkit-font-smoothing: antialiased;
 }
@@ -186,7 +186,7 @@ ul.menu li a {
     padding: 15px 5px;
 }
 
-.menu .active, 
+.menu .active,
 .hamburger .active {
     background: rgba(94, 146, 189, 0.22);
 }
@@ -294,7 +294,7 @@ ul.menu li a {
     display: inline-block;
     line-height: 24px;
     text-align: center;
-    margin: 0 6px;    
+    margin: 0 6px;
 }
 
 article > *,
@@ -500,7 +500,7 @@ footer .editPage {
     overflow: hidden;
 }
 
-footer .container, 
+footer .container,
 footer .container a {
     color: #EDEDED;
 }
@@ -573,7 +573,7 @@ footer .lang-dropdown {
         line-height: inherit;
     }
 
-    article > *, 
+    article > *,
     article .container,
     footer .container {
         padding: 0 25px;
