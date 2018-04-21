@@ -233,7 +233,7 @@ ul.menu li a {
     -moz-transition: max-height 0.4s linear;
     transition: max-height 0.4s linear;
 }
-.lang-dropdown:hover ul {
+.lang-dropdown:hover ul, .lang-dropdown:focus ul {
     max-height: 200px;
 }
 .lang-dropdown.up ul {
