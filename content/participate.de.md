@@ -33,7 +33,7 @@ Einfach joinen und losfragen; es sind meistens genug Admins online um deine Frag
 
 Viel besser ist natürlich, wenn du bei uns persönlich im [Hackerspace](https://wiki.stusta.de/Hackerspace) vorbeischaust.
 Dies ist ein Ort, an dem sich Computerbegeisterte (auch nicht Admins) mit ihrer Hardware treffen, sich über Probleme und Informationen austauschen und generell "rumnerden" können.
-Gleichzeitig ist es auch der Ort, an dem jeden ersten Donnerstag im Monat der Adminrat stattfindet.
+Gleichzeitig ist es auch der Ort, an dem jeden ersten Donnerstag im Monat der [Adminrat](https://wiki.stusta.de/Adminrat) stattfindet.
 Beim Adminrat treffen sich der Vorstand und die Hausadminstratoren und Sonderadminstratoren um über aktuelle Entwicklungen auf der Netzwerkfront zu debattieren.
 
 ## Was bieten wir?
@@ -41,8 +41,8 @@ Beim Adminrat treffen sich der Vorstand und die Hausadminstratoren und Sonderadm
 Wenn du geschafft hast dein Internet selbst einzurichten, kannst du gern Administrator werden und deinen Mitbewohnern helfen, sollten sie beim Einrichten Probleme haben.
 
 Wenn du Lust hast, kannst du auch einen Server administrieren.
-Wir haben einige Services, die für die reibunslose Internetanbindung für über 2500 benötigt werden: Proxy, NAT mit QOS und DNS.
-Aber es gibt auch noch weitere Services, die du betreuen kannst: Jabber, E-Mail, Backup, Gitlab.
+Wir haben einige Services, die für die reibunslose Internetanbindung für über 2500 User benötigt werden: Proxy, NAT mit QOS und DNS.
+Aber es gibt auch noch weitere Services, die du betreuen kannst, z.B. Jabber, E-Mail, Backup, Gitlab.
 Wenn du einen Service vermisst, kannst du auch gern einen aufsetzen; wir sind für Vorschläge offen!
 
-Neben Spaß und Erfahrung kannst du beim StuStaNet auch Honorarsemester verdienen, sollstest du in der Studentenstadt länger wohnen wollen.
+Neben Spaß und Erfahrung kannst du beim StuStaNet auch Honorarsemester verdienen, sollstest du in der Studentenstadt (oder Max-Bill Wohnheim) länger wohnen wollen.
