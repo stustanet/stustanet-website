@@ -178,13 +178,13 @@ ul.menu {
 ul.menu li {
     display: inline-block;
     margin: 0 10px 0;
-    padding: 0 5px 0;
+    padding: 0;
     border-bottom: 3px solid transparent;
 }
 
 ul.menu li a {
     display: inline-block;
-    padding: 15px 5px 12px;
+    padding: 15px 10px 12px;
     cursor: pointer;
 }
 
