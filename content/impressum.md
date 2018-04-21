@@ -1,5 +1,6 @@
 ---
 title: Impressum
+description: Impressum für stustanet.de
 type: page
 noindex: true
 color: yellow

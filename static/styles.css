@@ -42,18 +42,25 @@ body {
 
 #top-bar div.logo {
     display: inline-block;
+    flex: 1 1 0;
+    height: 30px;
 }
 
-#top-bar .logo a img {
-    height: 34px;
-    width: auto;
-    margin: 10px 10px 10px -5px;
+#top-bar .logo a {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    background-image: url(/logo.png);
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
 }
 
 ul.menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    flex: 0 0 0;
 }
 
 ul.menu li {
@@ -65,15 +72,15 @@ ul.menu li a {
     padding: 15px 5px;
 }
 
-#top-bar .menu {
-    float: right;
-
-}
-
 .lang-dropdown {
-    color: #EDEDED;
     cursor: default;
     position: relative;
+    flex: 0 0 0;
+}
+
+.lang-dropdown > span {
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 .lang-dropdown a {
@@ -82,11 +89,15 @@ ul.menu li a {
 
 .lang-dropdown .globe {
     display: inline-block;
-    width: 16px;
-    height: 16px;
+    width: 13px;
+    height: 13px;
     margin: -2px 5px 0 0;
-    vertical-align: top;
-    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAABFklEQVQoz13RMUgbUBSF4duCg4MmQQK6FbQ4d3Ps6uQQBRdp0U5uxdCAiF1aLBQLLQjilEWcAkJALbWtg1tBKAh2ERxiwQSFDm6az8EXk+Zs79yf+945LyJJ1rJvaq4c+OxZ/C8DJqwqWnIIbnzR3w2VVLxwCa6dGe4GMkYU/ARHZj3pBvpUNdyCdTPWTHkUnnsaIWvIjrYWDHtpw9uwoiznr0bHuOxxe/F3bHnll1PNBJQ6b/6RzB098jZBzaR5g/fAxwQsRkTo99pJcubugel0/KM37awkp9qq+DwZexERRlNVfG29YjwZxxERfj9kudbXQj6Bf3Led4TdlWlnKahjzEUaNr3r6CIiQt4bH+yr21Zsf/cd+nQr23neGI8AAAAASUVORK5CYII=) no-repeat;
+    vertical-align: middle;
+    background: url(/globe.svg) no-repeat;
+}
+
+.lang-dropdown.up .globe {
+    background: url(/globe.up.svg) no-repeat;
 }
 
 .lang-dropdown ul {
@@ -98,6 +109,7 @@ ul.menu li a {
     font: bold 12px sans-serif;
     overflow: hidden;
     max-height: 0px;
+    text-align: center;
     -webkit-transition: max-height 0.4s linear;
     -moz-transition: max-height 0.4s linear;
     transition: max-height 0.4s linear;
@@ -105,7 +117,7 @@ ul.menu li a {
 .lang-dropdown:hover ul {
     max-height: 200px;
 }
-.lang-dropdown ul.up {
+.lang-dropdown.up ul {
     top: auto;
     bottom: 20px;
 }
@@ -130,27 +142,27 @@ ul.menu li a {
     height: 1px;
     border: 5px solid transparent;
     border-bottom-color: #454545;
-    left: 50%;
+    left: 75%;
     top: -11px;
     margin-left: -5px;
 }
 .lang-dropdown li:last-child {
     border-radius: 0 0 3px 3px;
 }
-.lang-dropdown .up li:first-child {
+.lang-dropdown.up li:first-child {
     margin-top: 0px;
 }
-.lang-dropdown .up li:last-child {
+.lang-dropdown.up li:last-child {
     margin-bottom: 15px;
 }
-.lang-dropdown .up li:last-child:after {
+.lang-dropdown.up li:last-child:after {
     content:'';
     position: absolute;
     width: 1px;
     height: 1px;
     border: 5px solid transparent;
     border-top-color: #454545;
-    left: 50%;
+    left: 75%;
     bottom: -11px;
     margin-left: -5px;
 }
@@ -177,15 +189,46 @@ article > *,
 .container,
 header h1 {
     position: relative;
-    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 20px;
+}
+
+nav .container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+article > * {
+    max-width: 800px;
     padding: 0 50px;
+}
+
+.container .lang-dropdown {
+    color: #1b54ac;
+}
+
+.container .lang-dropdown {
+    padding: 15px 5px 15px 25px;
+}
+
+.lang-dropdown::after { 
+    content: '▾';
+}
+
+.up.lang-dropdown::after {
+    content: '▴';
+}
+
+.container .lang-dropdown ul {
+    top: 10px;
 }
 
 header {
     position: relative;
     display: block;
+    max-width: 100%;
     background-image: url(/header.jpg);
     background-size: cover;
     background-position-y: 30%;
@@ -259,7 +302,7 @@ h2 + h3 {
     margin-top: 0.3rem;
 }
 
-main {
+article {
     background: #FFF;
     width: 100%;
     position: relative;
@@ -322,7 +365,7 @@ code {
 }
 
 a {
-    color: #3273dc;
+    color: #1b54ac;
     cursor: pointer;
     text-decoration: none;
 }
@@ -335,11 +378,14 @@ footer {
     background: #363636;
     display: flex;
     flex-shrink: 0;
+    white-space: nowrap;
 }
 
 footer .editPage {
     padding: 15px;
     flex: 1 1 0;
+    text-overflow: clip;
+    overflow: hidden;
 }
 
 footer .editPage a {
@@ -365,6 +411,7 @@ footer .lang-dropdown-container {
 
 footer .lang-dropdown {
     display: inline;
+    color: #EDEDED;
 }
 
 .we-are-not-stuwerk {
@@ -383,4 +430,38 @@ footer .lang-dropdown {
 
 .vorstand ul {
     padding-left: 0;
+}
+
+@media (max-width: 720px) {
+    main {
+        padding: 25px 0;
+    }
+
+    h1 {
+        font-size: 1.6rem;
+        line-height: 2rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+        line-height: 1.6rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    header h1 {
+        padding: 50px 0 50px;
+        font-size: 2rem;
+        line-height: inherit;
+    }
+
+    article > *, .container {
+        padding: 0 25px;
+    }
+
+    footer .editPage a {
+        color: transparent;
+    }
 }

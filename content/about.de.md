@@ -1,5 +1,6 @@
 ---
 title: StuStaNet e.V.
+description: Information über den StuStaNet e. V. in der Studentenstadt Freimann, München
 type: page
 color: green
 ---
@@ -18,7 +19,7 @@ Für Interessierte, die mehr wollen, als nur "surfen", gibt es die Möglichkeit,
 Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen Aufnahmeantrag ausfüllen, den sie in der Sprechstunde des Vereins erhalten und abgeben können. Die Sprechstunde im Vereinsbüro im "Blauen Haus" (Zimmer 028) ist auch erste Anlaufstelle für weitere Informationen zum Verein und bei Problemen mit dem wohnheimweiten LAN. Die Sprechzeiten hängen an den schwarzen Brettern der Häuser sowie am Sprechstundenraum aus.
 
 ## Vorstand
-Die Kontaktadressen des aktuellen Vorstands finden sich im [Impressum]({{< ref "impressum.md" >}}).
+Die Kontaktadressen des aktuellen Vorstands findet sich im [Impressum]({{< ref "impressum.md" >}}).
 
 ## Satzung
 Die aktuelle Satzung des StuStaNet e.V. ist [hier einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).

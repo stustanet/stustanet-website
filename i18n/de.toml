@@ -3,3 +3,6 @@ other = "Diese Seite bearbeiten"
 
 [imprint]
 other = "Impressum"
+
+[toHomepage]
+other = "Zur Startseite"
