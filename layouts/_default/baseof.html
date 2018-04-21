@@ -26,7 +26,7 @@
     {{- end }}
     {{- end }}
   </head>
-  <body>
+  <body class="{{ .Params.Color | default "blue" }}">
     <nav id="top-bar">
       <div class="container">
         <div class="logo">
@@ -35,14 +35,15 @@
         <ul class="menu">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
-            <li><a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+            <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.URL) }} class="active"{{end}}>
+              <a class="menu-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
           {{ end }}
         </ul>
         {{ $.Scratch.Set "nav-orientation" "" }}
         {{ partial "lang-dropdown.html" . }}
       </div>
     </nav>
-
 
     <nav class="hamburger">
       <input type="checkbox" />
@@ -56,7 +57,9 @@
     <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          <li><a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.URL)}} class="active"{{end}}>
+            <a class="menu-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          </li>
         {{ end }}
         <li class="fatty"></li>
         {{ if .Site.IsMultiLingual }}
@@ -81,7 +84,7 @@
     </nav>
 
     <article>
-      <header class="{{ .Params.Color | default "blue" }}">
+      <header>
         <h1>{{ .Params.Header | default .Title }}</h1>
         {{ with .Params.SubHeader }}
         <span class="subtitle">{{.}}</span>

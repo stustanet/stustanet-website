@@ -177,11 +177,18 @@ ul.menu {
 
 ul.menu li {
     display: inline-block;
+    margin: 0;
+    padding: 0 15px;
 }
 
 ul.menu li a {
     display: inline-block;
     padding: 15px 5px;
+}
+
+.menu .active, 
+.hamburger .active {
+    background: rgba(94, 146, 189, 0.22);
 }
 
 .lang-dropdown {
@@ -339,29 +346,32 @@ header h1 {
     text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
 }
 
-.yellow {
+
+.yellow header {
     background-color: rgb(255, 232, 89);
     box-shadow: 0 0 8px 0 rgba(255, 232, 89, 0.12);
 }
-.yellow h1 {
+.yellow header h1 {
     color: black;
     text-shadow: none;
 }
-.red {
+
+.red header {
     background-color: rgb(226, 107, 68);
     box-shadow: 0 0 8px 0 rgba(226, 107, 68, 0.12);
 }
-.red h1 { color: white; }
-.green {
+.red header h1 { color: white; }
+
+.green header {
     background-color: rgb(137, 187, 79);
     box-shadow: 0 0 8px 0 rgba(137, 187, 79, 0.12);
 }
-.green h1 { color: white; }
-.blue {
+.green header h1 { color: white; }
+.blue header {
     background-color: rgb(94, 146, 189);
     box-shadow: 0 0 8px 0 rgba(94, 146, 189, 0.12);
 }
-.blue h1 { color: white; }
+.blue header h1 { color: white; }
 
 h1,
 h2,
