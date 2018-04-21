@@ -51,6 +51,7 @@ body {
     display: inline-block;
     height: 100%;
     width: 100%;
+    max-width: 180px;
     background-image: url(/logo.png);
     background-size: contain;
     background-position: left center;
@@ -327,7 +328,7 @@ nav .container {
     padding: 15px 5px 15px 25px;
 }
 
-.lang-dropdown::after { 
+.lang-dropdown::after {
     content: '▾';
 }
 
@@ -355,25 +356,25 @@ header h1 {
     text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
 }
 
-.yellow { 
+.yellow {
     background-color: rgb(255, 232, 89);
     box-shadow: 0 0 8px 0 rgba(255, 232, 89, 0.12);
 }
 .yellow h1 {
-    color: black; 
+    color: black;
     text-shadow: none;
 }
-.red { 
+.red {
     background-color: rgb(226, 107, 68);
     box-shadow: 0 0 8px 0 rgba(226, 107, 68, 0.12);
 }
 .red h1 { color: white; }
-.green { 
+.green {
     background-color: rgb(137, 187, 79);
     box-shadow: 0 0 8px 0 rgba(137, 187, 79, 0.12);
 }
 .green h1 { color: white; }
-.blue { 
+.blue {
     background-color: rgb(94, 146, 189);
     box-shadow: 0 0 8px 0 rgba(94, 146, 189, 0.12);
 }
