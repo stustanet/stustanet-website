@@ -41,6 +41,43 @@
       </div>
     </nav>
 
+
+    <nav class="hamburger">
+      <input type="checkbox" />
+
+      <div class="patty">
+        <i></i>
+        <i></i>
+        <i></i>
+      </div>
+
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          <li><a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+        {{ end }}
+        <li class="fatty"></li>
+        {{ if .Site.IsMultiLingual }}
+        {{ $lang := .Site.Language }}
+        {{ range .Site.Languages }}
+        <li>
+            {{ $translated := where $.Translations "Lang" .Lang }}
+            {{ if $translated }}
+                {{ $.Scratch.Set "url" (index $translated 0).Permalink }}
+            {{ else if eq .Lang $.Page.Lang }}
+                {{ $.Scratch.Set "url" $.Permalink }}
+            {{ else }}
+                {{ $.Scratch.Set "url" (delimit (slice "/" .) "") }}
+            {{ end }}
+            <a href="{{ $.Scratch.Get "url" }}" class="lang">
+                {{ .LanguageName }}
+            </a>
+        </li>
+        {{ end }}
+    {{ end }}
+      </ul>
+    </nav>
+
     <article>
       <header class="{{ .Params.Color | default "blue" }}">
         <h1>{{.Title}}</h1>
