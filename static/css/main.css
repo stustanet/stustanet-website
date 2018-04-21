@@ -177,16 +177,31 @@ ul.menu {
 
 ul.menu li {
     display: inline-block;
-    margin: 0;
-    padding: 0 15px;
+    margin: 0 10px 0;
+    padding: 0 5px 0;
 }
 
 ul.menu li a {
     display: inline-block;
-    padding: 15px 5px;
+    padding: 15px 5px 12px;
+    cursor: pointer;
 }
 
-.menu .active,
+.menu .active {
+    border-bottom: 3px solid #1b54ac;
+    color: #CCC;
+}
+
+.menu a:hover,
+.menu a:active,
+.menu a:focus {
+    text-decoration: none;
+}
+
+.menu li:hover {
+    border-bottom: 3px solid #1b54ac;
+}
+
 .hamburger .active {
     background: rgba(94, 146, 189, 0.22);
 }
