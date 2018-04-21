@@ -55,7 +55,7 @@
 
     <footer>
       <div class="editPage">
-        <a href="{{ .Site.Params.gitEditBaseUrl }}{{ .File.Path }}">{{ i18n "editPage" }}</a>
+        <a href="{{ .Site.Params.gitEditBaseUrl }}{{ .File.Path }}" title="{{ i18n "editPage" }}">{{ i18n "editPage" }}</a>
       </div>
       <div class="center">
         <a href="{{ ref . "impressum.md" }}">{{ i18n "imprint" }}</a>
