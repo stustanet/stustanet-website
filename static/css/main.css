@@ -352,7 +352,7 @@ header {
     max-width: 100%;
     background-image: url(/header.jpg);
     background-size: cover;
-    background-position-y: 30%;
+    background-position: 50% 10%;
     background-blend-mode: soft-light;
 }
 
@@ -360,6 +360,10 @@ header h1 {
     margin: 0 auto 15px auto;
     padding: 50px 0;
     text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
+}
+
+.big-hero header h1 {
+    padding: 125px 0;
 }
 
 
@@ -587,6 +591,10 @@ footer .lang-dropdown {
         padding: 50px 0 50px;
         font-size: 2rem;
         line-height: inherit;
+    }
+
+    .big-hero header h1 {
+        padding: 100px 0;
     }
 
     article > *,

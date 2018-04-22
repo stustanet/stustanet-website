@@ -83,8 +83,8 @@
       </ul>
     </nav>
 
-    <article>
-      <header>
+    <article{{ if .Params.Hero }} class="big-hero"{{ end }}>
+      <header{{ if .Params.HeaderImage }} style="background-image: url(/{{ .Params.HeaderImage }});"{{ end }}>
         <h1>{{ .Params.Header | default .Title }}</h1>
         {{ with .Params.SubHeader }}
         <span class="subtitle">{{.}}</span>
