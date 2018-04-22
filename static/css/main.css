@@ -362,6 +362,12 @@ header h1 {
     text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
 }
 
+.big-hero header {
+    background-position-y: 54px;
+    background-size: auto 350px;
+    background-attachment: fixed;
+}
+
 .big-hero header h1 {
     padding: 125px 0;
 }
@@ -591,6 +597,10 @@ footer .lang-dropdown {
         display: none;
     }
 
+    .big-hero header {
+        background-size: auto 250px;
+    }
+
     header h1 {
         padding: 50px 0 50px;
         font-size: 2rem;
@@ -598,6 +608,7 @@ footer .lang-dropdown {
     }
 
     .big-hero header h1 {
+        background-position: 50% 50%;
         padding: 100px 0;
     }
 
