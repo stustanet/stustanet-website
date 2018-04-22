@@ -1,6 +1,9 @@
 [activeUsers]
 other = "Active Users"
 
+[date]
+other = "Date"
+
 [editPage]
 other = "Edit this Page"
 
@@ -16,5 +19,11 @@ other = "Paid Employees"
 [servers]
 other = "Servers"
 
+[time]
+other = "Time"
+
 [toHomepage]
 other = "To Homepage"
+
+[weekday]
+other = "Weekday"

@@ -1,5 +1,29 @@
-<ul>
-{{ range getJSON "https://sprechstunden.stusta.de/appointments.json"}}
- <li>{{ dateFormat "Monday, Jan 2, 2006 15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</li>
-{{ end }}
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th>{{ i18n "weekday" }}</th>
+            <th>{{ i18n "date" }}</th>
+            <th>{{ i18n "time" }}</th>
+        </tr>
+    </thead>
+    <tbody>
+    {{ $appointments := getJSON "https://sprechstunden.stusta.de/manyappointments.json" }}
+    {{ range first 5 $appointments }}
+        <tr>
+            <td>{{ if (eq $.Site.Language.Lang "de") }}
+                {{ index $.Site.Data.DE.Wochentage (sub (time (int .start)).Weekday 1) }}
+            {{ else }}
+                {{ dateFormat "Monday" (int .start) }}
+            {{ end }}</td>
+            <td>{{ if (eq $.Site.Language.Lang "de") }}
+                {{ (time (int .start)).Day }}. {{ index $.Site.Data.DE.Monate (sub (time (int .start)).Month 1) }} {{ (time (int .start)).Year }}
+            {{ else }}
+                {{ dateFormat "January 2, 2006" (int .start) }}
+            {{ end }}</td>
+            <td>{{ dateFormat "15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</td>
+        </tr>
+    {{ end }}
+    </tbody>
+</table>
+
+

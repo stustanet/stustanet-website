@@ -1,6 +1,9 @@
 [activeUsers]
 other = "Aktive User"
 
+[date]
+other = "Datum"
+
 [editPage]
 other = "Diese Seite bearbeiten"
 
@@ -16,5 +19,11 @@ other = "Bezahlte Mitarbeiter"
 [servers]
 other = "Server"
 
+[time]
+other = "Uhrzeit"
+
 [toHomepage]
 other = "Zur Startseite"
+
+[weekday]
+other = "Wochentag"
