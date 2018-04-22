@@ -540,6 +540,16 @@ table th {
     line-height: 33px;
 }
 
+table th {
+    border-bottom: 2px solid #dee2e6;
+}
+
+table td {
+    padding: .3em 1em;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
 code {
     vertical-align: bottom;
 }
