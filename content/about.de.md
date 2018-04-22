@@ -1,6 +1,6 @@
 ---
 title: Verein
-header: StuStaNet e.V.
+header: StuStaNet e. V.
 description: Information über den StuStaNet e. V. in der Studentenstadt Freimann, München
 type: page
 color: green
@@ -28,4 +28,4 @@ Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen
 Die Kontaktadressen des aktuellen Vorstands findet sich im [Impressum]({{< ref "impressum.md" >}}).
 
 ## Satzung
-Die aktuelle Satzung des StuStaNet e.V. ist [hier einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).
+Die aktuelle Satzung des StuStaNet e. V. ist [hier einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).

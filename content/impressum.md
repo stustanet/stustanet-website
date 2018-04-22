@@ -11,11 +11,11 @@ Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.
 
 Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des Vereins StuStaNet e. V.
 
-## StuStaNet e.V.
+## StuStaNet e. V.
 Der Computernetzwerkverein in der Studentenstadt
 
 {{% dl title="Postanschrift" %}}
-StuStaNet e.V.  
+StuStaNet e. V.  
 Hans-Leipelt-Straße 7  
 80805 München  
 {{% /dl%}}

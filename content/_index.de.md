@@ -1,5 +1,5 @@
 ---
-header: StuStaNet e.V.
+header: StuStaNet e. V.
 subheader: Der gemeinnützige Internet Service Provider in der Studentenstadt Freimann
 hero: true
 headerImage: headers/home.jpg

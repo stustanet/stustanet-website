@@ -1,6 +1,6 @@
 ---
 title: About Us
-header: StuStaNet e.V.
+header: StuStaNet e. V.
 description: Information about StuStaNet in Studentenstadt Freiman, Munich, Germany
 type: page
 color: green
@@ -30,4 +30,4 @@ Residents of the Studentenstadt Freimann who would like to join the association 
 The contact details of the current board members can be found in the [imprint]({{< ref "impressum.md" >}}).
 
 ## Statute
-The current statute of the StuStaNet e.V. can be found [here](https://vereinsanzeiger.stustanet.de/satzung.pdf)[German].
+The current statute of the StuStaNet e. V. can be found [here](https://vereinsanzeiger.stustanet.de/satzung.pdf)[German].
