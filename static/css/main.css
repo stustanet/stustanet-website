@@ -355,20 +355,35 @@ header {
     background-blend-mode: soft-light;
 }
 
+header h1,
+header .subtitle,
+#stats {
+    color: #FFF;
+    text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
+}
+
 header h1 {
     margin: 0 auto 15px auto;
     padding: 50px 0;
-    text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
 }
 
 .big-hero header {
     background-position-y: 54px;
     background-size: auto 350px;
     background-attachment: fixed;
+    height: 300px;
 }
 
 .big-hero header h1 {
-    padding: 125px 0;
+    padding: 100px 0 0;
+    font-size: 2.8em;
+}
+
+header .subtitle {
+    display: inline-block;
+    width: 350px;
+    font-size: 1.1em;
+    line-height: 1.4em;
 }
 
 
@@ -403,11 +418,9 @@ header h1 {
 .blue header h1 { color: white; }
 
 #stats {
-    color: #FFF;
     position: absolute;
-    top: 50px;
+    top: 35px;
     right: 20px;
-    text-shadow: 0px 0px 1px rgba(0,0,0,0.8);
 }
 
 #stats div {
