@@ -90,14 +90,7 @@
           {{ with .Params.SubHeader }}
           <span class="subtitle">{{.}}</span>
           {{ end }}
-          {{ if .Params.HeaderStats }}
-          <div id="stats">
-            <div><i class="fa fa-users" aria-hidden="true"></i><span>2700</span>Active Users</div>
-            <div><i class="fa fa-server" aria-hidden="true"></i><span>71</span> Servers</div>
-            <div><i class="fa fa-tachometer" aria-hidden="true"></i><span>4 Gbit/s</span>Internet Connection</div>
-            <div><i class="fa fa-id-card-o" aria-hidden="true"></i><span>0</span> Paid Employees</div>
-          </div>
-          {{ end }}
+          {{ if .Params.HeaderStats }}{{ partial "header-stats.html" . }}{{ end }}
         </div>
       </header>
       <div class="container">

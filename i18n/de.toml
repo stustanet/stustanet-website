@@ -1,8 +1,20 @@
+[activeUsers]
+other = "Aktive User"
+
 [editPage]
 other = "Diese Seite bearbeiten"
 
 [imprint]
 other = "Impressum"
+
+[internetConnection]
+other = "Internetanbindung"
+
+[paidEmployees]
+other = "Bezahlte Mitarbeiter"
+
+[servers]
+other = "Server"
 
 [toHomepage]
 other = "Zur Startseite"

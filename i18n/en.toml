@@ -1,8 +1,20 @@
+[activeUsers]
+other = "Active Users"
+
 [editPage]
 other = "Edit this Page"
 
 [imprint]
 other = "Imprint"
+
+[internetConnection]
+other = "Internet Connection"
+
+[paidEmployees]
+other = "Paid Employees"
+
+[servers]
+other = "Servers"
 
 [toHomepage]
 other = "To Homepage"
