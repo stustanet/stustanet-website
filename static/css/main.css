@@ -350,7 +350,7 @@ header {
     position: relative;
     display: block;
     max-width: 100%;
-    background-image: url(/header.jpg);
+    background-image: url(/headers/default.jpg);
     background-size: cover;
     background-position: 50% 10%;
     background-blend-mode: soft-light;
@@ -376,12 +376,16 @@ header h1 {
     text-shadow: none;
 }
 
+.none header {
+    box-shadow: 0 0 8px 0 rgba(226, 107, 68, 0.12);
+}
+.none header h1 { color: white; }
+
 .red header {
     background-color: rgb(226, 107, 68);
     box-shadow: 0 0 8px 0 rgba(226, 107, 68, 0.12);
 }
 .red header h1 { color: white; }
-
 .green header {
     background-color: rgb(137, 187, 79);
     box-shadow: 0 0 8px 0 rgba(137, 187, 79, 0.12);

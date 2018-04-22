@@ -3,7 +3,8 @@ title: Mitmachen
 header: Mitmachen
 description: Mitmachen beim StuStaNet
 type: page
-color: red
+color: none
+headerImage: headers/keyboard.jpg
 ---
 
 Du möchtest wissen, wie dieses Internet in der StuSta funktioniert?

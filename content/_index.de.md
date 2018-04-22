@@ -1,7 +1,7 @@
 ---
 header: StuStaNet e.V.
 hero: true
-headerImage: header-home.jpg
+headerImage: headers/home.jpg
 ---
 
 ### Nächste Sprechstunden

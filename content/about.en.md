@@ -4,6 +4,7 @@ header: StuStaNet e.V.
 description: Information about StuStaNet in Studentenstadt Freiman, Munich, Germany
 type: page
 color: green
+headerImage: headers/mainboard.jpg
 ---
 
 ## The StuStaNet Association

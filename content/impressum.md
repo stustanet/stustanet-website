@@ -4,6 +4,7 @@ description: Impressum für stustanet.de
 type: page
 noindex: true
 color: yellow
+headerImage: headers/imprint.jpg
 ---
 
 Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.

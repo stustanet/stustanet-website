@@ -3,7 +3,8 @@ title: Participate
 header: Participate
 description: Participating at StuStaNet
 type: page
-color: red
+color: none
+headerImage: headers/keyboard.jpg
 aliases: [ "/participate/" ]
 ---
 
