@@ -14,7 +14,7 @@
                 {{ $.Scratch.Set "url" (delimit (slice "/" .) "") }}
             {{ end }}
             <a href="{{ $.Scratch.Get "url" }}" class="lang">
-                <span class="shorthand">{{ .Lang }}</span>{{ .LanguageName }}
+                <span class="shorthand" aria-hidden="true">{{ .Lang }}</span>{{ .LanguageName }}
             </a>
         </li>
         {{ end }}
