@@ -1,6 +1,7 @@
+{{ $servers := (int (index (index (index (index (getJSON "https://stustanet.de/api/servers.json") "cargoquery") 0) "title") "servers")) }}
 <div id="stats">
     <div><i class="fa fa-users" aria-hidden="true"></i><span>{{ .Site.Data.Stats.Users }}</span>{{ i18n "activeUsers" }}</div>
-    <div><i class="fa fa-server" aria-hidden="true"></i><span>{{ .Site.Data.Stats.Servers }}</span>{{ i18n "servers" }}</div>
+    <div><i class="fa fa-server" aria-hidden="true"></i><span>{{ $servers }}</span>{{ i18n "servers" }}</div>
     <div><i class="fa fa-tachometer" aria-hidden="true"></i><span>{{ .Site.Data.Stats.Internet }} Gbit/s</span>{{ i18n "internetConnection" }}</div>
     <div><i class="fa fa-id-card-o" aria-hidden="true"></i><span>0</span>{{ i18n "paidEmployees" }}</div>
 </div>
