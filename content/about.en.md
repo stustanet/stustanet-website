@@ -8,7 +8,7 @@ headerImage: headers/mainboard.jpg
 ---
 
 ## The StuStaNet Association
-The StuStaNet is an association in the [Studentenstadt Freimann](https://stusta.de/en/) that operates a computer network connecting the Studentenstadt and the dormitory [Max-Bill-Straße 67](https://max-bill.de/) to the Internet. The network is used by approximately 2,700 users.
+The StuStaNet is an association in the [Studentenstadt Freimann](https://stusta.de/en/) that operates a computer network connecting the Studentenstadt and the dormitory [Max-Bill-Straße 67](https://max-bill.de/) to the Internet. The network is used by approximately {{% users %}} users.
 
 In 1996, StuStaNet created its own network infrastructure and operated it until 1999. In November 1999, StuStaNet replaced, jointly with the [Munich student union](https://www.studentenwerk-muenchen.de/), the aging network piece by piece in order to create a fully switched LAN. In 1997, it was linked up with the Munich scientific network run by [LRZ](https://www.lrz.de/).
 
