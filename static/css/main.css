@@ -669,12 +669,12 @@ footer .lang-dropdown {
     .big-hero header h1 {
         padding: 25px 0 0;
     }
-    
+
     #stats {
         top: 25px;
         right: 0;
     }
-    
+
     #stats div {
         padding: 9px 0;
         font-size: 13px;
@@ -716,6 +716,7 @@ footer .lang-dropdown {
         white-space: nowrap;
         font-size: 12px;
         padding: 6px 0;
+        width: 50%;
     }
 
     #stats div span {
