@@ -564,6 +564,10 @@ a:hover, a:active {
     text-decoration: underline;
 }
 
+#main {
+    margin-top: 30px;
+}
+
 footer {
     background: #363636;
     flex-shrink: 0;
