@@ -15,7 +15,7 @@
             {{ else }}
                 {{ dateFormat "Monday" (int .start) }}
             {{ end }}</td>
-            <td>{{ if (eq $.Site.Language.Lang "de") }}
+            <td class="right">{{ if (eq $.Site.Language.Lang "de") }}
                 {{ (time (int .start)).Day }}. {{ index $.Site.Data.DE.Monate (sub (time (int .start)).Month 1) }} {{ (time (int .start)).Year }}
             {{ else }}
                 {{ dateFormat "January 2, 2006" (int .start) }}
