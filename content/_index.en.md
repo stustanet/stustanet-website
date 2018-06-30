@@ -21,4 +21,4 @@ You want to become a StuStaNet member in order to use our services?
 <a class="button" href="https://reg.stusta.de/">Register</a>
 
 ### Next Office Hours
-{{% officehours %}}
+{{< officehours >}}

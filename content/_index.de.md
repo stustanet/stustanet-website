@@ -21,4 +21,4 @@ Du möchtest Mitglied im StuStaNet werden um all unsere Dienste zu nutzen?
 <a class="button" href="https://reg.stusta.de/">Registrieren</a>
 
 ### Nächste Sprechstunden
-{{% officehours %}}
+{{< officehours >}}
