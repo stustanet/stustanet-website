@@ -568,6 +568,19 @@ a:hover, a:active {
     text-decoration: underline;
 }
 
+a.button {
+    display: inline-block;
+    border: 2px solid #1b54ac;
+    border-radius: 6px;
+    padding: 6px;
+}
+
+a.button:hover {
+    background-color: #1b54ac;
+    color: #fff;
+    text-decoration: none;
+}
+
 #main {
     margin-top: 30px;
 }
