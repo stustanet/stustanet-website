@@ -794,4 +794,13 @@ footer .lang-dropdown {
         width: 45px;
         height: 32px;
     }
+
+    .two-columns .column:first-child {
+        float: none;
+        width: 100%;
+    }
+
+    .two-columns .column:last-child {
+        display: none;
+    }
 }
