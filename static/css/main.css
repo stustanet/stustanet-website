@@ -445,6 +445,53 @@ header .subtitle {
     width: 200px;
 }
 
+.two-columns:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.two-columns .column:first-child {
+    float: left;
+    width: 70%;
+}
+
+.two-columns .column:last-child {
+    float: right;
+    width: 25%;
+}
+
+.two-columns .column:last-child > *:first-child {
+    margin-top: 0em;
+}
+
+.two-columns .column:last-child ul {
+    list-style: none;
+    text-indent: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.two-columns .column:last-child ul.right {
+    text-align: right;
+}
+
+.two-columns .column:last-child ul li {
+    margin: 0;
+    padding: 5px 0;
+    border-top: 1px solid #dee2e6;
+}
+
+.two-columns .column:last-child ul li:first-child {
+    border-top: none;
+}
+
+.two-columns .column:last-child ul li .fa {
+    width: 16px;
+    margin-right: 4px;
+    text-align: center;
+}
+
 h1,
 h2,
 h3,
