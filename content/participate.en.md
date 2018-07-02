@@ -34,7 +34,7 @@ Join one of the channels and just ask. There should be enough admins online to a
 
 ### Hackerspace
 
-A eye-to-eye contact is always better, so feel free to stop by at our [Hackerspace](https://wiki.stusta.de/Hackerspace).
+An eye-to-eye conversation is always better, so feel free to stop by at our [Hackerspace](https://wiki.stusta.de/Hackerspace).
 It is a place for every nerd (not only admins), who want to meet and talk about problems, exchange informations or just do nerd stuff.
 Every first Thursday in a month the [Administrator Council](https://wiki.stusta.de/Adminrat) takes place in the HaSpa.
 During the council administrators debate about the future of the network inside the StuSta.
