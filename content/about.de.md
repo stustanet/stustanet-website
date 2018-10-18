@@ -27,7 +27,7 @@ Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen
 [Hier gehts zum Aufnahmeantrag](https://reg.stusta.de/).
 
 ## Vorstand
-Die Kontaktadressen des aktuellen Vorstands findet sich im [Impressum]({{< ref "impressum.md" >}}).
+Die Kontaktadresse des aktuellen Vorstands findet sich im [Impressum]({{< ref "impressum.md" >}}).
 
 ## Satzung
-Die aktuelle Satzung des StuStaNet e. V. ist [hier einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).
+Die aktuelle Satzung des StuStaNet e. V. ist [im Vereinsanzeiger einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).
