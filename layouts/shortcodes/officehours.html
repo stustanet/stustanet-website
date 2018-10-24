@@ -2,8 +2,8 @@
     <thead>
         <tr>
             <th>{{ i18n "weekday" }}</th>
-            <th>{{ i18n "date" }}</th>
-            <th>{{ i18n "time" }}</th>
+            <th class="right">{{ i18n "date" }}</th>
+            <th class="right">{{ i18n "time" }}</th>
         </tr>
     </thead>
     <tbody>
@@ -20,7 +20,7 @@
             {{ else }}
                 {{ dateFormat "January 2, 2006" (int .start) }}
             {{ end }}</td>
-            <td>{{ dateFormat "15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</td>
+            <td class="right">{{ dateFormat "15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</td>
         </tr>
     {{ end }}
     </tbody>
