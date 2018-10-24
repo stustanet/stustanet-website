@@ -5,6 +5,7 @@ type: page
 noindex: true
 color: yellow
 headerImage: headers/imprint.jpg
+aliases: [ "/impressum/" ]
 ---
 
 Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.
@@ -15,9 +16,9 @@ Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des V
 Der Computernetzwerkverein in der Studentenstadt
 
 {{% dl title="Postanschrift" %}}
-StuStaNet e. V.  
-Hans-Leipelt-Straße 7  
-80805 München  
+StuStaNet e. V.
+Hans-Leipelt-Straße 7
+80805 München
 {{% /dl%}}
 
 {{% dl title="Telefon" %}}
@@ -34,8 +35,8 @@ Der Verein ist telefonisch nicht zu erreichen.
 
 {{% vorstand %}}
 
-**Registergericht:** Amtsgericht München  
-**Vereinsregisternummer**: 16245  
+**Registergericht:** Amtsgericht München
+**Vereinsregisternummer**: 16245
 
 ## Über diese Webseite
 

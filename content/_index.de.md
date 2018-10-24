@@ -37,7 +37,7 @@ Du möchtest Mitglied im StuStaNet werden um all unsere Dienste zu nutzen?
 
 
 ## Kontakt
-* <i class="fa fa-comments" aria-hidden="true"></i> [Impressum]({{< ref "impressum.md" >}})
+* <i class="fa fa-comments" aria-hidden="true"></i> [Impressum](/impressum)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN bei Github](https://github.com/stustanet/)
 
 

@@ -29,7 +29,7 @@ Residents of the Studentenstadt Freimann who would like to join the association 
 [You can find the application form here](https://reg.stusta.de/).
 
 ## The Board of Directors
-The contact details of the current board members can be found in the [imprint]({{< ref "impressum.md" >}}).
+The contact details of the current board members can be found in the [imprint](/impressum).
 
 ## Statute
 The current statute of the StuStaNet e. V. can be found [here](https://vereinsanzeiger.stustanet.de/satzung.pdf)[German].
