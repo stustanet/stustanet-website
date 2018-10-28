@@ -10,7 +10,7 @@ headerStats: true
 {{% two-columns %}}
 {{% column %}}
 
-StuStaNet is an association in the Studentenstadt Freimann that operates a computer network connecting the Studentenstadt as well as the dormitory Max-Bill-Straße 67 to the Internet. The network operated entirely by volunteers and has about {{< users >}} users.
+StuStaNet is an association in the Studentenstadt Freimann that operates a computer network connecting the Studentenstadt as well as the dormitory Max-Bill-Straße 67 to the Internet. The network, which is operated entirely by volunteers, has about {{< users >}} users.
 
 ## Become a Member
 
