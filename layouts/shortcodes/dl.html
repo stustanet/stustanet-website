@@ -1,6 +1,6 @@
 <dl>
     <dt>{{ .Get "title" }}</dt>
     <dd>
-        {{ .Inner }}
+        {{ replace .Inner "\n" "<br/>" | safeHTML }}
     </dd>
 </dl>

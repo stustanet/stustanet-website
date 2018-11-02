@@ -36,6 +36,7 @@ Der Verein ist telefonisch nicht zu erreichen.
 {{% vorstand %}}
 
 **Registergericht:** Amtsgericht München
+
 **Vereinsregisternummer**: 16245
 
 ## Über diese Webseite
