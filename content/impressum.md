@@ -39,6 +39,8 @@ Der Verein ist telefonisch nicht zu erreichen.
 
 **Vereinsregisternummer**: 16245
 
+**Datenschutzbeauftragter**: datenschutz[at]stustanet.de
+
 ## Über diese Webseite
 
 Bei technischen Fragen zu dieser Webseite: {{% email %}}admins[at]stustanet.de{{% /email %}}
