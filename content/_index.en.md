@@ -39,7 +39,7 @@ You want to become a StuStaNet member in order to use our services?
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
 
 ## Contact
-* <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum}})
+* <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN on Github](https://github.com/stustanet/)
 
 {{% /column %}}
