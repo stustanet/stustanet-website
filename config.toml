@@ -24,7 +24,7 @@ name = "Home"
 identifier = "home"
 url = "/de/"
 
-[[Languages.de.menu.wifi]]
+[[Languages.de.menu.main]]
 weight = 2
 name = "WLAN"
 identifier = "wifi"
