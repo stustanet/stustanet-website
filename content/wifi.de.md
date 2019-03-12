@@ -33,14 +33,7 @@ Dann auf erweiterte Optionen klicken.
 |Anonyme Identität| _leer lassen_|
 |Password| _dein Passwort (steht auf Mitgliedsausweis)_|
 
-### iOS
-TODO
-
-### Windows
-TODO
-
 ### Ubuntu
-
 |**FELD**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
