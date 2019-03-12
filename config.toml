@@ -24,14 +24,20 @@ name = "Home"
 identifier = "home"
 url = "/de/"
 
-[[Languages.de.menu.main]]
+[[Languages.de.menu.wifi]]
 weight = 2
+name = "WLAN"
+identifier = "wifi"
+url = "/de/wifi/"
+
+[[Languages.de.menu.main]]
+weight = 3
 name = "Verein"
 identifier = "about"
 url = "/de/about/"
 
 [[Languages.de.menu.main]]
-weight = 3
+weight = 4
 name = "Mitmachen"
 identifier = "participate"
 url = "/de/participate/"
@@ -49,12 +55,18 @@ url = "/en/"
 
 [[Languages.en.menu.main]]
 weight = 2
+name = "Wi-Fi"
+identifier = "wifi"
+url = "/en/wifi/"
+
+[[Languages.en.menu.main]]
+weight = 3
 name = "About Us"
 identifier = "about"
 url = "/en/about/"
 
 [[Languages.en.menu.main]]
-weight = 3
+weight = 4
 name = "Participate"
 identifier = "participate"
 url = "/en/participate/"
