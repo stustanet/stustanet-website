@@ -20,7 +20,7 @@ If you have any questions or comments you can [write us](mailto:admins@stusta.de
 ## How do I connect to the Wi-Fi?
 
 ### Android
-Goto _Settings > Wifi and choose **Stustanet**.
+Goto _Settings > Wifi_ and choose **Stustanet**.
 Then choose **more options**.
 
 |**Option**|**Value**|
@@ -33,15 +33,7 @@ Then choose **more options**.
 |anonymous identity| _leave emmpty_|
 |password| _your password (can be found on the member card)_|
 
-### iOS
-TODO
-
-### Windows
-TODO
-
 ### Ubuntu
-TODO: zeigen wie man in die Einstellungen kommt/deutsche Namen verwenden
-
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|
