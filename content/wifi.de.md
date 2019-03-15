@@ -25,20 +25,21 @@ Dann auf erweiterte Optionen klicken.
 
 |**FELD**|**Wert**|
 |--------|--------|
-|EAP-Methode| PWD|
-|Phase 2-Authentifizierung (Falls vorhanden)| Keine|
-|CA-Zertifikat| _Nichts auswählen_|
-|Nutzerzertifikat| _Nichts auswählen_|
-|Identität| _deine Vereinsnummer_|
-|Anonyme Identität| _leer lassen_|
-|Password| _dein Passwort (steht auf Mitgliedsausweis)_|
+|EAP-Methode| TTLS|
+|Phase 2-Authentifizierung (Falls vorhanden)| PAP|
+|CA-Zertifikat| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
+|Identität| [_deine Benutzname_](https://account.stustanet.de/login)|
+|Anonyme Identität| anon@stusta.net|
+|Password| [_dein Passwort_](https://account.stustanet.de/login)|
 
 ### Ubuntu
 |**FELD**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
+|Sicherheit| WPA & WPA2 Enterprise|
 |Authentication| Tunneled TLS|
-|No CA certificate is required| _Haken setzen_|
+|Anonyme Identität| anon@stusta.net|
+|CA-Zertifikat| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
 |Inner authentication| PAP|
-|Username| _deine Vereinsnummer_|
-|Password| _dein Passwort (steht auf Mitgliedsausweis)_|
+|Benutzername| [_deine Benutzname_](https://account.stustanet.de/login)|
+|Passwort| [_dein Passwort_](https://account.stustanet.de/login)|

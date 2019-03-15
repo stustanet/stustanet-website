@@ -25,20 +25,20 @@ Then choose **more options**.
 
 |**Option**|**Value**|
 |--------|--------|
-|EAP-Method| PWD|
-|Phase 2-Authentification (If required)| None|
-|CA-certificate| _choose nothing_|
-|user-certificate| _choose nothing_|
-|identity| _your membership number_|
-|anonymous identity| _leave emmpty_|
-|password| _your password (can be found on the member card)_|
+|EAP-Method| TTLS|
+|Phase 2-Authentification (If required)| PAP|
+|CA-certificate| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
+|identity| [_your username_](https://account.stustanet.de/login)|
+|anonymous identity| anon@stusta.net|
+|password| [_your password_](https://account.stustanet.de/login)|
 
 ### Ubuntu
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|
+|Security| WPA & WPA2 Enterprise|
 |Authentication| Tunneled TLS|
+|CA-Zertifikat| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
 |Inner authentication| PAP|
-|No CA certificate is required| _Haken setzen_|
-|username| _your membership number_|
-|password| _your password (can be found on the member card)_|
+|Username| [_your username_](https://account.stustanet.de/login)|
+|Password| [_your password_](https://account.stustanet.de/login)|
