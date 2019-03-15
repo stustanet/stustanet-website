@@ -25,14 +25,22 @@ Dann auf erweiterte Optionen klicken.
 
 |**FELD**|**Wert**|
 |--------|--------|
-|EAP-Methode| TTLS|
-|Phase 2-Authentifizierung (Falls vorhanden)| PAP|
-|CA-Zertifikat| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
+|EAP-Methode| PWD|
 |Identität| [_deine Benutzname_](https://account.stustanet.de/login)|
-|Anonyme Identität| anon@stusta.net|
 |Password| [_dein Passwort_](https://account.stustanet.de/login)|
 
-### Ubuntu
+
+### Linux NetworkManager 
+|**FELD**|**Wert**|
+|--------|--------|
+|SSID| StuStaNet|
+|Sicherheit| WPA & WPA2 Enterprise|
+|Authentication| PWD|
+|Benutzername| [_deine Benutzname_](https://account.stustanet.de/login)|
+|Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
+
+
+### Linux NetworkManager alternative über TTLS
 |**FELD**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
