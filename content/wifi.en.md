@@ -29,6 +29,17 @@ Then choose **more options**.
 |identity| [_your username_](https://account.stustanet.de/login)|
 |password| [_your password_](https://account.stustanet.de/login)|
 
+### Windows 10
+Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fingerprint.
+
+|**Option**|**Value**|
+|--------|--------|
+|username| [_your username_](https://account.stustanet.de/login)|
+|password| [_your password_](https://account.stustanet.de/login)|
+|Fingerprint|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
+
+
+
 ### Linux NetworkManager
 |**Option**|**Value**|
 |--------|--------|

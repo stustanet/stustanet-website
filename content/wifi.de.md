@@ -26,9 +26,18 @@ Dann auf erweiterte Optionen klicken.
 |**FELD**|**Wert**|
 |--------|--------|
 |EAP-Methode| PWD|
-|Identität| [_deine Benutzname_](https://account.stustanet.de/login)|
-|Password| [_dein Passwort_](https://account.stustanet.de/login)|
+|Identität| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
+
+### Windows 10
+WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Fingerabdruck vergleichen.
+
+|**FELD**|**Wert**|
+|--------|--------|
+|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
+|Fingerabdruck|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
 ### Linux NetworkManager 
 |**FELD**|**Wert**|
@@ -36,7 +45,7 @@ Dann auf erweiterte Optionen klicken.
 |SSID| StuStaNet|
 |Sicherheit| WPA & WPA2 Enterprise|
 |Authentication| PWD|
-|Benutzername| [_deine Benutzname_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 
@@ -49,5 +58,5 @@ Dann auf erweiterte Optionen klicken.
 |Anonyme Identität| anon@stusta.net|
 |CA-Zertifikat| [radius stusta](https://dokumente.stusta.de/zertifikate/TODO.cert.pem)|
 |Inner authentication| PAP|
-|Benutzername| [_deine Benutzname_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
