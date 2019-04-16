@@ -7,7 +7,7 @@ color: none
 headerImage: headers/wifi.jpg
 ---
 
-Seit Mai 2019 gibt es nun WLAN für alle Vereinsmitglieder.
+Ab voraussichtlich Mai 2019 gibt es WLAN für alle Vereinsmitglieder.
 Vom Atrium bis zum Brotladen ist das WLAN unter dem Namen _StuStaNet_ erreichbar.
 
 Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite.
@@ -17,7 +17,7 @@ Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [M
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
 * Mitgliedsausweis - Diesen kannst du während einer unseren [Sprechstunden](../index.html) abholen.
 
-## Wie verbinde ich mich mit dem WLAN? 
+## Wie verbinde ich mich mit dem WLAN?
 
 ### Android
 Unter _Einstellungen > WLAN_ **Stustanet** auswählen.
@@ -39,7 +39,7 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 |Fingerabdruck|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
-### Linux NetworkManager 
+### Linux NetworkManager
 |**FELD**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
