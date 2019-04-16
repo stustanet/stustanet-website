@@ -7,7 +7,7 @@ color: none
 headerImage: headers/wifi.jpg
 ---
 
-Seit April 2019 gibt es nun WLAN für alle Vereinsmitglieder.
+Seit Mai 2019 gibt es nun WLAN für alle Vereinsmitglieder.
 Vom Atrium bis zum Brotladen ist das WLAN unter dem Namen _StuStaNet_ erreichbar.
 
 Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite.

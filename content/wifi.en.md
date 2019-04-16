@@ -7,7 +7,7 @@ color: none
 headerImage: headers/wifi.jpg
 ---
 
-Since April 2019 we offer Wi-Fi for all StuStaNet members. 
+Since May 2019 we offer Wi-Fi for all StuStaNet members. 
 You can find it under the name _StuStaNet_.
 
 On this page, you will learn how to connect your device to the Wifi.
