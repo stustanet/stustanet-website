@@ -32,7 +32,7 @@ The office hours take place in Blue Building (Christoph-Probst-Straße 12) Room 
 
 
 ## Services
-* <i class="fa fa-wifi" aria-hidden="true"></i> [Wi-Fi](/en/wifi/)
+* <i class="fa fa-wifi" aria-hidden="true"></i> [Wi-Fi]({{< ref "wifi.en.md" >}})
 * <i class="fa fa-envelope" aria-hidden="true"></i> [Webmail](https://webmail.stusta.de/)
 * <i class="fa fa-cloud" aria-hidden="true"></i> [StuSta Cloud](https://cloud.stusta.de/)
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
