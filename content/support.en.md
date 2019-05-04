@@ -11,3 +11,4 @@ headerImage: headers/keyboard.jpg
 
 See https://selftest.stustanet.de
 
+This page is work-in-progress. Check back after the weekend :)
