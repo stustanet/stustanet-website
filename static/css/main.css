@@ -736,26 +736,6 @@ footer .lang-dropdown {
         padding: 25px 0 0;
     }
 
-    #stats {
-        top: 25px;
-        right: 0;
-    }
-
-    #stats div {
-        padding: 9px 0;
-        font-size: 13px;
-    }
-
-    #stats div i {
-        font-size: 32px;
-        width: 48px;
-        height: 42px;
-    }
-
-    #stats div span {
-        width: 170px;
-    }
-
     article > *,
     article .container,
     footer .container {
@@ -772,6 +752,8 @@ footer .lang-dropdown {
 
     #stats {
         position: static;
+        top: 25px;
+        right: 0;
         display: flex;
         flex-wrap: wrap;
         padding-top: 12px;
@@ -789,6 +771,12 @@ footer .lang-dropdown {
         font-size: 14px;
         width: 175px;
         margin-bottom: 4px;
+    }
+
+    #stats div i {
+        font-size: 32px;
+        width: 48px;
+        height: 42px;
     }
 
     #stats i.fa {
