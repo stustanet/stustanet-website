@@ -15,13 +15,13 @@ Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [M
 
 ## Voraussetzungen
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
-* Mitgliedsausweis - Diesen kannst du während einer unseren [Sprechstunden](../index.html) abholen.
+* Mitgliedsausweis - diesen kannst du während einer unserer [Sprechstunden](../index.html) abholen.
 
 ## Wie verbinde ich mich mit dem WLAN?
 
 ### Android
 Unter _Einstellungen > WLAN_ **Stustanet** auswählen.
-Dann auf erweiterte Optionen klicken.
+Dann auf **erweiterte Optionen** klicken.
 
 |**FELD**|**Wert**|
 |--------|--------|
