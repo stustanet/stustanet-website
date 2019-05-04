@@ -10,7 +10,7 @@ headerImage: headers/keyboard.jpg
 ## Problem (WIP)
 Du hast einen angeschlossenen StuStaNet Router.
 
-Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website `selftest.stusta.de` lädt überhaupt nicht über deinen Internetanschluss.
+Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website [selftest.stusta.de](http://selftest.stusta.de) lädt überhaupt nicht über deinen Internetanschluss.
 
 Stattdessen wird dir eine Fehlermeldung angezeigt.
 
@@ -42,7 +42,7 @@ Suche dazu in der Windows-Suche nach `cmd`.
 
 {{< figure src="/support/searchcmd.png" title="CMD Suche" height="400" >}}
 
-Tippe in dem sich öffnenden Fenster `ipconfig` ein und drücke Enter. Suche in der Ausgabe des Befehls nach der Zeile 
+Tippe in dem sich öffnenden Fenster `ipconfig` ein und drücke Enter. Suche in der Ausgabe des Befehls nach der Zeile
 
 {{< figure src="/support/ipconfigcmd.png" title="IPconig output" height="200" >}}
 
