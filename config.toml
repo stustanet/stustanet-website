@@ -26,21 +26,21 @@ url = "/de/"
 
 [[Languages.de.menu.main]]
 weight = 2
+name = "Support"
+identifier = "support"
+url = "/de/support/"
+
+[[Languages.de.menu.main]]
+weight = 3
 name = "WLAN"
 identifier = "wifi"
 url = "/de/wifi/"
 
 [[Languages.de.menu.main]]
-weight = 3
+weight = 4
 name = "Verein"
 identifier = "about"
 url = "/de/about/"
-
-[[Languages.de.menu.main]]
-weight = 4
-name = "Mitmachen"
-identifier = "participate"
-url = "/de/participate/"
 
 [Languages.en]
 weight = 2
@@ -55,18 +55,18 @@ url = "/en/"
 
 [[Languages.en.menu.main]]
 weight = 2
+name = "Support"
+identifier = "support"
+url = "/en/support/"
+
+[[Languages.en.menu.main]]
+weight = 3
 name = "Wi-Fi"
 identifier = "wifi"
 url = "/en/wifi/"
 
 [[Languages.en.menu.main]]
-weight = 3
+weight = 4
 name = "About Us"
 identifier = "about"
 url = "/en/about/"
-
-[[Languages.en.menu.main]]
-weight = 4
-name = "Participate"
-identifier = "participate"
-url = "/en/participate/"
