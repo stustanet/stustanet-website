@@ -6,9 +6,7 @@ headerImage: headers/home.jpg
 headerStats: true
 ---
 
-
-{{% two-columns %}}
-{{% column %}}
+{{% two-columns %}}{{% column %}}
 
 StuStaNet is an association in the Studentenstadt Freimann that operates a computer network connecting the Studentenstadt as well as the dormitory Max-Bill-Straße 67 to the Internet. The network, which is operated entirely by volunteers, has about {{< users >}} users.
 
@@ -30,12 +28,10 @@ The office hours take place in Blue Building (Christoph-Probst-Straße 12) Room 
 {{< officehours >}}
 
 
-{{% /column %}}
-{{% column %}}
+{{% /column %}}{{% column %}}
 
 
 ## Services
-
 * <i class="fa fa-envelope" aria-hidden="true"></i> [Webmail](https://webmail.stusta.de/)
 * <i class="fa fa-cloud" aria-hidden="true"></i> [StuSta Cloud](https://cloud.stusta.de/)
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
@@ -44,5 +40,4 @@ The office hours take place in Blue Building (Christoph-Probst-Straße 12) Room 
 * <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN on Github](https://github.com/stustanet/)
 
-{{% /column %}}
-{{% /two-columns %}}
+{{% /column %}}{{% /two-columns %}}
