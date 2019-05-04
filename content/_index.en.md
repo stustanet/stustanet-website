@@ -19,12 +19,12 @@ Membership, allowing to use all of our services, is open to all residents of the
 
 You want to become a StuStaNet member in order to use our services?
 
-The office hours take place in Blue Building (Christoph-Probst-Straße 12) Room 028.
-
 
 <a class="button" href="https://reg.stusta.de/">Register</a>
 
 ### Next Office Hours
+The office hours take place in Blue Building (Christoph-Probst-Straße 12) Room 028.
+
 {{< officehours >}}
 
 
