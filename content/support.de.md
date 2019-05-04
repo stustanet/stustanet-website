@@ -10,12 +10,16 @@ headerImage: headers/keyboard.jpg
 ## Problem (WIP)
 Du hast einen angeschlossenen StuStaNet Router.
 
-Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Websiten `neverssl.com` und `selftest.stustanet.de` laden überhaupt nicht über deinen Internetanschluss.
+Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website `selftest.stusta.de` lädt überhaupt nicht über deinen Internetanschluss.
 
 Stattdessen wird dir eine Fehlermeldung angezeigt.
 
-Beispiel:
-{{< figure src="/support/noInet1.png" title="Beispiel" height="150" >}}
+{{< figure src="/support/nointernetchrome.png" title="Beispiel Chrome" height="150" >}}
+
+oder
+
+{{< figure src="/support/nointernetfirefox.png" title="Beispiel Firefox" height="150" >}}
+
 
 Bitte führe die folgenden Schritte auf einem mit deinem Internetanschluss verbundenen Gerät aus und **nicht** über dein Smartphone.
 ***
@@ -36,10 +40,10 @@ Für Windows führe dafür den Befehl `ipconfig` in der Eingabeaufforderung aus.
 
 Suche dazu in der Windows-Suche nach `cmd`.
 
-{{< figure src="/support/SearchCMD.PNG" title="CMD Suche" height="400" >}}
+{{< figure src="/support/searchcmd.png" title="CMD Suche" height="400" >}}
 
 Tippe in dem sich öffnenden Fenster `ipconfig` ein und drücke Enter. Suche in der Ausgabe des Befehls nach der Zeile 
 
-{{< figure src="/support/IPconfig.PNG" title="IPconig output" height="200" >}}
+{{< figure src="/support/ipconfigcmd.png" title="IPconig output" height="200" >}}
 
 Unterscheidet sich die IP-Adresse rechts von `IPv4-Adresse` von `192.168.1.`**X**, wobei X eine beliebige Zahl sein kann, dann gehe zu xxxxxx.
