@@ -9,6 +9,6 @@ headerImage: headers/keyboard.jpg
 
 ## First Aid
 
-See https://selftest.stustanet.de
+See http://selftest.stustanet.de
 
 This page is work-in-progress. Check back after the weekend :)
