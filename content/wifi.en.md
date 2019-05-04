@@ -10,17 +10,17 @@ headerImage: headers/wifi.jpg
 Starting presumably in May 2019 we will offer Wi-Fi for all StuStaNet members.
 You can find it under the name _StuStaNet_.
 
-On this page, you will learn how to connect your device to the Wifi.
+On this page, you will learn how to connect your device to the Wi-Fi.
 If you have any questions or comments you can [write us](mailto:admins@stusta.de).
 
-## Prerequesites
+## Prerequisites
 * StuStaNet-Membership - More information [here](../index.html)
-* member card - Can be picked up during one of our [office hours](../index.html).
+* Member Card - Can be picked up during one of our [office hours](../index.html).
 
 ## How do I connect to the Wi-Fi?
 
 ### Android
-Goto _Settings > Wifi_ and choose **Stustanet**.
+Go to _Settings > Wifi_ and choose **Stustanet**.
 Then choose **more options**.
 
 |**Option**|**Value**|
