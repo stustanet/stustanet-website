@@ -17,7 +17,7 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest auf [selftest.stustanet.de](http://selftest.stustanet.de) zu machen ([Anleitung zum StuStaNet Selftest]({{< ref "selftestexplanation.de.md" >}})). Mit dem Ergebnis des Tests wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "/support/supportmail.de.md" >}}).
 
 ### Ich bin innerhalb der Studentenstadt umgezogen. Muss ich nochmals Mitglied werden?
-Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall eine Mail an `vorstand@stustanet.de` und gib hierbei folgende Daten an:
+Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Umzug&body=Name%3A%0AAltes%20Haus%20und%20Zimmernummer%3A%0ANeues%20Haus%20und%20Zimmernummer%3A%0AMitgliedsnummer%20(sofern%20bekannt)%3A) und gib hierbei folgende Daten an:
 
 * Name:
 * Altes Haus und Zimmernummer:
