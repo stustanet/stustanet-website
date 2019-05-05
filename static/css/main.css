@@ -514,7 +514,7 @@ h2 {
     margin-top: 2rem;
 }
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 h4 {
     font-size: 0.707rem;
@@ -526,7 +526,7 @@ h6 {
     font-size: 0.3535rem;
 }
 h2 + h3 {
-    margin-top: 0.3rem;
+    margin-top: 0.5rem;
 }
 
 article {
