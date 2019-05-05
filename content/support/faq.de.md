@@ -35,8 +35,8 @@ Q: Kann ich mich beim Stustanet einbringen?
 
 Q: Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
 
-> A: Das kann an vielen Sachen liegen. Am besten ist es hierbei einen Verbindungstest auf [selftest.stusta.de](selftest.stusta.de) zu machen. Mit dem Ergebnis des Tests wendest du dich am besten an die Hausadministratoren, entweder per Mail an admins@stusta.de oder direkt persönlich.
+> A: Das kann an vielen Sachen liegen. Am besten ist es hierbei einen Verbindungstest auf [selftest.stusta.de](selftest.stusta.de) zu machen. Mit dem Ergebnis des Tests wendest du dich am besten an die Netzwerkadministratoren, entweder per Mail an admins@stusta.de oder direkt persönlich.
 
 ## Sonstige Problemen
 
-Solltest Du trotzdem noch Probleme haben, kannst Du dich an einen unserer Hausadministratoren wenden, welche Du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Hausadministratoren") findest.
+Solltest Du trotzdem noch Probleme haben, kannst Du dich an einen unserer Netzwerkadministratoren wenden, welche Du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Netzwerkadministratoren") findest.
