@@ -11,7 +11,7 @@ Starting presumably in May 2019 we will offer Wi-Fi for all StuStaNet members.
 You can find it under the name _StuStaNet_.
 
 On this page, you will learn how to connect your device to the Wi-Fi.
-If you have any questions or comments you can [write us](mailto:admins@stusta.de).
+If you have any questions or comments you can [write us](https://stustanet.de/mail/admins).
 
 ## Prerequisites
 * StuStaNet-Membership - More information [here](../index.html)

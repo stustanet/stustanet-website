@@ -11,7 +11,7 @@ Ab voraussichtlich Mai 2019 gibt es WLAN für alle Vereinsmitglieder.
 Vom Atrium bis zum Brotladen ist das WLAN unter dem Namen _StuStaNet_ erreichbar.
 
 Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite.
-Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](mailto:admins@stusta.de) schreiben.
+Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](https://stustanet.de/mail/admins) schreiben.
 
 ## Voraussetzungen
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
