@@ -67,4 +67,4 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich im Wiki unter `https://wiki
 
 {{< figure src="/support/selftestexplanation/selftestunknown.png" title="Unbekannter Fehler" height="70" >}}
 
-Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Schau dir dazu [diese Seite]({{< ref "supportmailhowto.de.md" >}}).
+Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Schau dir dazu [diese Seite]({{< ref "/support/supportmail.de.md" >}}).
