@@ -1,7 +1,7 @@
 ---
-title: Router Probleme FAQ
-header: Router Probleme FAQ
-description: Was sollte man tun, wenn man innerhalb der Studentenstadt umgezogen ist.
+title: Frequently Answered Questions
+header: Frequently Answered Questions
+description: Antworten zu den häufigsten Fragen.
 type: page
 color: none
 headerImage: headers/keyboard.jpg
