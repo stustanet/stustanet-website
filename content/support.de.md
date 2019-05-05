@@ -9,7 +9,7 @@ headerImage: headers/keyboard.jpg
 
 ## Erste Hilfe
 
-Hallo und herzlich willkommen auf unserer Seite. Hier findest Du eine erste Hilfe für Deinen Internetzugang in der Studentenstadt. Klicke einfach auf das jeweilige Problem hier in der Liste.
+Auf dieser Seite findest Du eine erste Hilfe für Deinen Internetzugang in der Studentenstadt. Klicke einfach auf das jeweilige Problem hier in der Liste.
 
 [Internetzugang in der Studentenstadt]({{< ref "internetaccessstusta.de.md" >}})
 
@@ -27,4 +27,4 @@ Hallo und herzlich willkommen auf unserer Seite. Hier findest Du eine erste Hilf
 
 ## Sonstige Probleme
 
-Falls du dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "supportmailhowto.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Hausadministratoren wenden (Liste findest Du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Hausadministratoren")).
+Falls Du Dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "supportmailhowto.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
