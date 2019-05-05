@@ -542,6 +542,13 @@ p, ul, ol {
     margin-top: 0.5rem;
     margin-bottom: 0;
 }
+ul, ol {
+    line-height: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    padding: 0 5px;
+    list-style-position: inside;
+}
 ul li,
 ol li {
     margin-left: 0;
