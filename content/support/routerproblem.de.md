@@ -14,11 +14,11 @@ Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Inter
 
 Stattdessen wird dir eine Fehlermeldung angezeigt.
 
-{{< figure src="/support/routerproblem/nointernetchrome.png" title="Beispiel Chrome" height="150" >}}
+{{< figure src="/support/nointernetchrome.png" title="Beispiel Chrome" height="150" >}}
 
 oder
 
-{{< figure src="/support/routerproblem/nointernetfirefox.png" title="Beispiel Firefox" height="150" >}}
+{{< figure src="/support/nointernetfirefox.png" title="Beispiel Firefox" height="150" >}}
 
 
 Bitte führe die folgenden Schritte auf einem mit deinem Internetanschluss verbundenen Gerät aus und **nicht** über dein Smartphone.
