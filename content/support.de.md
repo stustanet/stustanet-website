@@ -36,23 +36,14 @@ Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Spe
 ### Kann ich den StuStaNet Router auch außerhalb der Studentenstadt verwenden?
 Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden. Allerdings müssen die Einstellungen angepasst werden, beispielsweise die Netzwerkeinstellungen.
 
-
 ### Mein Internetzugang wurde wegen Viren gesperrt. Wie werde ich wieder entsperrt?
 Voraussetzung für eine Anbindung an das Deutsche Forschungsnetz ist ein permanentes Monitoring des Netzwerks um schädliches Verhalten, wie zum Beispiel durch Computerviren, zu erkennen und zu unterbinden. Solch schädliches Verhalten kann auch durch versteckt im Hintergrund laufende Programme geschehen und ist nicht immer direkt für den Nutzer ersichtlich.<br />
 Ist eine Sperrung erfolgt, so sind die Instruktionen auf der Sperrseite zu befolgen. Nach Beseitigung des Problems erfolgt entweder nach kurzer Zeit eine automatische Entsperrung (Gelbe Sperrseite / Temporäre Sperrung), oder ist und ein Antrag auf Entsperrung an die auf der Sperrseite angegebene E-Mail-Adresse zu senden (Rote Sperrseite / Permanente Sperrung).
-
-
 
 ### Kann ich mich beim StuStaNet einbringen?
 Ja, sehr gerne. Wir freuen uns immer über Interessenten. Siehe dazu die [Infoseite über den StuStaNet e.V.]({{< ref "/about.de.md" >}}).
 
 
 ## Sonstige Probleme
-
-[Internetzugang in der Studentenstadt]({{< ref "internetaccessstusta.de.md" >}})
-
-[Anschluss wurde wegen einer Virensperrung gesperrt]({{< ref "virusblock.de.md" >}})
-
-[Routerproblem]({{< ref "routerproblem.de.md" >}})
 
 Falls Du Dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "/support/supportmail.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
