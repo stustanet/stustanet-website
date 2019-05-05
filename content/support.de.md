@@ -8,7 +8,7 @@ headerImage: headers/keyboard.jpg
 ---
 
 ## Erste Hilfe
-Auf dieser Seite findest Du eine erste Hilfe für Deinen Internetzugang in der Studentenstadt.<br />
+Auf dieser Seite findest du eine erste Hilfe für deinen Internetzugang in der Studentenstadt.<br />
 Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http://selftest.stustanet.de) weiterhelfen.
 
 ## Frequently Answered Questions
@@ -46,4 +46,4 @@ Ja, sehr gerne. Wir freuen uns immer über Interessenten. Siehe dazu die [Infose
 
 ## Sonstige Probleme
 
-Falls Du Dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "/support/supportmail.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
+Falls Du dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "/support/supportmail.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
