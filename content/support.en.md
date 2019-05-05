@@ -41,11 +41,11 @@ Yes, you can also use it outside the Studentenstadt. However, you will need to a
 
 ### My Internet access has been blocked due to viruses. How do I get it unlocked again?
 A prerequisite for a connection to the German Research Network (Deutsches Forschungsnetz) is permanent monitoring of the network to detect and prevent harmful behavior, such as computer viruses. Such malicious behavior can also be caused by hidden programs running in the background and is not always directly visible to the user.
-If a blocking has occurred, the instructions on the blocking page must be followed. Once the problem has been solved, either an automatic unblocking (Yellow blocking page / temporary block) is performed after a short time, or a request for unblocking must be sent to the e-mail address specified on the blocking page (Red blocking page / permanent block).
+If a blocking has occurred, the instructions on the blocking page must be followed. Once the problem has been solved, either an automatic unblocking (yellow blocking page / temporary block) is performed after a short time, or a request for unblocking must be sent to the e-mail address specified on the blocking page (red blocking page / permanent block).
 
 ### Can I get involved with StuStaNet?
 Yes, of course! We're always pleased about interested people. See the [information page about the StuStaNet e.V.]({{< ref "/about.en.md" >}}).
 
 
 ## Other Problems
-If you can't find your problem on the list here, you can also send a [mail to support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (only accessible within StuSta), and lists with the current network admins are displayed in every StuSta house.
+If you can't find your problem on the list here, you can also send a [mail to support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (only accessible within StuSta), and lists with the current network admins are displayed in every StuSta house.
