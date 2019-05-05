@@ -13,10 +13,6 @@ Q: Was mache ich, wenn ich innerhalb der Studentenstadt umziehe? Muss ich nochma
 
 > A: Nein, Du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall eine Mail an vorstand@stustanet.de und gib hierbei Deine neue und alte Adresse, sowie Deine Mitgliedsnummer, falls vorhanden, an.
 
-Q: Kann ich den Router, den ich habe, wieder zurückgeben?
-
-> A: Wir nehmen die Router gerne zurück, erstatten allerdings die Kosten hierfür nicht.
-
 Q: Kann ich den Router auch außerhalb der Studentenstadt verwenden?
 
 > A: Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden. Allerdings müssen die Einstellungen angepasst werden, beispielsweise die Zugangsdaten.
