@@ -25,7 +25,7 @@ Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Spe
 Ja, sehr gerne. Wir freuen uns immer über Interessenten. Frag einfach einen Admin aus deinem Haus oder komm einfach direkt beim Adminrat vorbei, welcher jeden ersten Donnerstag im Monat ab 20 Uhr im Hackerspace in Haus 10 stattfindet. Bei uns gibt es im Übrigen auch Honorarsemester zu verdienen.
 
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
-Das kann an vielen Sachen liegen. Am besten ist es hierbei einen Verbindungstest auf [selftest.stusta.de](selftest.stusta.de) zu machen. Mit dem Ergebnis des Tests wendest du dich am besten an die Netzwerkadministratoren, entweder per Mail an admins@stusta.de oder direkt persönlich.
+Das kann an vielen Sachen liegen. Am besten ist es hierbei einen Verbindungstest auf [selftest.stusta.de](http://selftest.stustanet.de) zu machen. Mit dem Ergebnis des Tests wendest du dich am besten an die Netzwerkadministratoren, entweder per Mail an admins@stusta.de oder direkt persönlich.
 
 
 ## Sonstige Problemen
