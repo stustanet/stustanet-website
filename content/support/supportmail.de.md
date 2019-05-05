@@ -13,19 +13,13 @@ Du hast ein Problem mit deinem Internetanschluss und die Anleitungen auf diesen 
 
 ## Lösung
 
-Die erste Anlaufstelle bei Internetproblemen sind die Hausadmins deines Hauses.
+Die erste Anlaufstelle bei Internetproblemen sind die Netzwerk deines Hauses.
 
-Sie wurden gewählt um den Bewohnern bei dieer Art von Problemen zu helfen und zu unterstützen. Du musst kein Mitglied beim Stustanet sein, um von uns Support zu bekommen.
+Sie wurden gewählt um den Bewohnern bei dieser Art von Problemen zu helfen und zu unterstützen. Du musst kein Mitglied beim Stustanet sein, um von uns Support zu bekommen.
 
-***
+Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Netzwerkadmin fragen, bevor du an die Support-Mailinglist schreibst.
 
-**Wichtig:** Solltest du umgezogen sein, folge bitte den Anweisungen auf [dieser Seite]({{< ref "umzughowto.de.md" >}}).
-
-***
-
-Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Hausadmin fragen, bevor du an die Support-Mailinglist schreibst.
-
-Eine Liste der aktuellen Hausadmins findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf). Diese Seite ist aus Datenschutzgründen nur von dem Stustanet-Anschluss zu erreichen. Diese Liste sollte aber auch in deinem Haus aushängen.
+Eine Liste der aktuellen Netzwerkadmins findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf). Diese Seite ist aus Datenschutzgründen nur von dem Stustanet-Anschluss zu erreichen. Diese Liste sollte aber auch in deinem Haus aushängen.
 
 Solltest du damit keinen Erfolg haben, dann kannst du auch an unsere Mailingliste schreiben.
 
@@ -42,7 +36,7 @@ Um das Problem für dich möglichst schnell zu lösen und uns viel Arbeit zu ers
 
 Für eine schnelle Lösung des Problems, füge bitte soweit relevant auch Informationen zu deinem Problem oder Setup bei.
 
-Du erreichst uns unter **Mailadresse**.
+Du erreichst uns unter `admins@stustanet.de`.
 
 
 
