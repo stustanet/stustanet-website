@@ -23,6 +23,12 @@ oder
 
 Bitte führe die folgenden Schritte auf einem mit deinem Internetanschluss verbundenen Gerät aus und **nicht** über dein Smartphone.
 ***
+
+## Wichtig:
+Hat dein Routernummer eine 5000er Routernummer, also die Nummer die auf der Rückseite des Routers auf dem StuStaNet Aufkleber nach dem #-Zeichen steht ist #5XXX (oder auf der Schachtel), dann wird das Konfigurationsskript durch das drücken der Reset-Taste mit einem spitzen Gegenstand (Stift) für mehrere Sekunden drückt.
+
+Dies trifft nur auf die Router der 5000er Reihe zu. Die Anderen werden wie in der Anleitung beschrieben mit der WPS-Taste konfiguriert.
+
 ## Tests um die Fehlerquelle zu finden:
 ### Test 1:
 Kannst du deinen Router über das Webinterface erreichen?
