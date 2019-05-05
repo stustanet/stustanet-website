@@ -544,7 +544,7 @@ p, ul, ol {
 }
 ul li,
 ol li {
-    margin-left: 25px;
+    margin-left: 0;
     line-height: 1.5rem;
 }
 ul ul,
