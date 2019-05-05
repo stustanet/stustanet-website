@@ -25,13 +25,13 @@ Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall ein
 * Mitgliedsnummer (sofern bekannt):
 
 ### Ich bin kürzlich neu eingezogen. Warum geht das Internet funktioniert plötzlich nicht mehr?
-Dieses Problem tritt häufig kurz nach dem Einzug auf. Meist war in diesem Fall dein Vormieter Mitglied im StuStaNet. In regelmäßigen Abständen werden Zugänge deaktiviert, da die Mitgliedschaft an eine Person und nicht an ein Zimmer gebunden ist. In diesem Fall kannst Du entweder den Proxy benutzen oder Mitglied des StuStaNet werden.
+Vermutlich war dein Vormieter Mitglied im StuStaNet. In regelmäßigen Abständen werden Zugänge deaktiviert, da die Mitgliedschaft an eine Person und nicht an ein Zimmer gebunden ist. In diesem Fall kannst Du entweder den Proxy benutzen oder [Mitglied des StuStaNet werden](https://reg.stustanet.de).
 
 ### Ich benötige noch Netzwerkequipment, beispielsweise ein LAN-Kabel. Bietet ihr so etwas an?
 Der StuStaNet bietet verschiedenes Netzwerkzubehör an. Mitglieder erhalten dieses zudem zu einem reduzierten Preis. Bei Interesse einfach in der Sprechstunde vorbeikommen.
 
 ### Welche weiteren Vorteile habe ich mit meiner Mitgliedschaft?
-Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Speicher, eine eigene E-Mail-Adresse, einen VPN-Service und Vieles mehr. Unter [account.stustanet.de](https://account.stustanet.de) erhältst Du einen Überblick, nachdem du deinen Mitgliedsausweis abgeholt hast.
+Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Speicher, eine eigene E-Mail-Adresse, einen VPN-Service und Vieles mehr. Im [Wiki](https://wiki.stusta.de/StuStaNet-Dienste) und unter [account.stustanet.de](https://account.stustanet.de) (nur aus dem StuStaNet erreichbar) erhältst Du einen Überblick, nachdem du deinen Mitgliedsausweis abgeholt hast.
 
 ### Kann ich den StuStaNet Router auch außerhalb der Studentenstadt verwenden?
 Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden. Allerdings müssen die Einstellungen angepasst werden, beispielsweise die Netzwerkeinstellungen.
