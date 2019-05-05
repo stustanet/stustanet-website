@@ -37,7 +37,7 @@ Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Spe
 Ja, sehr gerne. Wir freuen uns immer über Interessenten. Siehe dazu die [Infoseite über den StuStaNet e.V.]({{< ref "/about.de.md" >}}).
 
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
-Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest auf [selftest.stustanet.de](http://selftest.stustanet.de) zu machen. Mit dem Ergebnis des Tests wendest du dich am besten an die Netzwerkadministratoren, entweder per Mail an `admins@stusta.de` oder direkt persönlich.
+Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest auf [selftest.stustanet.de](http://selftest.stustanet.de) zu machen ([Anleitung zum StuStaNet Selftest]({{< ref "selftestexplanation.de.md" >}})). Mit dem Ergebnis des Tests wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "/support/supportmail.de.md" >}}).
 
 
 ## Sonstige Probleme
@@ -48,8 +48,4 @@ Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest a
 
 [Routerproblem]({{< ref "routerproblem.de.md" >}})
 
-[Umzug innerhalb der StuSta]({{< ref "umzughowto.de.md" >}})
-
-[StuStaNet Selftest Seite]({{< ref "selftestexplanation.de.md" >}})
-
-Falls Du Dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "supportmailhowto.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
+Falls Du Dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "/support/supportmail.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.html "Liste der Administratoren") (nur innerhalb der StuSta erreichbar), zudem hängen in jedem Haus der StuSta Listen mit den aktuellen Admins aus.
