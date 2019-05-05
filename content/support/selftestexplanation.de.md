@@ -7,7 +7,7 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
-Die Seite [selftest.stusta.de](http://selftest.stusta.de) führt verschiedene Checks aus um häufige Netzwerkprobleme zu erkennen.
+Die Seite [selftest.stustanet.de](http://selftest.stustanet.de) führt verschiedene Checks aus um häufige Netzwerkprobleme zu erkennen.
 
 **Es ist sehr wichtig diese Seite über deinen StuStaNet-Internetanschluss und nicht über dein Smartphone aufzurufen.**
 
@@ -41,7 +41,7 @@ Bitte schalte VPNs und Proxys (außer den Stusta-Proxy) temporär ab.
 
 ***
 
-## Fehler 3: 
+## Fehler 3:
 
 {{< figure src="/support/selftestexplanation/selftestvirus.png" title="Fehler: Virensperrung" height="70" >}}
 
@@ -67,4 +67,4 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich im Wiki unter `https://wiki
 
 {{< figure src="/support/selftestexplanation/selftestunknown.png" title="Unbekannter Fehler" height="70" >}}
 
-Bitte schicke den Log von [selftest.stusta.de](http://selftest.stusta.de). Schau dir dazu [diese Seite]({{< ref "supportmailhowto.de.md" >}}).
+Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Schau dir dazu [diese Seite]({{< ref "supportmailhowto.de.md" >}}).

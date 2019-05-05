@@ -10,7 +10,7 @@ headerImage: headers/keyboard.jpg
 ## Problem (WIP)
 Du hast einen angeschlossenen StuStaNet Router.
 
-Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website [selftest.stusta.de](http://selftest.stusta.de) lädt überhaupt nicht über deinen Internetanschluss.
+Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website [selftest.stustanet.de](http://selftest.stustanet.de) lädt überhaupt nicht über deinen Internetanschluss.
 
 Stattdessen wird dir eine Fehlermeldung angezeigt.
 

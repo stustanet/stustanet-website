@@ -38,8 +38,7 @@ Um das Problem für dich möglichst schnell zu lösen und uns viel Arbeit zu ers
 * Haus:
 * Mitgliedschaft beim Stustanet und Zahlung des Mitgliedsbeitrags:
 * Router vom Stustanet/anderer Router/kein Router
-* [selftest.stusta.de](http://selftest.stusta.de) aufgerufen?:
-* [selftest.stusta.de](http://selftest.stusta.de)Log:
+* [selftest.stustanet.de](http://selftest.stustanet.de) aufgerufen? Bitte Log einfügen:
 
 Für eine schnelle Lösung des Problems, füge bitte soweit relevant auch Informationen zu deinem Problem oder Setup bei.
 
