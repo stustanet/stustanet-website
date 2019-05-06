@@ -28,18 +28,17 @@ Die Sprechstunden finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028
 {{< officehours >}}
 
 {{% /column %}}{{% column %}}
-
+{{% flex-item %}}
 ## Dienste
 * <i class="fa fa-wifi" aria-hidden="true"></i> [WLAN]({{< ref "wifi.de.md" >}})
 * <i class="fa fa-envelope" aria-hidden="true"></i> [Webmail](https://webmail.stusta.de/)
 * <i class="fa fa-cloud" aria-hidden="true"></i> [StuSta Cloud](https://cloud.stusta.de/)
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
-
-
+{{% /flex-item %}}
+{{% flex-item %}}
 ## Kontakt
 * <i class="fa fa-comments" aria-hidden="true"></i> [Impressum](/impressum)
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN bei Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN bei Github](https://github.com/stustanet/)
-
-
+{{% /flex-item %}}
 {{% /column %}}{{% /two-columns %}}
