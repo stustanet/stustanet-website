@@ -59,7 +59,7 @@ Zur Zeit scheinst du keines von beiden zu haben.
 
 Um den Proxy korrekt einzurichten folge bitte dem Link in der Fehlermeldung.
 
-Zu den Vorteilen einer Mitgliedschaft kannst du dich im Wiki unter https://wiki.stusta.de/StuStaNet-Dienste informieren. Der für dich wahrscheinlich wichtigste Vorteil ist, dass keine Proxy-Einrichtung mehr notwendig ist.
+Zu den Vorteilen einer Mitgliedschaft kannst du dich [im Wiki](https://wiki.stusta.de/StuStaNet-Dienste) informieren. Der für dich wahrscheinlich wichtigste Vorteil ist, dass keine Proxy-Einrichtung mehr notwendig ist.
 
 ## Andere Probleme:
 

@@ -59,7 +59,7 @@ At the moment you don't seem to have either of them.
 
 To set up the proxy correctly, please follow the link in the error message.
 
-You can find out about the advantages of a membership in the Wiki at https://wiki.stusta.de/StuStaNet-Dienste. Probably the most important advantage for you is that no proxy setup is necessary anymore.
+You can find out about the advantages of a membership [in the Wiki](https://wiki.stusta.de/StuStaNet-Services). Probably the most important advantage for you is that no proxy setup is necessary anymore.
 
 ## Other Problems:
 
