@@ -1,25 +1,24 @@
  ---
 title: Support-Mail Anleitung
 header: Support-Mail Anleitung
-description: Anleitung was in eine Support-Mail sollte.
+description: Support-Mail Anleitung
 type: page
 color: none
 headerImage: headers/keyboard.jpg
 ---
 
 ## Problem
-
 Du hast ein Problem mit deinem Internetanschluss und die Anleitungen auf diesen Support-Seiten haben das Problem nicht gelöst.
 
 ## Lösung
 
-Die erste Anlaufstelle bei Internetproblemen sind die Netzwerk deines Hauses.
+Die erste Anlaufstelle bei Internetproblemen sind die Netzwerkadmins deines Hauses.
 
-Sie wurden gewählt um den Bewohnern bei dieser Art von Problemen zu helfen und zu unterstützen. Du musst kein Mitglied beim Stustanet sein, um von uns Support zu bekommen.
+Sie wurden gewählt um den Bewohnern bei dieser Art von Problemen zu helfen und zu unterstützen. Du musst kein Mitglied beim StuStaNet sein, um von uns Support zu bekommen.
 
-Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Netzwerkadmin fragen, bevor du an die Support-Mailinglist schreibst.
+Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Netzwerkadmin fragen, bevor du eine Supportmail schreibst.
 
-Eine Liste der aktuellen Netzwerkadmins findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf). Diese Seite ist aus Datenschutzgründen nur von dem Stustanet-Anschluss zu erreichen. Diese Liste sollte aber auch in deinem Haus aushängen.
+Eine Liste der aktuellen Netzwerkadmins findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf) (aus Datenschutzgründen nur aus dem StuStaNet erreichbar). Diese Liste sollte auch in deinem Haus aushängen.
 
 Solltest du damit keinen Erfolg haben, dann kannst du auch an unsere Mailingliste schreiben.
 
