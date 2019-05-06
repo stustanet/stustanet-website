@@ -461,7 +461,8 @@ header .subtitle {
     width: 25%;
 }
 
-.two-columns .column:last-child > *:first-child {
+.two-columns .column:last-child > *:first-child,
+.two-columns .column:last-child > .flex-item:first-child > * {
     margin-top: 0em;
 }
 
