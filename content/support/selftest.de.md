@@ -17,7 +17,7 @@ Die Checks werden automatisch beim Aufrufen der Seite ausgeführt und im Idealfa
 
 ***
 
-## Error 1: Page not accessible
+## Fehler 1: Seite nicht aufrufbar
 
 {{< figure src="/support/nointernetchrome.png" title="Beispiel: Chrome" height="150" >}}
 

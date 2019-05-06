@@ -17,7 +17,7 @@ The checks are performed automatically when you visit the site and ideally they 
 
 ***
 
-## Fehler 1: Seite nicht aufrufbar
+## Error 1: Page not accessible
 
 {{< figure src="/support/nointernetchrome.png" title="Example: Chrome" height="150" >}}
 
