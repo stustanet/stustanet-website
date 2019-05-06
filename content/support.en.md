@@ -14,7 +14,7 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 ## Frequently Answered Questions
 
 ### I have set up my Internet according to the instructions. But I still have no connection?
-There can be many reasons for this. It is best to do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftestexplanation.en.md" >}})). With the result of the test you [contact the network administrators by mail]({{< ref "/support/supportmail.en.md" >}}).
+There can be many reasons for this. It is best to do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators by mail]({{< ref "/support/supportmail.en.md" >}}).
 
 ### I moved within Studentenstadt. Do I have to become a member again?
 No, you don't have to become a member again. In this case, please write a mail to [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Notice%20of%20move&body=Name%3A%0AOld%20House%20and%20Room%20number%3A%0ANew%20House%20and%20Room%20number%3A%0AMember%20number%20(if%20known)%3A) and include the following data:
