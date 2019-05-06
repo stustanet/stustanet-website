@@ -27,6 +27,7 @@ Die Sprechstunden finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028
 
 {{< officehours >}}
 
+
 {{% /column %}}{{% column %}}
 {{% flex-item %}}
 ## Dienste
