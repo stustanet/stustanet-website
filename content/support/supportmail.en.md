@@ -8,7 +8,7 @@ headerImage: headers/keyboard.jpg
 ---
 
 ## Problem
-You have a problem with your Internet connection and the instructions on the support pages have not solved the problem.
+You have a problem with your Internet connection and the instructions on the support pages didn't help to solve the problem.
 
 ## Solution
 The first address for support with your Internet problems are the network admins in your house.

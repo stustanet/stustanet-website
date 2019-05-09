@@ -8,7 +8,7 @@ headerImage: headers/keyboard.jpg
 ---
 
 ## Problem
-Du hast ein Problem mit deinem Internetanschluss und die Anleitungen auf diesen Support-Seiten haben das Problem nicht gelöst.
+Du hast ein Problem mit deinem Internetanschluss und die Anleitungen auf diesen Support-Seiten haben nicht geholfen das Problem zu lösen..
 
 ## Lösung
 
