@@ -14,7 +14,7 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 ## Frequently Answered Questions
 
 ### I have set up my Internet according to the instructions. But I still have no connection?
-There can be many reasons for this. It is best to do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators by mail]({{< ref "/support/supportmail.en.md" >}}).
+There can be many reasons for this. As a first step in order to identify the problem, you should do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators]({{< ref "/support/supportmail.en.md" >}}).
 
 ### I moved within Studentenstadt. Do I have to become a member again?
 No, you don't have to become a member again. In this case, please write a mail to [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Notice%20of%20move&body=Name%3A%0AOld%20House%20and%20Room%20number%3A%0ANew%20House%20and%20Room%20number%3A%0AMember%20number%20(if%20known)%3A) and include the following data:
@@ -30,7 +30,7 @@ Probably the previous tenant of your room was a member of StuStaNet. Access is d
 
 
 ### I need network equipment, such as a LAN cable. Do you offer something like that?
-The StuStaNet offers various network accessories. Members also get this at a discounted price. If you are interested, just come to our office hours.
+The StuStaNet offers various network accessories. Members also get this at a discounted price. If you are interested, just come to our [office hours]({{< ref "_index.en.md" >}}).
 
 
 ### What other advantages do I have with my membership?
@@ -49,3 +49,5 @@ Yes, of course! We're always pleased about interested people. See the [informati
 
 ## Other Problems
 If you can't find your problem on the list here, you can also send a [mail to the support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (only accessible within Studentenstadt), and lists with the current network admins are displayed in every Studentenstadt house.
+
+Also do not hesitate to contact us, if you have improvement proposals for our service or support site.

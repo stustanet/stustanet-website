@@ -15,6 +15,9 @@ Die Checks werden automatisch beim Aufrufen der Seite ausgeführt und im Idealfa
 
 {{< figure src="/support/selftest/selftestok.png" title="Selftest OK" height="250" >}}
 
+
+Falls du Probleme hast die Seite zu verwenden oder nicht weißt was du mit den Meldungen tun sollst, schau dir bitte die folgende Liste möglicher Fehlermeldungen an.
+
 ***
 
 ## Fehler 1: Seite nicht aufrufbar
@@ -26,6 +29,8 @@ oder
 {{< figure src="/support/nointernetfirefox.png" title="Beispiel: Firefox" height="150" >}}
 
 Es liegt wahrscheinlich ein Problem mit deiner Router-Konfiguration oder deiner PC-Konfiguration vor.
+
+Solltest du das nicht lösen können, dann kontaktiere bitte die Netzwerkadmins. Eine Link dazu findest du am Ende der Seite.
 
 ***
 
@@ -43,7 +48,7 @@ Bitte schalte VPNs und Proxys temporär ab.
 
 {{< figure src="/support/selftest/selftestvirus.png" title="Fehler: Virensperrung" height="70" >}}
 
-Du wurdest virengesperrt. Dies kann mehrere Ursachen haben.
+Du wurdest virengesperrt. Dies kann mehrere Ursachen haben. Für die Gründe warum wir Virensperrungen durchführen müssen, sieh dir bitte die [FAQ]({{< ref "_index.de.md" >}}) an.
 
 Bitte folge dem in der Fehlermeldung angezeigten Link und folge den angezeigten Schritten, um die Sperrung wieder aufzuheben.
 
@@ -66,3 +71,5 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich [im Wiki](https://wiki.stus
 {{< figure src="/support/selftest/selftestunknown.png" title="Unbekannter Fehler" height="70" >}}
 
 Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Siehe dazu die Seite [Supportmail]({{< ref "/support/supportmail.de.md" >}}).
+
+Falls du Verbesserungsvorschläge für die Support-Seite oder unsere Services hast, zögere nicht uns eine Mail zu schreiben.

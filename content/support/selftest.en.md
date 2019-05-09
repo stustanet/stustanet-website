@@ -15,6 +15,8 @@ The checks are performed automatically when you visit the site and ideally they 
 
 {{< figure src="/support/selftest/selftestok.png" title="Selftest OK" height="250" >}}
 
+If you have problems with the site or if you are unsure what to do with the resulting message, please have a look at the following potential errors.
+
 ***
 
 ## Error 1: Page not accessible
@@ -27,13 +29,15 @@ oder
 
 There is probably a problem with your router configuration or your PC configuration.
 
+If you are not able to solve this yourself, please contact the network admins. Just follow the instructions on the link at the end of the page.
+
 ***
 
 ## Error 2: External IP
 
 {{< figure src="/support/selftest/selftestextern.png" title="Error: External IP" height="300" >}}
 
-Make sure you access the page from the network port in your room, not your smartphone.
+Make sure you access the page from the network port in your room and not your smartphone.
 
 Please temporarily disable VPNs and proxies.
 
@@ -43,7 +47,7 @@ Please temporarily disable VPNs and proxies.
 
 {{< figure src="/support/selftest/selftestvirus.png" title="Error: Virus Blocked" height="70" >}}
 
-You've been virus-blocked. This can have several reasons.
+You've been virus-blocked. This can have several reasons. For the reasons why we have to block, if we suspect there might be a virus infection, take a look at the [faq]({{< ref "_index.en.md" >}}).
 
 Please follow the link shown in the error message and follow the steps shown to get unblocked.
 
