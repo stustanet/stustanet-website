@@ -48,4 +48,4 @@ Yes, of course! We're always pleased about interested people. See the [informati
 
 
 ## Other Problems
-If you can't find your problem on the list here, you can also send a [mail to the support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (only accessible within StuSta), and lists with the current network admins are displayed in every StuSta house.
+If you can't find your problem on the list here, you can also send a [mail to the support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (only accessible within Studentenstadt), and lists with the current network admins are displayed in every Studentenstadt house.
