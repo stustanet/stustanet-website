@@ -55,7 +55,7 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |SSID| StuStaNet|
 |Security| WPA & WPA2 Enterprise|
 |Authentication| Tunneled TLS|
-|CA-Zertifikat| [radius stusta](/wifi/wifi.stusta.pem)|
+|CA-Zertifikat| [radius stusta](/wifi.stusta.pem)|
 |Inner authentication| PAP|
 |Username| [_your username_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
