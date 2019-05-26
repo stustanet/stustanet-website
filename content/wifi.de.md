@@ -56,7 +56,7 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Sicherheit| WPA & WPA2 Enterprise|
 |Authentication| Tunneled TLS|
 |Anonyme Identität| anon@stusta.net|
-|CA-Zertifikat| [radius stusta](wifi.stusta.pem)|
+|CA-Zertifikat| [radius stusta](/wifi/wifi.stusta.pem)|
 |Inner authentication| PAP|
 |Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
