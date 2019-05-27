@@ -31,7 +31,7 @@ Vermutlich war dein Vormieter Mitglied im StuStaNet. In regelmäßigen Abstände
 Der StuStaNet bietet verschiedenes Netzwerkzubehör an. Mitglieder erhalten dieses zudem zu einem reduzierten Preis. Bei Interesse einfach in der [Sprechstunde]({{< ref "_index.de.md" >}}) vorbeikommen.
 
 ### Welche weiteren Vorteile habe ich mit meiner Mitgliedschaft?
-Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Speicher, eine eigene E-Mail-Adresse, einen VPN-Service und Vieles mehr. Im [Wiki](https://wiki.stusta.de/StuStaNet-Dienste) und unter [account.stustanet.de](https://account.stustanet.de) (nur aus dem StuStaNet erreichbar) erhältst Du einen Überblick, nachdem du deinen Mitgliedsausweis abgeholt hast.
+Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Speicher, eine eigene E-Mail-Adresse und vieles mehr. Im [Wiki](https://wiki.stusta.de/StuStaNet-Dienste) und unter [account.stustanet.de](https://account.stustanet.de) (nur aus dem StuStaNet erreichbar) erhältst Du einen Überblick, nachdem du deinen Mitgliedsausweis abgeholt hast.
 
 ### Kann ich den StuStaNet Router auch außerhalb der Studentenstadt verwenden?
 Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden. Allerdings müssen die Einstellungen angepasst werden, beispielsweise die Netzwerkeinstellungen.
