@@ -38,8 +38,6 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |password| [_your password_](https://account.stustanet.de/login)|
 |Fingerprint|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
-
-
 ### Linux NetworkManager
 |**Option**|**Value**|
 |--------|--------|
@@ -55,7 +53,16 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |SSID| StuStaNet|
 |Security| WPA & WPA2 Enterprise|
 |Authentication| Tunneled TLS|
-|CA-Zertifikat| [radius stusta](/wifi.stusta.pem)|
+|CA-Certifikate| [radius stusta](/wifi/StuStaNet-wifi.stusta.pem)|
 |Inner authentication| PAP|
 |Username| [_your username_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
+
+### MacOS via Networkiprofile
+|**Option**|**Value**|
+|--------|--------|
+|SSID| StuStaNet|
+|Networkprofile| [StuStaNet.mobileconfig](/wifi/StuStaNet.mobileconfig)|
+|Username| [_your username_](https://account.stustanet.de/login)|
+|Password| [_your password_](https://account.stustanet.de/login)|
+
