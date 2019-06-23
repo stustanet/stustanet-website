@@ -7,11 +7,9 @@ color: none
 headerImage: headers/wifi.jpg
 ---
 
-Starting presumably in May 2019 we will offer Wi-Fi for all StuStaNet members.
-You can find it under the name _StuStaNet_.
+In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNet members. On this page, you will learn how to connect your device to the Wi-Fi. If you have any questions or comments you can [write us](https://stustanet.de/mail/admins).
 
-On this page, you will learn how to connect your device to the Wi-Fi.
-If you have any questions or comments you can [write us](https://stustanet.de/mail/admins).
+<span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">StuStaNet Wi-Fi is under development. Expect downtime. Settings may change.</span>
 
 ## Prerequisites
 * StuStaNet-Membership - More information [here](../index.html)
@@ -26,7 +24,7 @@ Then choose **more options**.
 |**Option**|**Value**|
 |--------|--------|
 |EAP-Method| PWD|
-|identity| [_your username_](https://account.stustanet.de/login)|
+|identity| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |password| [_your password_](https://account.stustanet.de/login)|
 
 ### Windows 10
@@ -34,7 +32,7 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 
 |**Option**|**Value**|
 |--------|--------|
-|username| [_your username_](https://account.stustanet.de/login)|
+|username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |password| [_your password_](https://account.stustanet.de/login)|
 |Fingerprint|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
@@ -44,7 +42,7 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |SSID| StuStaNet|
 |Security| WPA & WPA2 Enterprise|
 |Authentication| PWD|
-|Username| [_your username_](https://account.stustanet.de/login)|
+|Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 
 ### Linux NetworkManager alternative via TTLS
@@ -56,7 +54,7 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |Anonymous identity| anon@stusta.net|
 |CA-Certifikate| [radius stusta](/wifi/StuStaNet-wifi.stusta.pem)|
 |Inner authentication| PAP|
-|Username| [_your username_](https://account.stustanet.de/login)|
+|Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 
 ### MacOS via Networkprofile
@@ -64,6 +62,6 @@ Select WiFi **Stustanet**. Click on **Certificate details** and compare the Fing
 |--------|--------|
 |SSID| StuStaNet|
 |Networkprofile| [StuStaNet.mobileconfig](/wifi/StuStaNet.mobileconfig)|
-|Username| [_your username_](https://account.stustanet.de/login)|
+|Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 

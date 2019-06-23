@@ -6,12 +6,9 @@ type: page
 color: none
 headerImage: headers/wifi.jpg
 ---
+In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-LAN "StuStaNet". Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite. Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](https://stustanet.de/mail/admins) schreiben.
 
-Ab voraussichtlich Mai 2019 gibt es WLAN für alle Vereinsmitglieder.
-Vom Atrium bis zum Brotladen ist das WLAN unter dem Namen _StuStaNet_ erreichbar.
-
-Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite.
-Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](https://stustanet.de/mail/admins) schreiben.
+<span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">Das StuStaNet W-LAN befindet sich in der Testphase. Erwarte Verfügbarkeitprobleme. Einstellungen können sich ändern.</span>
 
 ## Voraussetzungen
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
@@ -26,7 +23,7 @@ Dann auf **erweiterte Optionen** klicken.
 |**Feld**|**Wert**|
 |--------|--------|
 |EAP-Methode| PWD|
-|Identität| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Identität| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 
@@ -35,7 +32,7 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 
 |**Feld**|**Wert**|
 |--------|--------|
-|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 |Fingerabdruck|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
@@ -45,7 +42,7 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |SSID| StuStaNet|
 |Sicherheit| WPA & WPA2 Enterprise|
 |Authentication| PWD|
-|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 
@@ -58,7 +55,7 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Anonyme Identität| anon@stusta.net|
 |CA-Zertifikat| [radius StuStaNet](/wifi/StuStaNet-wifi.stusta.pem)|
 |Inner authentication| PAP|
-|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 ### MacOS via Netzwerkprofil
@@ -66,5 +63,5 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |--------|--------|
 |SSID| StuStaNet|
 |Netzwerkprofil| [StuStaNet.mobileconfig](/wifi/StuStaNet.mobileconfig)|
-|Benutzername| [_dein Benutzername_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername@stusta.de@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
