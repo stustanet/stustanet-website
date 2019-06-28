@@ -15,13 +15,13 @@ Der Verein stellt in Zusammenarbeit mit dem Studentenwerk München allen Bewohne
 
 
 ## Mitgestaltung
-Du möchtest wissen, wie dieses Internet in der StuSta funktioniert?
-Oder wolltest du einfach schon immer mal einen Server, der von über {{% users %}} Leuten aktiv verwendet wird, betreuen?
-Fehlt Dir ein Dienst oder funktioniert ein vorhandener Service nicht so, wie du es willst?
+Du möchtest wissen, wie das Internet in der StuSta funktioniert?
+Oder wolltest du einfach schon immer mal Netzwerkinfrastruktur, die von über {{% users %}} Personen aktiv verwendet wird, betreuen?
+Fehlt dir ein Dienst oder funktioniert ein vorhandener Service nicht so, wie du es willst?
 
 Dann bist du bei uns genau richtig! Schau vorbei und mach mit!
 
-Egal, ob du schon seit Jahren deinen eigenen Server betreust oder noch überhaupt keine Ahnung hast, bist du bei uns willkommen. Deine Motivation und Geduld ist wichtiger als deine Wissen!
+Egal, ob du schon seit Jahren deinen eigenen Server betreust oder noch überhaupt keine Ahnung hast, bist du bei uns willkommen. Deine Motivation und Geduld ist wichtiger als dein Wissen!
 
 
 ## Beitritt
