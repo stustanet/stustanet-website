@@ -38,6 +38,7 @@ The office hours take place in the Blue Building (Christoph-Probst-Straße 12), 
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Contact
+* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.en.md" >}})
 * <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum)
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN on Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN on Github](https://github.com/stustanet/)

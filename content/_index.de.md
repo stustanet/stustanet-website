@@ -38,6 +38,7 @@ Die Sprechstunden finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Kontakt
+* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.de.md" >}})
 * <i class="fa fa-comments" aria-hidden="true"></i> [Impressum](/impressum)
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN bei Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN bei Github](https://github.com/stustanet/)
