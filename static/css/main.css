@@ -824,4 +824,8 @@ footer .lang-dropdown {
     .two-columns .flex-item:last-child {
         margin-left: 1.5rem;
     }
+
+    .two-columns .flex-item h2 {
+        margin-top: 0;
+    }
 }
