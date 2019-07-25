@@ -18,7 +18,7 @@ In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNe
 ## How do I connect to the Wi-Fi?
 
 ### Android
-Go to _Settings > Wifi_ and choose **Stustanet**.
+Go to _Settings > Wifi_ and choose **StuStaNet**.
 Then choose **more options**.
 
 |**Option**|**Value**|
