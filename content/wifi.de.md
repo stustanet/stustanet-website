@@ -17,7 +17,7 @@ In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-
 ## Wie verbinde ich mich mit dem WLAN?
 
 ### Android
-Unter _Einstellungen > WLAN_ **Stustanet** auswählen.
+Unter _Einstellungen > WLAN_ **StuStaNet** auswählen.
 Dann auf **erweiterte Optionen** klicken.
 
 |**Feld**|**Wert**|
