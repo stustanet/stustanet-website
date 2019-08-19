@@ -63,5 +63,5 @@ WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |--------|--------|
 |SSID| StuStaNet|
 |Netzwerkprofil| [StuStaNet.mobileconfig](/wifi/StuStaNet.mobileconfig)|
-|Benutzername| [_dein Benutzername@stusta.de@stusta.de_](https://account.stustanet.de/login)|
+|Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
