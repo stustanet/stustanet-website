@@ -4,6 +4,7 @@ header: StuStaNet Goes WLAN
 description: WLAN in der StuSta
 type: page
 color: none
+class: wifi
 headerImage: headers/wifi.jpg
 ---
 

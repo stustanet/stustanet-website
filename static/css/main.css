@@ -602,6 +602,10 @@ table th {
     text-align: left;
 }
 
+.wifi table th:first-child {
+    width: 10em;
+}
+
 table td {
     vertical-align: top;
     border-top: 1px solid #dee2e6;
@@ -827,5 +831,9 @@ footer .lang-dropdown {
 
     .two-columns .flex-item h2 {
         margin-top: 0;
+    }
+
+    .wifi table th:first-child {
+        width: 8em;
     }
 }
