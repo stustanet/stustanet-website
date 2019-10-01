@@ -28,7 +28,7 @@ Dann auf **erweiterte Optionen** klicken.
 
 
 ### Windows 10
-WLAN **Stustanet** auswählen. Auf **Zertifikatdetails** klicken und  den Fingerabdruck vergleichen.
+WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Fingerabdruck vergleichen.
 
 |**Feld**|**Wert**|
 |--------|--------|
