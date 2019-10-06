@@ -13,7 +13,7 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 
 <a class="button" href="http://selftest.stustanet.de/">Connectivity Selftest</a>
 
-## Frequently Answered Questions
+## Frequently Answered Questions {#faq}
 
 ### I have set up my Internet according to the instructions. But I still have no connection?
 There can be many reasons for this. As a first step in order to identify the problem, you should do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators]({{< ref "/support/supportmail.en.md" >}}).
