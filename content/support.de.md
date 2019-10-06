@@ -11,6 +11,8 @@ headerImage: headers/keyboard.jpg
 Auf dieser Seite findest du eine erste Hilfe für deinen Internetzugang in der Studentenstadt.<br />
 Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http://selftest.stustanet.de) weiterhelfen.
 
+<a class="button" href="https://http://selftest.stustanet.de//">Connectivity Selftest</a>
+
 ## Frequently Answered Questions
 
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
