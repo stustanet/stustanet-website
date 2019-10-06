@@ -11,7 +11,7 @@ headerImage: headers/keyboard.jpg
 On this page you can find first aid for your Internet access in the Studentenstadt.<br />
 For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftest.stustanet.de) can help.
 
-<a class="button" href="https://http://selftest.stustanet.de//">Connectivity Selftest</a>
+<a class="button" href="http://selftest.stustanet.de/">Connectivity Selftest</a>
 
 ## Frequently Answered Questions
 
