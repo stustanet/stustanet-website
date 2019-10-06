@@ -35,3 +35,5 @@ In order to solve the problem for you as fast as possible and to save us a lot o
 For a quick solution to the problem, please include relevant information about your problem or setup.
 
 You can reach us at [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A).
+
+<a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A">Send eMail</a>
