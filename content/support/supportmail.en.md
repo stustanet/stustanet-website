@@ -17,7 +17,11 @@ They were elected to help and support the residents with these types of problems
 
 Problems with your PC or Internet connection can often be solved much faster in-person. You should first ask a network administrator for help before writing a support mail.
 
-A list of current network admins can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf) (only accessible from within the StuStaNet for privacy reasons). This list should also be posted in your house.
+A list of current network admins can be found here:
+
+<a class="button" href="https://dokumente.stusta.de/adminliste/adminliste.pdf">List of Networkadmins</a>
+
+(only accessible from within the StuStaNet for privacy reasons). This list should also be posted in your house.
 
 If the problem persists, please send an email to the support mailinglist.
 

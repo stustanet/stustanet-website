@@ -18,7 +18,11 @@ Sie wurden gewählt um den Bewohnern bei dieser Art von Problemen zu helfen und 
 
 Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Netzwerkadmin fragen, bevor du eine Supportmail schreibst.
 
-Eine Liste der aktuellen Netzwerkadmins findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf) (aus Datenschutzgründen nur aus dem StuStaNet erreichbar). Diese Liste sollte auch in deinem Haus aushängen.
+Eine Liste der aktuellen Netzwerkadmins findest du hier:
+
+<a class="button" href="https://dokumente.stusta.de/adminliste/adminliste.pdf">Liste der Netzwerkadmins</a>
+
+(aus Datenschutzgründen nur aus dem StuStaNet erreichbar). Diese Liste sollte auch in deinem Haus aushängen.
 
 Solltest du damit keinen Erfolg haben, dann kannst du auch an unsere Mailingliste schreiben.
 
