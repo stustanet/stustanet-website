@@ -14,7 +14,7 @@ In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNe
 
 <div class="callout callout-default">
     <h3>Wi-Fi for your room</h3>
-    <img src="/router.jpg" class="router">
+    <img src="/figures/router_m.jpg" class="router">
     <p>Outdoor Wi-Fi is great, but Wi-Fi in your own room would be even better?</p>
     <p>Meet the StuStaNet Wi-Fi Router!</p>
     <ul>

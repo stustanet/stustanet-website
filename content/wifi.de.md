@@ -13,7 +13,7 @@ In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-
 
 <div class="callout callout-default">
     <h3>WLAN fürs eigene Zimmer</h3>
-    <img src="/router.jpg" class="router">
+    <img src="/figures/router_m.jpg" class="router">
     <p>Außen-WLAN ist toll, aber WLAN im eigenen Zimmer wäre noch besser?</p>
     <p>Wir stellen vor: Der StuStaNet WLAN Router!</p>
     <ul>

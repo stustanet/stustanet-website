@@ -10,7 +10,7 @@ headerImage: headers/keyboard.jpg
 
 <div class="callout callout-default">
     <h3>Wi-Fi for your room</h3>
-    <img src="/router.jpg" class="router small">
+    <img src="/figures/router_m.jpg" class="router small">
     <p>Meet the StuStaNet Wi-Fi Router!</p>
     <ul>
         <li><i class="fa fa-check" aria-hidden="true"></i>Plug & Play: Connect and done.</li>
