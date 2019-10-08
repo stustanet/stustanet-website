@@ -5,7 +5,7 @@ description: WLAN in der StuSta
 type: page
 color: none
 class: wifi
-headerImage: headers/wifi.jpg
+headerImage: headers/outdoor.jpg
 ---
 
 In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNet members. On this page, you will learn how to connect your device to the Wi-Fi. If you have any questions or comments you can [write us](https://stustanet.de/mail/admins).

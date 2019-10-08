@@ -5,7 +5,7 @@ description: WLAN in der StuSta
 type: page
 color: none
 class: wifi
-headerImage: headers/wifi.jpg
+headerImage: headers/outdoor.jpg
 ---
 In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-LAN "StuStaNet". Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite. Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](https://stustanet.de/mail/admins) schreiben.
 
