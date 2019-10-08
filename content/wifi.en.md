@@ -12,13 +12,27 @@ In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNe
 
 <span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">StuStaNet Wi-Fi is under development. Expect downtime. Settings may change.</span>
 
+<div class="callout callout-default">
+    <h3>Wi-Fi for your room</h3>
+    <img src="/router.jpg" class="router">
+    <p>Outdoor Wi-Fi is great, but Wi-Fi in your own room would be even better?</p>
+    <p>Meet the StuStaNet Wi-Fi Router!</p>
+    <ul>
+        <li><i class="fa fa-check" aria-hidden="true"></i>Plug & Play: Connect and done.</li>
+        <li><i class="fa fa-heart" aria-hidden="true"></i>Our software does all the configuration automatically!</li>
+        <li><i class="fa fa-tachometer" aria-hidden="true"></i>450Mbit/s WLAN (IEEE 802.11b/g/n)</li>
+        <li><i class="fa fa-euro" aria-hidden="true"></i>Sold at cost price. For members only.</li>
+    </ul>
+    <p><b>Available in our <a href="{{< ref "/#next-office-hours" >}}">office hours</a>.</b></p>
+</div>
+
 ## Prerequisites
-* StuStaNet-Membership - More information [here](../index.html)
-* Member Card - Can be picked up during one of our [office hours](../index.html).
+* StuStaNet-Membership - More information [here](../)
+* Member Card - Can be picked up during one of our [office hours](../).
 
 ## How do I connect to the Wi-Fi?
 
-### Android
+### <i class="fa fa-android"></i> Android {#android}
 Go to _Settings > Wifi_ and choose **StuStaNet**.
 Then choose **more options**.
 
@@ -28,7 +42,7 @@ Then choose **more options**.
 |Identity| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 
-### Windows 10
+### <i class="fa fa-windows"></i> Windows 10 {#windows-10}
 Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fingerprint.
 
 |**Option**|**Value**|
@@ -37,7 +51,7 @@ Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fing
 |Password| [_your password_](https://account.stustanet.de/login)|
 |Fingerprint|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
-### Linux NetworkManager
+### <i class="fa fa-linux"></i> Linux NetworkManager {#linux-networkmanager}
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|
@@ -46,7 +60,7 @@ Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fing
 |Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 
-### Linux NetworkManager alternative via TTLS
+### <i class="fa fa-linux"></i> Linux NetworkManager Alternative via TTLS {#linux-networkmanager-alternative-via-ttls}
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|
@@ -58,7 +72,7 @@ Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fing
 |Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
 
-### MacOS via Networkprofile
+### <i class="fa fa-apple"></i> MacOS via Networkprofile {#macos-via-networkprofile}
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|

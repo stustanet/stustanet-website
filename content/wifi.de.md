@@ -11,6 +11,20 @@ In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-
 
 <span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">Das StuStaNet W-LAN befindet sich in der Testphase. Erwarte Verfügbarkeitprobleme. Einstellungen können sich ändern.</span>
 
+<div class="callout callout-default">
+    <h3>WLAN fürs eigene Zimmer</h3>
+    <img src="/router.jpg" class="router">
+    <p>Außen-WLAN ist toll, aber WLAN im eigenen Zimmer wäre noch besser?</p>
+    <p>Wir stellen vor: Der StuStaNet WLAN Router!</p>
+    <ul>
+        <li><i class="fa fa-check" aria-hidden="true"></i>Plug & Play: Anschließen und fertig.</li>
+        <li><i class="fa fa-heart" aria-hidden="true"></i>Unsere Software konfiguriert sich komplett automatisch!</li>
+        <li><i class="fa fa-tachometer" aria-hidden="true"></i>450Mbit/s WLAN (IEEE 802.11b/g/n)</li>
+        <li><i class="fa fa-euro" aria-hidden="true"></i>Verkauft zum Selbstkostenpreis. Nur für Mitglieder.</li>
+    </ul>
+    <p><b>Verfügbar in unseren <a href="{{< ref "/#nächste-sprechstunden" >}}">Sprechstunden</a>.</b></p>
+</div>
+
 ## Voraussetzungen
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
 * Mitgliedsausweis - diesen kannst du während einer unserer [Sprechstunden](../index.html) abholen.
