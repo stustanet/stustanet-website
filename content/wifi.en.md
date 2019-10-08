@@ -23,12 +23,12 @@ In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNe
         <li><i class="fa fa-tachometer" aria-hidden="true"></i>450Mbit/s WLAN (IEEE 802.11b/g/n)</li>
         <li><i class="fa fa-euro" aria-hidden="true"></i>Sold at cost price. For members only.</li>
     </ul>
-    <p><b>Available in our <a href="{{< ref "/#next-office-hours" >}}">office hours</a>.</b></p>
+    <p><b>Available in our <a href="{{< ref "officehours.en.md" >}}">office hours</a>.</b></p>
 </div>
 
 ## Prerequisites
-* StuStaNet-Membership - More information [here](../)
-* Member Card - Can be picked up during one of our [office hours](../).
+* StuStaNet-Membership - More information [here](/)
+* Member Card - Can be picked up during one of our [office hours]({{< ref "officehours.en.md" >}}).
 
 ## How do I connect to the Wi-Fi?
 

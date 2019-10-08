@@ -24,9 +24,7 @@ It doesn't matter if you have your own server, that you administrate, or if you 
 
 
 ## Membership
-Residents of the Studentenstadt Freimann who would like to join the association must fill out a [membership application form](https://reg.stusta.de/), which they can obtain within our office hours in the Blue House. This is where residents go to for more information regarding the StuStaNet association or for any problems they are experiencing with the LAN. Our office hours are posted in every house on the notice board.
-
-[You can find the application form here](https://reg.stusta.de/).
+Residents of the Studentenstadt Freimann who would like to join the association must fill out a [membership application form](https://reg.stusta.de/), which they can obtain within our [office hours]({{< ref "officehours.en.md" >}}).
 
 
 ## History

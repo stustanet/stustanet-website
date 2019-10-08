@@ -672,6 +672,9 @@ a.button:hover {
     max-width: 40%;
     float: right;
 }
+.callout img.router.small {
+    max-width: 33%;
+}
 .callout ul {
     list-style-position: outside;
 }

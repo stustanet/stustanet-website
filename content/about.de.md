@@ -25,9 +25,7 @@ Egal, ob du schon seit Jahren deinen eigenen Server betreust oder noch überhaup
 
 
 ## Beitritt
-Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen [Aufnahmeantrag](https://reg.stusta.de/) ausfüllen, den sie in der Sprechstunde des Vereins erhalten und abgeben können. Die Sprechstunde im Vereinsbüro im Blauen Haus (Zimmer 028) ist auch erste Anlaufstelle für weitere Informationen zum Verein und bei Problemen mit dem wohnheimweiten LAN. Die Sprechzeiten hängen an den schwarzen Brettern der Häuser sowie am Sprechstundenraum aus.
-
-[Hier gehts zum Aufnahmeantrag](https://reg.stusta.de/).
+Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen [Aufnahmeantrag](https://reg.stusta.de/) ausfüllen, den sie in der [Sprechstunde]({{< ref "officehours.de.md" >}}) des Vereins erhalten und abgeben können.
 
 
 ## Geschichte

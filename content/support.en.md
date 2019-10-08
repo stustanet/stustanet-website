@@ -32,7 +32,7 @@ Probably the previous tenant of your room was a member of StuStaNet. Access is d
 
 
 ### I need network equipment, such as a LAN cable. Do you offer something like that?
-The StuStaNet offers various network accessories. Members also get this at a discounted price. If you are interested, just come to our [office hours]({{< ref "/#next-office-hours" >}}).
+The StuStaNet offers various network accessories. Members also get this at a discounted price. If you are interested, just come to our [office hours]({{< ref "officehours.en.md" >}}).
 
 
 ### What other advantages do I have with my membership?

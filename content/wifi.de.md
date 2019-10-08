@@ -22,12 +22,12 @@ In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-
         <li><i class="fa fa-tachometer" aria-hidden="true"></i>450Mbit/s WLAN (IEEE 802.11b/g/n)</li>
         <li><i class="fa fa-euro" aria-hidden="true"></i>Verkauft zum Selbstkostenpreis. Nur für Mitglieder.</li>
     </ul>
-    <p><b>Verfügbar in unseren <a href="{{< ref "/#nächste-sprechstunden" >}}">Sprechstunden</a>.</b></p>
+    <p><b>Verfügbar in unseren <a href="{{< ref "officehours.de.md" >}}">Sprechstunden</a>.</b></p>
 </div>
 
 ## Voraussetzungen
-* StuStaNet-Vereinsmitgliedschaft - Siehe [hier](../index.html)
-* Mitgliedsausweis - diesen kannst du während einer unserer [Sprechstunden](../index.html) abholen.
+* StuStaNet-Vereinsmitgliedschaft - Siehe [hier](/)
+* Mitgliedsausweis - diesen kannst du während einer unserer [Sprechstunden]({{< ref "officehours.de.md" >}}) abholen.
 
 ## Wie verbinde ich mich mit dem WLAN?
 
