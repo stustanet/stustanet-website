@@ -31,7 +31,7 @@ In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-
 
 ## Wie verbinde ich mich mit dem WLAN?
 
-### Android
+### <i class="fa fa-android"></i> Android {#android}
 Unter _Einstellungen > WLAN_ **StuStaNet** auswählen.
 Dann auf **erweiterte Optionen** klicken.
 
@@ -42,7 +42,7 @@ Dann auf **erweiterte Optionen** klicken.
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 
-### Windows 10
+### <i class="fa fa-windows"></i> Windows 10 {#windows-10}
 WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Fingerabdruck vergleichen.
 
 |**Feld**|**Wert**|
@@ -51,7 +51,7 @@ WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 |Fingerabdruck|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
-### Linux NetworkManager
+### <i class="fa fa-linux"></i> Linux NetworkManager {#linux-networkmanager}
 |**Feld**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
@@ -61,7 +61,7 @@ WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
 
-### Linux NetworkManager alternative über TTLS
+### <i class="fa fa-linux"></i> Linux NetworkManager Alternative über TTLS {#linux-networkmanager-alternative-via-ttls}
 |**Feld**|**Wert**|
 |--------|--------|
 |SSID| StuStaNet|
@@ -73,7 +73,7 @@ WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
 
-### MacOS via Netzwerkprofil
+### <i class="fa fa-apple"></i> MacOS via Netzwerkprofil  {#macos-via-netzwerkprofil}
 |**Option**|**Value**|
 |--------|--------|
 |SSID| StuStaNet|
