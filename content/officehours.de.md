@@ -11,8 +11,7 @@ headerImage: headers/keyboard.jpg
 
 <div class="callout callout-default">
     <h3>WLAN fürs eigene Zimmer</h3>
-    <img src="/figures/router_m.jpg" class="router">
-    <p>Außen-WLAN ist toll, aber WLAN im eigenen Zimmer wäre noch besser?</p>
+    <img src="/figures/router_m.jpg" class="router small">
     <p>Wir stellen vor: Der StuStaNet WLAN Router!</p>
     <ul>
         <li><i class="fa fa-check" aria-hidden="true"></i>Plug & Play: Anschließen und fertig.</li>
@@ -20,7 +19,7 @@ headerImage: headers/keyboard.jpg
         <li><i class="fa fa-tachometer" aria-hidden="true"></i>450Mbit/s WLAN (IEEE 802.11b/g/n)</li>
         <li><i class="fa fa-euro" aria-hidden="true"></i>Verkauft zum Selbstkostenpreis. Nur für Mitglieder.</li>
     </ul>
-    <p><b>Verfügbar ausschließlich in unseren Sprechstunden</a>.</b></p>
+    <p><b>Verfügbar ausschließlich in unseren Sprechstunden.</b></p>
 </div>
 
 ### Mitgliedschaft Online-Antrag
