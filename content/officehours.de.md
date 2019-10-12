@@ -32,4 +32,5 @@ Du hast anschließen **4 Wochen** Zeit in eine unserer Sprechstunden zu kommen u
 ### Nächste Sprechstunden
 Die Sprechstunden finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028 statt.
 
+Die nächsten Termine und Öffnungszeiten:
 {{< officehours >}}
