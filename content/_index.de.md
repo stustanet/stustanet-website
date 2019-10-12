@@ -30,17 +30,20 @@ Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden im Blauen Haus (Chri
 
 {{% /column %}}{{% column %}}
 {{% flex-item %}}
+<!-- Beide Listen sollten gleich viele Einträge haben, damit die Spalten (auf kleinen Displays nebeneinander) gleich lang sind -->
 ## Dienste
 * <i class="fa fa-wifi" aria-hidden="true"></i> [WLAN]({{< ref "wifi.de.md" >}})
 * <i class="fa fa-envelope" aria-hidden="true"></i> [Webmail](https://webmail.stusta.de/)
 * <i class="fa fa-cloud" aria-hidden="true"></i> [StuSta Cloud](https://cloud.stusta.de/)
+* <i class="fa fa-hdd-o" aria-hidden="true"></i> [Webhosting](https://home.stusta.de/)
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Kontakt
 * <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.de.md" >}})
-* <i class="fa fa-comments" aria-hidden="true"></i> [Impressum](/impressum)
+* <i class="fa fa-users" aria-hidden="true"></i> [Sprechstunden]({{< ref "officehours.de.md" >}})
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN bei Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN bei Github](https://github.com/stustanet/)
+* <i class="fa fa-comments" aria-hidden="true"></i> [Impressum](/impressum)
 {{% /flex-item %}}
 {{% /column %}}{{% /two-columns %}}

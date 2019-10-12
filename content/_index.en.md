@@ -30,17 +30,20 @@ The [office hours]({{< ref "officehours.en.md" >}}) take place in the Blue Build
 
 {{% /column %}}{{% column %}}
 {{% flex-item %}}
+<!-- Both should have the same number of items such that both columns (next to each other on small displays) have the same length -->
 ## Services
 * <i class="fa fa-wifi" aria-hidden="true"></i> [Wi-Fi]({{< ref "wifi.en.md" >}})
 * <i class="fa fa-envelope" aria-hidden="true"></i> [Webmail](https://webmail.stusta.de/)
 * <i class="fa fa-cloud" aria-hidden="true"></i> [StuSta Cloud](https://cloud.stusta.de/)
+* <i class="fa fa-hdd-o" aria-hidden="true"></i> [Webhosting](https://home.stusta.de/)
 * <i class="fa fa-gitlab" aria-hidden="true"></i> [GitLab](https://gitlab.stusta.de/)
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Contact
 * <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.en.md" >}})
-* <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum)
+* <i class="fa fa-users" aria-hidden="true"></i> [Office Hours]({{< ref "officehours.en.md" >}})
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN on Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN on Github](https://github.com/stustanet/)
+* <i class="fa fa-comments" aria-hidden="true"></i> [Imprint](/impressum)
 {{% /flex-item %}}
 {{% /column %}}{{% /two-columns %}}
