@@ -24,7 +24,7 @@ It doesn't matter if you have your own server, that you administrate, or if you 
 
 
 ## Membership
-Residents of the Studentenstadt Freimann who would like to join the association must fill out a [membership application form](https://reg.stusta.de/), which they can obtain within our [office hours]({{< ref "officehours.en.md" >}}).
+Residents of the Studentenstadt Freimann who would like to join the association must fill out a [membership application form](https://reg.stustanet.de/), which can also be obtained in our [office hours]({{< ref "officehours.en.md" >}}).
 
 
 ## History

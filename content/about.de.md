@@ -25,7 +25,7 @@ Egal, ob du schon seit Jahren deinen eigenen Server betreust oder noch überhaup
 
 
 ## Beitritt
-Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen [Aufnahmeantrag](https://reg.stusta.de/) ausfüllen, den sie in der [Sprechstunde]({{< ref "officehours.de.md" >}}) des Vereins erhalten und abgeben können.
+Bewohner der Studentenstadt Freimann, die dem Verein beitreten möchten, müssen einen [Aufnahmeantrag](https://reg.stustanet.de/) ausfüllen, der auch in der [Sprechstunde]({{< ref "officehours.de.md" >}}) erhältlich ist.
 
 
 ## Geschichte
