@@ -15,37 +15,37 @@ Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des V
 ## StuStaNet e. V.
 Der Computernetzwerkverein in der Studentenstadt
 
-{{% dl title="Postanschrift" %}}
+{{% vorstand %}}
+
+{{% dl title="Registergericht:" %}}
+Amtsgericht München
+{{% /dl %}}
+
+{{% dl title="Vereinsregisternummer:" %}}
+16245
+{{% /dl %}}
+
+{{% dl title="Postanschrift:" %}}
 StuStaNet e. V.
 Hans-Leipelt-Straße 7
 80805 München
-{{% /dl%}}
-
-{{% dl title="Telefon" %}}
-Der Verein ist telefonisch nicht zu erreichen.
 {{% /dl %}}
 
-{{% dl title="E-Mail an den Vorstand" %}}
+{{% dl title="E-Mail an den Vorstand:" %}}
 {{% email %}}vorstand[at]stustanet.de{{% /email %}}
+{{% /dl %}}
+
+{{% dl title="Datenschutzbeauftragter:" %}}
+{{% email %}}datenschutz[at]stustanet.de{{% /email %}}
 {{% /dl %}}
 
 {{% we-are-not-stuwerk %}}
 
-**Internet:** https://stustanet.de/
-
-{{% vorstand %}}
-
-**Registergericht:** Amtsgericht München
-
-**Vereinsregisternummer**: 16245
-
-**Datenschutzbeauftragter**: datenschutz[at]stustanet.de
+<!-- Telefonnummer ist NICHT Pflicht und daher hier (da eh nicht vorhanden) ausgelassen: https://www.e-recht24.de/news/abmahnung/1023.html -->
 
 ## Über diese Webseite
 
 Bei technischen Fragen zu dieser Webseite: {{% email %}}admins[at]stustanet.de{{% /email %}}
-
-Bei redaktionellen Fragen zu dieser Webseite: {{% email %}}vorstand[at]stustanet.de{{% /email %}}
 
 Für Anfragen an die studentische Heimselbstverwaltung in der Studentenstadt Freimann wenden Sie sich bitte an den Organisationstutor unter {{% email %}}orgtutor[at]stusta.de{{% /email %}}.
 

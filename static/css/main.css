@@ -569,10 +569,30 @@ ol ol {
 
 dl {
     line-height: 1.2;
+    display: flex;
+    flex-wrap: wrap;
 }
-
 dt {
     font-weight: bold;
+    flex: 0 0 30%;
+    max-width: 30%;
+    margin: 0;
+}
+dd {
+    flex: 0 0 70%;
+    max-width: 70%;
+    margin: 0;
+}
+dd dl dt {
+    font-weight: normal;
+    max-width: 40%;
+    flex: 0 0 40%;
+    margin: 0;
+}
+dd dl dd {
+    max-width: 60%;
+    flex: 0 0 60%;
+    margin: 0 0 0.5em;
 }
 
 hr {
@@ -828,7 +848,8 @@ footer .lang-dropdown {
         display: block;
     }
 
-    .menu, #top-bar .lang-dropdown {
+    .menu,
+    #top-bar .lang-dropdown {
         display: none;
     }
 
@@ -896,6 +917,25 @@ footer .lang-dropdown {
         font-size: 28px;
         width: 45px;
         height: 32px;
+    }
+
+    dl {
+        display: block;
+    }
+    dt {
+        flex: 1;
+    }
+    dd {
+        flex: 1;
+        margin: 0.8em 1em 1.6em;
+    }
+    dd dl dt {
+        margin: 0;
+        width: 100%;
+    }
+    dd dl dd {
+        margin: 0.25em 0 1em;
+        width: 100%;
     }
 
     .two-columns .column {
