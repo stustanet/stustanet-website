@@ -922,20 +922,18 @@ footer .lang-dropdown {
     dl {
         display: block;
     }
-    dt {
+    dt,
+    dd dl dt,
+    dd dl dd {
         flex: 1;
+        max-width: 100%;
     }
     dd {
         flex: 1;
         margin: 0.8em 1em 1.6em;
     }
-    dd dl dt {
-        margin: 0;
-        width: 100%;
-    }
     dd dl dd {
         margin: 0.25em 0 1em;
-        width: 100%;
     }
 
     .two-columns .column {
