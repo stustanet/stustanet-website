@@ -7,9 +7,9 @@ color: none
 class: wifi
 headerImage: headers/outdoor.jpg
 ---
-In Bereiche der Studentenstadt strahlt das StuStaNet für seie Mitglieder das W-LAN "StuStaNet". Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite. Falls du sonst noch Probleme oder Fragen hast, kannst du uns immer gerne eine [Mail](https://stustanet.de/mail/admins) schreiben.
+Im Areal der Studentenstadt bietet StuStaNet für Mitglieder in Außenbereichen und Gemeinschaftseinrichtungen das StuStaNet WLAN an. Wie du dein Gerät mit dem WLAN verbindest, erfährst du auf dieser Seite.
 
-<span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">Das StuStaNet W-LAN befindet sich in der Testphase. Erwarte Verfügbarkeitprobleme. Einstellungen können sich ändern.</span>
+{{% warn %}} StuStaNet WLAN befindet sich in der Testphase. Verfügbarkeitsprobleme sind zu erwarten und Einstellungen können sich ändern.{{% /warn %}}
 
 <div class="callout callout-default">
     <h3>WLAN fürs eigene Zimmer</h3>

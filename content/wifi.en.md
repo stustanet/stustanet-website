@@ -7,10 +7,9 @@ color: none
 class: wifi
 headerImage: headers/outdoor.jpg
 ---
+In the Studentenstadt StuStaNet offers the StuStaNet WLAN for members in outdoor areas and community facilities. On this page, you will learn how to connect your device to the Wi-Fi.
 
-In the Studentenstadt area StuStaNet provides the Wi-Fi "StuStaNet" for StuStaNet members. On this page, you will learn how to connect your device to the Wi-Fi. If you have any questions or comments you can [write us](https://stustanet.de/mail/admins).
-
-<span style="background:#FFDADA; margin:20px 0 0; padding:6px 0; width:100%; max-width:100%;">StuStaNet Wi-Fi is under development. Expect downtime. Settings may change.</span>
+{{% warn %}} StuStaNet Wi-Fi is in the testing phase. Downtimes are to be expected and settings may change.{{% /warn %}}
 
 <div class="callout callout-default">
     <h3>Wi-Fi for your room</h3>
