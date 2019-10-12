@@ -2,7 +2,6 @@
 title: Impressum
 description: Impressum für stustanet.de
 type: page
-noindex: true
 color: yellow
 headerImage: headers/imprint.jpg
 aliases: [ "/impressum/" ]
