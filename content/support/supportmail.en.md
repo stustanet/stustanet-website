@@ -19,7 +19,7 @@ Problems with your PC or Internet connection can often be solved much faster in-
 
 A list of current network admins can be found here:
 
-<a class="button" href="https://dokumente.stusta.de/adminliste/adminliste.pdf">List of Networkadmins</a>
+<a class="button" href="https://dokumente.stustanet.de/adminliste/adminliste.pdf">List of Networkadmins</a>
 
 (only accessible from within the StuStaNet for privacy reasons). This list should also be posted in your house.
 

@@ -20,7 +20,7 @@ Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor 
 
 Eine Liste der aktuellen Netzwerkadmins findest du hier:
 
-<a class="button" href="https://dokumente.stusta.de/adminliste/adminliste.pdf">Liste der Netzwerkadmins</a>
+<a class="button" href="https://dokumente.stustanet.de/adminliste/adminliste.pdf">Liste der Netzwerkadmins</a>
 
 (aus Datenschutzgründen nur aus dem StuStaNet erreichbar). Diese Liste sollte auch in deinem Haus aushängen.
 
