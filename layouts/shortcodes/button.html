@@ -1,0 +1,1 @@
+<p class="button-container"><a class="button" href="{{ if .Get "ref" }}{{ ref . ( .Get "ref" ) }}{{ else }}{{ .Get "href" }}{{ end }}">{{ .Get "label" }}</a></p>

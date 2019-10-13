@@ -10,7 +10,7 @@ headerStats: true
 
 StuStaNet ist eine Organisation in der Studentenstadt Freimann, welche ein Computer-Netzwerk betreibt, das ca. {{< users >}} Nutzer in der Studentenstadt Freimann sowie dem Wohnheim Max-Bill-Straße an das Internet anbindet. Das Netzwerk wird ausschließlich von Freiwilligen betrieben.
 
-<a href="{{< ref "about.de.md" >}}">Mehr Infos über den Verein</a>.
+{{< button ref="about.de.md" label="Über den Verein" >}}
 
 
 ## Mitglied werden
@@ -22,8 +22,8 @@ Eine Mitgliedschaft, welche die Nutzung aller unserer Dienste erlaubt, steht all
 
 Du möchtest Mitglied im StuStaNet werden, um all unsere Dienste zu nutzen?
 
+{{< button href="https://reg.stustanet.de/" label="Registrieren" >}}
 
-<a class="button" href="https://reg.stustanet.de/">Registrieren</a>
 
 ### Nächste Sprechstunden
 Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028 statt.

@@ -661,13 +661,14 @@ a {
     text-decoration: none;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
     text-decoration: underline;
 }
 
 a.button {
     display: inline-block;
-    padding: 5px 10px;
+    padding: 4px 8px;
     border: 1px solid #1b54ac;
     border-radius: 5px;
     cursor: pointer;
@@ -677,12 +678,24 @@ a.button {
     text-align: center;
     text-decoration: none;
 }
-
-a.button:hover {
+a.button:hover,
+p.button-container .button:hover {
     background-color: #1b54ac;
     color: #fff;
     text-decoration: none;
 }
+p.button-container {
+    text-align: center;
+    margin: 0.8em 0 2em;
+}
+p.button-container .button {
+    min-width: 40%;
+    padding: 6px 8px 2px;
+    background: #4f76b1;
+    border-color: #4f76b1;
+    color: #fff;
+}
+
 
 #main {
     margin-top: 30px;
