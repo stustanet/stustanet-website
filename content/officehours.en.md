@@ -23,7 +23,7 @@ headerImage: headers/keyboard.jpg
 
 
 ### Membership Online Registration
-If you want to become a member of StuStaNet e. V., you can <a href="https://reg.stustanet.de/">easily register online</a>. While your application is in progress, you will already provisionally activate some membership services for your room, i.e. you don't have to configure the proxy.
+If you want to become a member of StuStaNet e. V., you can <a href="https://reg.stustanet.de/">easily register online</a>. While your application is in progress, we will already provisionally activate some membership services for your room, i.e. you don't have to configure the proxy.
 Afterwards you have **4 weeks** to come to one of our office hours to pay the application fee.
 
 <a class="button" href="https://reg.stustanet.de/">Sign up</a>
