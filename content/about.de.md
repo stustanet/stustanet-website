@@ -11,7 +11,7 @@ aliases: [ "/de/participate/" ]
 ## Der Verein
 StuStaNet ist ein Verein, der in der [Studentenstadt Freimann](https://stusta.de/) sowie im Studentenwohnheim [Max-Bill-Straße 67](https://max-bill.de/) ein wohnheimweites Computernetzwerk mit Anbindung an das Internet betreibt. Zurzeit verbindet das Netz ca. {{% users %}} Benutzer.
 
-Der Verein stellt in Zusammenarbeit mit dem Studentenwerk München allen Bewohnern der Studentenstadt einen Internetzugang zur Verfügung und unterstützt die Bewohner bei Fragen zum Netz. Dazu betreibt er zentrale Infrastruktur wie DNS, HTTP-Proxy, NAT Gateway, ISATAP Gateway für IPv6, Mail, Quality of Service (QoS) und Intrusion Detection System (IDS). Seinen Mitgliedern bietet der Verein zusätzliche Dienste wie z.B. privaten Cloudspeicher, Webspace, Backupspeicher, und eine E-Mail-Adresse mit unlimitiertem Speicherplatz an.
+Der Verein stellt in Zusammenarbeit mit dem Studentenwerk München allen Bewohnern der Studentenstadt einen Internetzugang zur Verfügung und unterstützt die Bewohner bei Fragen zum Netz. Dazu betreibt er zentrale Infrastruktur wie DNS, Quality of Service (QoS), Intrusion Detection System (IDS), NAT Gateway, HTTP-Proxy, ISATAP Gateway für IPv6, E-Mail und vieles mehr. Seinen Mitgliedern bietet der Verein zusätzliche Dienste wie z.B. privaten Cloudspeicher, Webspace, Backupspeicher, und eine E-Mail-Adresse mit unlimitiertem Speicherplatz an.
 
 
 ## Mitgestaltung

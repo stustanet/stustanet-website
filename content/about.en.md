@@ -11,7 +11,7 @@ aliases: [ "/participate/", "/en/participate/" ]
 ## The StuStaNet Association
 The StuStaNet is an association in the [Studentenstadt Freimann](https://stusta.de/en/) that operates a computer network connecting the Studentenstadt and the dormitory [Max-Bill-Straße 67](https://max-bill.de/) to the Internet. The network is used by approximately {{% users %}} users.
 
-StuStaNet operates all higher-level services such as DNS, email, HTTP Proxy, NAT, IPv6, QoS, IDS, and many more. In co-operation with the student union it provides all residents of Studentenstadt with Internet access and also provides support for the residents regarding network issues. StuStaNet offers its members additional services, such as a private cloud storage, backup storage, web space with a database and a mailbox with unlimited quota.
+StuStaNet operates all higher-level services such as DNS, Quality of Service (QoS), Intrusion Detection System (IDS), NAT gateway, HTTP proxy, an ISATAP gateway for IPv6, e-mail and many more. In co-operation with the student union it provides all residents of Studentenstadt with Internet access and also provides support for the residents regarding network issues. StuStaNet offers its members additional services, such as a private cloud storage, backup storage, web space with a database and a mailbox with unlimited quota.
 
 ## Participation
 Do you want to know how the Internet in the StuSta works?
