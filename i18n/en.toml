@@ -27,3 +27,21 @@ other = "To Homepage"
 
 [weekday]
 other = "Weekday"
+
+[chairman]
+other = "Chairman"
+
+[treasurer]
+other = "Treasurer"
+
+[1stcto]
+other = "1st Technical Director"
+
+[2ndcto]
+other = "2nd Technical Director"
+
+[3rdcto]
+other = "3rd Technical Director"
+
+[validity]
+other = "Validity"

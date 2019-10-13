@@ -36,8 +36,7 @@ The dormitory in the Max-Bill street was integrated into the StuStaNet Network i
 
 
 ## The Board of Directors
-The contact details of the current board members can be found in the [imprint](/impressum).
-
+{{< vorstand >}}
 
 ## Statute
 The current statute of the StuStaNet e. V. can be found [here](https://vereinsanzeiger.stustanet.de/satzung.pdf)[German].

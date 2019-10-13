@@ -14,7 +14,9 @@ Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des V
 ## StuStaNet e. V.
 Der Computernetzwerkverein in der Studentenstadt
 
-{{% vorstand %}}
+{{% dl title="Vorstandsmitglieder:" %}}
+{{< vorstand >}}
+{{% /dl %}}
 
 {{% dl title="Registergericht:" %}}
 Amtsgericht München
@@ -25,9 +27,11 @@ Amtsgericht München
 {{% /dl %}}
 
 {{% dl title="Postanschrift:" %}}
+{{< address >}}
 StuStaNet e. V.
 Hans-Leipelt-Straße 7
 80805 München
+{{< /address >}}
 {{% /dl %}}
 
 {{% dl title="E-Mail an den Vorstand:" %}}

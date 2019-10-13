@@ -27,3 +27,21 @@ other = "Zur Startseite"
 
 [weekday]
 other = "Wochentag"
+
+[chairman]
+other = "Vorsitzender Vorstand"
+
+[treasurer]
+other = "Schatzmeister"
+
+[1stcto]
+other = "1. Technischer Vorstand"
+
+[2ndcto]
+other = "2. Technischer Vorstand"
+
+[3rdcto]
+other = "3. Technischer Vorstand"
+
+[validity]
+other = "Gültigkeit"

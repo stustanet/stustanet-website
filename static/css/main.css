@@ -542,6 +542,10 @@ article {
     flex: 1 1 0;
 }
 
+address {
+    font-style: normal;
+}
+
 p, ul, ol {
     line-height: 1.5rem;
     margin-top: 0.5rem;
@@ -576,12 +580,16 @@ dt {
     font-weight: bold;
     flex: 0 0 30%;
     max-width: 30%;
-    margin: 0;
+    margin: 0.5em 0 0;
 }
 dd {
     flex: 0 0 70%;
     max-width: 70%;
-    margin: 0;
+    margin: 0.5em 0 0;
+}
+dt:first-of-type,
+dd:first-of-type {
+    margin-top: 0;
 }
 dd dl dt {
     font-weight: normal;
@@ -844,10 +852,6 @@ footer .lang-dropdown {
 
 .email {
     font-style: italic;
-}
-
-.vorstand ul {
-    padding-left: 0;
 }
 
 @media (max-width: 720px) {

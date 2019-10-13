@@ -1,20 +1,15 @@
 <dl class="vorstand">
-    <dt>Vorstandsmitglieder:</dt>
-    <dd>
-        <dl>
-            <dt>Vorsitzender Vorstand:</dt>
-            <dd>{{ .Site.Data.Vorstand.VV }}</dd>
-            <dt>Schatzmeister:</dt>
-            <dd>{{ .Site.Data.Vorstand.CC }}</dt>
-            <dt>1. Technischer Vorstand:</dt>
-            <dd>{{ .Site.Data.Vorstand.TV1 }}</dt>
-            <dt>2. Technischer Vorstand:</dt>
-            <dd>{{ .Site.Data.Vorstand.TV2 }}</dt>
-            <dt>3. Technischer Vorstand:</dt>
-            <dd>{{ .Site.Data.Vorstand.TV3 }}</dt>
-        </dl>
-        <p>
-            <i>Gültig: {{ .Site.Data.Vorstand.Valid }}</i>
-        </p>
-    </dd>
+    <dt>{{ i18n "chairman" }}:</dt>
+    <dd>{{ .Site.Data.Vorstand.VV }}</dd>
+    <dt>{{ i18n "treasurer" }}:</dt>
+    <dd>{{ .Site.Data.Vorstand.CC }}</dt>
+    <dt>{{ i18n "1stcto" }}:</dt>
+    <dd>{{ .Site.Data.Vorstand.TV1 }}</dt>
+    <dt>{{ i18n "2ndcto" }}:</dt>
+    <dd>{{ .Site.Data.Vorstand.TV2 }}</dt>
+    <dt>{{ i18n "3rdcto" }}:</dt>
+    <dd>{{ .Site.Data.Vorstand.TV3 }}</dt>
 </dl>
+<p>
+    <i>{{ i18n "validity" }}: {{ .Site.Data.Vorstand.Valid }}</i>
+</p>

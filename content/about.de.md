@@ -35,7 +35,7 @@ Das Wohnheim in der Max-Bill-Straße wurde im Juni 2016 in das Netz des StuStaNe
 
 
 ## Vorstand
-Die Kontaktadresse des aktuellen Vorstands findet sich im [Impressum](/impressum).
+{{< vorstand >}}
 
 
 ## Satzung
