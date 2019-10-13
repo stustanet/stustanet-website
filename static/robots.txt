@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: /mail/
-Disallow: /de/impressum/
-Disallow: /en/impressum/
