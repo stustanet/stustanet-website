@@ -24,7 +24,7 @@ You want to become a StuStaNet member in order to use our services?
 
 {{< button href="https://reg.stustanet.de/" label="Membership Registration" >}}
 
-### Next Office Hours
+## Next Office Hours
 The [office hours]({{< ref "officehours.en.md" >}}) take place in the Blue Building (Christoph-Probst-Straße 12), room 028.
 
 {{< officehours >}}
