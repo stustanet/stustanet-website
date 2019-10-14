@@ -666,11 +666,13 @@ a:active {
     text-decoration: underline;
 }
 
-a.button {
+.button {
     display: inline-block;
-    padding: 4px 8px;
-    border: 1px solid #1b54ac;
+    padding: 6px 8px 2px;
+    background: #4f76b1;
+    border: 1px solid #4f76b1;
     border-radius: 5px;
+    color: #fff;
     cursor: pointer;
     white-space: nowrap;
     line-height: 1.5;
@@ -678,22 +680,23 @@ a.button {
     text-align: center;
     text-decoration: none;
 }
-a.button:hover,
-p.button-container .button:hover {
+.button.outline {
+    background: #fff;
+    border: 1px solid #1b54ac;
+    color: #1b54ac;
+}
+.button:hover,
+.button-container .button:hover {
     background-color: #1b54ac;
     color: #fff;
     text-decoration: none;
 }
-p.button-container {
+.button-container {
     text-align: center;
     margin: 0.8em 0 2em;
 }
-p.button-container .button {
+.button-container .button {
     min-width: 40%;
-    padding: 6px 8px 2px;
-    background: #4f76b1;
-    border-color: #4f76b1;
-    color: #fff;
 }
 
 
