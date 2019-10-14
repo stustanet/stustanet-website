@@ -8,12 +8,19 @@ headerStats: true
 
 {{% two-columns %}}{{% column %}}
 
-StuStaNet is a registered association that operates a computer network connecting about {{< users >}} users in the Studentenstadt Freimann and the dormitory Max-Bill-Straße in Munich to the Internet. The network is operated entirely by volunteers.
+StuStaNet is a registered association that operates a computer network connecting about {{< users >}} users in the Studentenstadt Freimann and the dormitory Max-Bill-Straße in Munich to the Internet.
+
+
+### By Students, for Students
+
+Born as a student initiative, StuStaNet is still operated entirely by volunteers. In cooperation with the Munich Student Union and the Leibniz Supercomputing Centre we are able to provide the residents of the Studentenstadt Freimann with an inexpensive Internet connection.
+
+Interested students also have the opportunity to become actively involved in StuStaNet and gain practical experience.
 
 {{< button ref="about.en.md" label="About the Association" >}}
 
 
-## Become a Member
+## Becoming a Member
 
 While we provide some services to all residents of the Studentenstadt Freimann and the Max-Bill dormitory, some services are exclusively for our members.
 
