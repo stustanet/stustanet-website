@@ -9,6 +9,10 @@ disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 enableGitInfo = false
 SectionPagesMenu = "main"
 
+[caches]
+[caches.getjson]
+maxAge = "30s"
+
 [params]
 gitEditBaseUrl = "https://gitlab.stusta.de/stustanet/stustanet-website/edit/master/content/"
 
