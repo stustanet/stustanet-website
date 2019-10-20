@@ -1,27 +1,27 @@
 <table>
-    <thead>
-        <tr>
-            <th>{{ i18n "weekday" }}</th>
-            <th class="right">{{ i18n "date" }}</th>
-            <th class="right">{{ i18n "time" }}</th>
-        </tr>
-    </thead>
-    <tbody>
-    {{ $appointments := getJSON "https://stustanet.de/api/officehours.json" }}
-    {{ range first 5 $appointments }}
-        <tr>
-            <td>{{ if (eq $.Site.Language.Lang "de") }}
-                {{ index $.Site.Data.DE.Wochentage (sub (time (int .start)).Weekday 1) }}
-            {{ else }}
-                {{ dateFormat "Monday" (int .start) }}
-            {{ end }}</td>
-            <td class="right">{{ if (eq $.Site.Language.Lang "de") }}
-                {{ (time (int .start)).Day }}. {{ index $.Site.Data.DE.Monate (sub (time (int .start)).Month 1) }} {{ (time (int .start)).Year }}
-            {{ else }}
-                {{ dateFormat "January 2, 2006" (int .start) }}
-            {{ end }}</td>
-            <td class="right">{{ dateFormat "15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</td>
-        </tr>
-    {{ end }}
-    </tbody>
+<thead>
+<tr>
+<th>{{ i18n "weekday" }}</th>
+<th class="right">{{ i18n "date" }}</th>
+<th class="right">{{ i18n "time" }}</th>
+</tr>
+</thead>
+<tbody>
+{{ $appointments := getJSON "https://stustanet.de/api/officehours.json" }}
+{{ range first 5 $appointments }}
+<tr>
+<td>{{ if (eq $.Site.Language.Lang "de") }}
+{{ index $.Site.Data.DE.Wochentage (sub (time (int .start)).Weekday 1) }}
+{{ else }}
+{{ dateFormat "Monday" (int .start) }}
+{{ end }}</td>
+<td class="right">{{ if (eq $.Site.Language.Lang "de") }}
+{{ (time (int .start)).Day }}. {{ index $.Site.Data.DE.Monate (sub (time (int .start)).Month 1) }} {{ (time (int .start)).Year }}
+{{ else }}
+{{ dateFormat "January 2, 2006" (int .start) }}
+{{ end }}</td>
+<td class="right">{{ dateFormat "15:04" (int .start) }} – {{ dateFormat "15:04" (int .end) }}</td>
+</tr>
+{{ end }}
+</tbody>
 </table>
