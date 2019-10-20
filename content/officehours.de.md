@@ -30,7 +30,9 @@ Du hast anschließen **4 Wochen** Zeit in eine unserer Sprechstunden zu kommen u
 
 
 ### Nächste Sprechstunden
-Die Sprechstunden finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028 statt.
+{{% warn %}}Achtung, wir sind umgezogen!{{% /warn %}}
+
+Die Sprechstunden finden in **Haus 10 (Hans-Leipelt-Straße 7) Raum 002** statt.
 
 Die nächsten Termine und Öffnungszeiten:
 {{< officehours >}}

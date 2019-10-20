@@ -30,7 +30,9 @@ Afterwards you have **4 weeks** to come to one of our office hours to pay the ap
 
 
 ### Next Office Hours
-The office hours take place in the Blue Building (Christoph-Probst-Straße 12), room 028.
+{{% warn %}}Caution, we moved!{{% /warn %}}
+
+The office hours take place in **House 10 (Hans-Leipelt-Straße 7), room 002**.
 
 The next dates and opening hours:
 {{< officehours >}}

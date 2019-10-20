@@ -32,7 +32,9 @@ Du möchtest Mitglied im StuStaNet werden, um all unsere Dienste zu nutzen?
 
 
 ## Nächste Sprechstunden
-Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden im Blauen Haus (Christoph-Probst-Straße 12) Zimmer 028 statt.
+{{% warn %}}Achtung, wir sind umgezogen!{{% /warn %}}
+
+Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden in Haus 10 (Hans-Leipelt-Straße 7) Raum 002 statt.
 
 {{< officehours >}}
 
