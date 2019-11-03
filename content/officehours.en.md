@@ -32,7 +32,7 @@ Afterwards you have **4 weeks** to come to one of our office hours to pay the ap
 ### Next Office Hours
 {{% warn %}}Caution, we moved!{{% /warn %}}
 
-The office hours take place in **House 10 (Hans-Leipelt-Straße 7), room 002**.
+The office hours take place in [House 10 (Hans-Leipelt-Straße 7), room 002](https://maps.google.com/maps?cid=3018882636502329665).
 
 The next dates and opening hours:
 {{< officehours >}}

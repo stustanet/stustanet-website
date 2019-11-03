@@ -34,7 +34,7 @@ Du möchtest Mitglied im StuStaNet werden, um all unsere Dienste zu nutzen?
 ## Nächste Sprechstunden
 {{% warn %}}Achtung, wir sind umgezogen!{{% /warn %}}
 
-Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden in Haus 10 (Hans-Leipelt-Straße 7) Raum 002 statt.
+Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden in [Haus 10 (Hans-Leipelt-Straße 7) Raum 002](https://maps.google.com/maps?cid=3018882636502329665) statt.
 
 {{< officehours >}}
 
