@@ -31,8 +31,6 @@ You want to become a StuStaNet member in order to use our services?
 
 {{< button href="https://reg.stustanet.de/" label="Membership Registration" >}}
 
-## Next Office Hours
-{{% warn %}}Caution, we moved!{{% /warn %}}
 
 ## Next Office Hours
 The [office hours]({{< ref "officehours.en.md" >}}) take place in [House 10 (Hans-Leipelt-Straße 7), room 002](https://maps.google.com/maps?cid=3018882636502329665).
