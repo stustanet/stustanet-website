@@ -48,7 +48,7 @@ Bitte schalte VPNs und Proxys temporär ab.
 
 {{< figure src="/support/selftest/selftestvirus.png" title="Fehler: Virensperrung" height="70" >}}
 
-Du wurdest virengesperrt. Dies kann mehrere Ursachen haben. Für die Gründe warum wir Virensperrungen durchführen müssen, sieh dir bitte die [FAQ]({{< ref "\support\_index.de.md#faq" >}}).
+Du wurdest virengesperrt. Dies kann mehrere Ursachen haben. Für die Gründe warum wir Virensperrungen durchführen müssen, sieh dir bitte die [FAQ]({{< ref "/support/_index.de.md#faq" >}}).
 
 Bitte folge dem in der Fehlermeldung angezeigten Link und folge den angezeigten Schritten, um die Sperrung wieder aufzuheben.
 
