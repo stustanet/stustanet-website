@@ -50,7 +50,7 @@ The [office hours]({{< ref "officehours.en.md" >}}) take place in [House 10 (Han
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Contact
-* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.en.md" >}})
+* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "/support/_index.en.md" >}})
 * <i class="fa fa-users" aria-hidden="true"></i> [Office Hours]({{< ref "officehours.en.md" >}})
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN on Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN on Github](https://github.com/stustanet/)

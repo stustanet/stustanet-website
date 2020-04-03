@@ -49,7 +49,7 @@ Die [Sprechstunden]({{< ref "officehours.de.md" >}}) finden in [Haus 10 (Hans-Le
 {{% /flex-item %}}
 {{% flex-item %}}
 ## Kontakt
-* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "support.de.md" >}})
+* <i class="fa fa-medkit" aria-hidden="true"></i> [Support]({{< ref "/support/_index.de.md" >}})
 * <i class="fa fa-users" aria-hidden="true"></i> [Sprechstunden]({{< ref "officehours.de.md" >}})
 * <i class="fa fa-facebook-official" aria-hidden="true"></i> [SSN bei Facebook](https://www.facebook.com/stustanet/)
 * <i class="fa fa-github" aria-hidden="true"></i> [SSN bei Github](https://github.com/stustanet/)

@@ -74,3 +74,6 @@ weight = 4
 name = "About Us"
 identifier = "about"
 url = "/en/about/"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
