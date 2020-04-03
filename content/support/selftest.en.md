@@ -47,7 +47,7 @@ Please temporarily disable VPNs and proxies.
 
 {{< figure src="/support/selftest/selftestvirus.png" title="Error: Virus Blocked" height="70" >}}
 
-You've been virus-blocked. This can have several reasons. For the reasons why we have to block, if we suspect there might be a virus infection, take a look at the [FAQ]({{< ref "support.en.md#faq" >}}).
+You've been virus-blocked. This can have several reasons. For the reasons why we have to block, if we suspect there might be a virus infection, take a look at the [FAQ]({{< ref "/support/_index.en.md#faq" >}}).
 
 Please follow the link shown in the error message and follow the steps shown to get unblocked.
 
