@@ -69,4 +69,4 @@ You can find out about the advantages of a membership [in the Wiki](https://wiki
 
 {{< figure src="/support/selftest/selftestunknown.png" title="Unknown Error" height="70" >}}
 
-Please send us the log of [selftest.stustanet.de](http://selftest.stustanet.de). See the [support mail page]({{< ref "/support/supportmail.en.md" >}}).
+Please send us the log of [selftest.stustanet.de](http://selftest.stustanet.de). See the [support mail page]({{< ref "/support/_index.en.md#mail" >}}).

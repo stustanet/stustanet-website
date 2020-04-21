@@ -16,7 +16,7 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 ## Frequently Answered Questions {#faq}
 
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
-Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest auf [selftest.stustanet.de](http://selftest.stustanet.de) zu machen ([Anleitung zum StuStaNet Selftest]({{< ref "selftest.de.md" >}})). Mit dem Ergebnis des Tests wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "/support/supportmail.de.md" >}}).
+Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest auf [selftest.stustanet.de](http://selftest.stustanet.de) zu machen ([Anleitung zum StuStaNet Selftest]({{< ref "selftest.de.md" >}})). Mit dem Ergebnis des Tests wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
 
 ### Ich bin innerhalb der Studentenstadt umgezogen. Muss ich nochmals Mitglied werden?
 Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Umzug&body=Name%3A%0AAltes%20Haus%20und%20Zimmernummer%3A%0ANeues%20Haus%20und%20Zimmernummer%3A%0AMitgliedsnummer%20(sofern%20bekannt)%3A) und gib hierbei folgende Daten an:
@@ -46,6 +46,37 @@ Ist eine Sperrung erfolgt, so sind die Instruktionen auf der Sperrseite zu befol
 Ja, sehr gerne. Wir freuen uns immer über Interessenten. Siehe dazu die [Infoseite über den StuStaNet e.V.]({{< ref "/about.de.md" >}}).
 
 
-## Sonstige Probleme
+## Sonstige Probleme {#other}
 
-Falls Du dein Problem nicht hier auf der Liste findest, kannst Du auch gerne eine [Mail an den Support]({{< ref "/support/supportmail.de.md" >}}) schreiben oder auch dich persönlich an einen unserer Netzwerkadministratoren wenden. Eine Liste findest du [hier](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (nur innerhalb der Studentenstadt erreichbar), zudem hängen in jedem Haus der Studentenstadt Listen mit den aktuellen Admins aus.
+### Netzwerk Admins {#admins}
+
+Die erste Anlaufstelle bei Internetproblemen sind die Netzwerkadmins deines Hauses.
+
+Sie wurden gewählt um den Bewohnern bei dieser Art von Problemen zu helfen und zu unterstützen. Du musst kein Mitglied beim StuStaNet sein, um von uns Support zu bekommen.
+
+Probleme mit dem PC oder Internetanschluss sind oftmals sehr viel schneller vor Ort zu lösen und solltest du zuerst einen Netzwerkadmin fragen, bevor du eine Supportmail schreibst.
+
+Eine Liste der aktuellen Netzwerkadmins findest du hier:
+
+<a class="button" href="https://dokumente.stustanet.de/adminliste/adminliste.pdf">Liste der Netzwerkadmins</a>
+
+(aus Datenschutzgründen nur aus dem StuStaNet erreichbar). Diese Liste sollte auch in deinem Haus aushängen.
+
+### Support Mail {#mail}
+
+Sollte auch dies keinen Erfolg haben, dann kannst du auch an unsere Support-Mailingliste schreiben.
+
+Um das Problem für dich möglichst schnell zu lösen und uns viel Arbeit zu ersparen, füge bitte deiner Support E-Mail die folgenden Informationen bei:
+
+* Name:
+* Zimmernummer:
+* Haus:
+* Mitgliedschaft beim StuStaNet / Mitgliedsbeitrag gezahlt:
+* Router vom StuStaNet/anderer Router/kein Router:
+* [selftest.stustanet.de](http://selftest.stustanet.de) aufgerufen? Bitte Log einfügen:
+
+Für eine schnelle Lösung des Problems, füge bitte soweit relevant auch Informationen zu deinem Problem oder Setup bei.
+
+Du erreichst uns unter [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A).
+
+<a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A">eMail schicken</a>

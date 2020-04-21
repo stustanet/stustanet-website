@@ -16,7 +16,7 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 ## Frequently Answered Questions {#faq}
 
 ### I have set up my Internet according to the instructions. But I still have no connection?
-There can be many reasons for this. As a first step in order to identify the problem, you should do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators]({{< ref "/support/supportmail.en.md" >}}).
+There can be many reasons for this. As a first step in order to identify the problem, you should do a connection test on [selftest.stustanet.de](http://selftest.stustanet.de) ([instructions for the StuStaNet Selftest]({{< ref "selftest.en.md" >}})). With the result of the test you [contact the network administrators]({{< ref "#mail" >}}).
 
 ### I moved within Studentenstadt. Do I have to become a member again?
 No, you don't have to become a member again. In this case, please write a mail to [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Notice%20of%20move&body=Name%3A%0AOld%20House%20and%20Room%20number%3A%0ANew%20House%20and%20Room%20number%3A%0AMember%20number%20(if%20known)%3A) and include the following data:
@@ -49,5 +49,37 @@ If a blocking has occurred, the instructions on the blocking page must be follow
 Yes, of course! We're always pleased about interested people. See the [information page about the StuStaNet e.V.]({{< ref "/about.en.md" >}}).
 
 
-## Other Problems
-If you can't find your problem on the list here, you can also send a [mail to the support]({{< ref "/support/supportmail.en.md" >}}) or contact one of our network administrators personally. A list can be found [here](https://dokumente.stusta.de/adminliste/adminliste.pdf "Liste der Administratoren") (only accessible within Studentenstadt), and lists with the current network admins are displayed in every Studentenstadt house.
+## Other Problems {#other}
+
+### Network Admins {#admins}
+
+The first address for support with your Internet problems are the network admins in your house.
+
+They were elected to help and support the residents with these types of problems. You don't have to be a member of the StuStaNet to get support from us.
+
+Problems with your PC or Internet connection can often be solved much faster in-person. You should first ask a network administrator for help before writing a support mail.
+
+A list of current network admins can be found here:
+
+<a class="button" href="https://dokumente.stustanet.de/adminliste/adminliste.pdf">List of Networkadmins</a>
+
+(only accessible from within the StuStaNet for privacy reasons). This list should also be posted in your house.
+
+### Support Mail {#mail}
+
+If the problem persists, please send an email to the support mailinglist.
+
+In order to solve the problem for you as fast as possible and to save us a lot of work, please attach the following information to your support email:
+
+* Name:
+* Room number:
+* House:
+* StuStaNet membership / membership fee paid:
+* Router from StuStaNet/other router/no router:
+* Visited [selftest.stustanet.de](http://selftest.stustanet.de)? Please attach the log:
+
+For a quick solution to the problem, please include relevant information about your problem or setup.
+
+You can reach us at [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A).
+
+<a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A">Send eMail</a>
