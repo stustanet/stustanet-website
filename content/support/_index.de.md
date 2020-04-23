@@ -26,7 +26,7 @@ Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall ein
 * Neues Haus und Zimmernummer:
 * Mitgliedsnummer (sofern bekannt):
 
-### Ich bin kürzlich neu eingezogen. Warum geht das Internet funktioniert plötzlich nicht mehr?
+### Ich bin kürzlich neu eingezogen. Warum funktioniert das Internet plötzlich nicht mehr?
 Vermutlich war dein Vormieter Mitglied im StuStaNet. In regelmäßigen Abständen werden Zugänge deaktiviert, da die Mitgliedschaft an eine Person und nicht an ein Zimmer gebunden ist. In diesem Fall kannst Du entweder den Proxy benutzen oder [Mitglied des StuStaNet werden](https://reg.stustanet.de).
 
 ### Ich benötige noch Netzwerkequipment, beispielsweise ein LAN-Kabel. Bietet ihr so etwas an?
