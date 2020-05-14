@@ -42,8 +42,6 @@ Hans-Leipelt-Straße 7
 {{% email %}}datenschutz[at]stustanet.de{{% /email %}}
 {{% /dl %}}
 
-{{% we-are-not-stuwerk %}}
-
 <!-- Telefonnummer ist NICHT Pflicht und daher hier (da eh nicht vorhanden) ausgelassen: https://www.e-recht24.de/news/abmahnung/1023.html -->
 
 ## Über diese Webseite
