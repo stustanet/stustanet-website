@@ -835,20 +835,25 @@ footer .editPage {
     overflow: hidden;
 }
 
+footer .spacer {
+    flex: 1;
+}
+
 footer .container,
 footer .container a {
     color: #EDEDED;
 }
 
-footer .center {
+footer .links {
     padding: 15px;
-    text-align: center;
-    flex: 1 1 0;
+    /*text-align: center;*/
+    /*flex: 1 1 0;*/
+    text-align: right;
 }
 
 footer .lang-dropdown-container {
-    flex: 1 1 0;
-    padding: 15px 0 15px 15px;
+    /*flex: 1 1 0;*/
+    padding: 14px 0 16px 15px;
     text-align: right;
 }
 
