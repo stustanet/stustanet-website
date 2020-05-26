@@ -70,6 +70,6 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich [im Wiki](https://wiki.stus
 
 {{< figure src="/support/selftest/selftestunknown.png" height="70" >}}
 
-Falls du eine *Datenspar*, *Mobile Booster* oder ähnliches Erweiterung oder Funktion nutzt die den Internettraffic über einen anderen Server umleitet, schalte diese bitte für den Test aus.
+Falls du eine *Datenspar*, *Mobile Booster* oder ähnliches Erweiterung oder Funktion nutzt, die den Internettraffic über einen anderen Server umleitet, dann schalte sie bitte für den Test aus.
 
 Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Siehe dazu die Seite [Supportmail]({{< ref "/support/_index.de.md#mail" >}}).
