@@ -67,7 +67,7 @@ You can find out about the advantages of a membership [in the Wiki](https://wiki
 
 ## Other Problems:
 
-{{< figure src="/support/selftest/selftestunknown.png" height="70" >}}
+{{< figure src="/support/selftest/selftestblock.png" height="250" >}}
 
 If you use a *data saver*, *mobile booser* or similar extension or function, that redirects the Internet traffic to another server, then please turn it off for the test.
 
