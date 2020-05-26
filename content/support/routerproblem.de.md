@@ -15,7 +15,7 @@ Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 * richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
-und falls du keinen Router vom Stustanet besitzt, dass du die Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
+und falls du keinen Router vom StuStaNet besitzt, dass du die Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
 
 Füre die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
 
@@ -65,7 +65,7 @@ Es besteht keine Verbindung zum Netzwerk. Kontrolliere, ob der Router mit dem ko
 
 **oranges blinken:**
 
-Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der Router sein Setupskript aus. Das kann etwas dauern. Danach sollte die LED unregeläßig blau blinken.
+Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der Router sein Setupskript aus. Das kann etwas dauern. Danach sollte die LED unregelmäßig blau blinken.
 
 **unregelmäßiges blaues blinken:**
 
@@ -85,7 +85,7 @@ Wenn du den Resetknopf (Einkerbung die nur mit spitzen Gegenstand erreichbar ist
 
 Dabei sollte die LED des Routers kurz ausgehen, dann orange leuchten, gefolgt von orangen blinken bis der Reset fertig ist.
 
-Anschließend kannst du nochmal versuchen die Anleitung mit dem Stustanet-Logo durchzuführen.
+Anschließend kannst du nochmal versuchen die Anleitung mit dem StuStaNet-Logo durchzuführen.
 
 ### StuStaNet-Router Konfiguration für Nummer #5000 - #5999
 
@@ -119,7 +119,7 @@ Wenn die IP-Adresse die du rausgefunden hast sich stark von 192.168.**X**.**X** 
 
 Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 
-* *Für StuStaNet-Router*: beachte die beiligende Anleitung mit StuStaNet-Logo
+* *Für StuStaNet-Router*: beachte die beiliegende Anleitung mit StuStaNet-Logo
 * *Für normale Router*: beachte die Punkte auf der Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}})
 
 Die anderen Fehler mit Lösungsansätze sind [hier]({{< ref "selftest.de.md" >}}) genauer beschrieben.
