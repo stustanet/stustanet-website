@@ -69,6 +69,6 @@ You can find out about the advantages of a membership [in the Wiki](https://wiki
 
 {{< figure src="/support/selftest/selftestunknown.png" height="70" >}}
 
-If you use a *data saver*, *mobile booser* or similar extension or function, that redirects the Internet traffic to another server, than please turn it off for the test.
+If you use a *data saver*, *mobile booser* or similar extension or function, that redirects the Internet traffic to another server, then please turn it off for the test.
 
 Please send us the log of [selftest.stustanet.de](http://selftest.stustanet.de). See the [support mail page]({{< ref "/support/_index.en.md#mail" >}}).
