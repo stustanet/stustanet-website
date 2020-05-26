@@ -17,7 +17,7 @@ Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 
 und falls du keinen Router vom StuStaNet besitzt, dass du die Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
 
-Füre die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
+Führe die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
 
 Sollte keine der beschriebenen Anssätze das Problem lösten, kannst du uns eine Mail schreiben.
 Eine Anleitung dazu findest du [hier]({{< ref "_index.de.md#mail" >}}).
@@ -71,21 +71,21 @@ Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der R
 
 Der Router wurde konfiguriert und alles sollte zumindest auf Seiten des Routers funktionieren.
 Sollte es noch immer zu Problemen kommen liegt es wahrscheinlich entweder an der Verbindung zwischen Router und Computer oder an einer Virensperrung.
-Für letzeres führe 
+Für letzteres führe [selftest.stustanet.de](http://selftest.stustanet.de) aus.
 
 **dauerhaftes blau-oranges unregelmäßig abwechselndes (auch leicht lila) leuchten:**
 
-Dein Router ist nicht oder nicht korrekt konfiguriert und kann keine Verbindung zum Internet aufbauen. Führe die Konfiguration noch einmal nach der Anleitung aus und achte darauf, dass der Router nachdem du den WPS-Knopf für mehr als fünf Sekunden gedrückt hattest orange blinkt wie oben beschrieben.
+Dein Router ist nicht oder nicht korrekt konfiguriert und kann keine Verbindung zum Internet aufbauen. Führe die Konfiguration noch einmal nach der beiligenden StuStaNet-Anleitung aus und achte darauf, dass der Router nachdem du den WPS-Knopf für mehr als fünf Sekunden gedrückt hattest orange blinkt wie oben beschrieben.
 
 Sollte ein wiederholen der Anleitung keine Besserung bringen, kannst du versuchen den Router auf Werkszustand zurückzusetzen.
 
 ### StuStaNet-Router Reset für Nummer #6000 oder höher:
 
-Wenn du den Resetknopf (Einkerbung die nur mit spitzen Gegenstand erreichbar ist; nicht WPS Knopf) für mehr als 10 Sekunden drückst, löst du den Reset auf unsere Werkseinstellungen aus.
+Wenn du den Resetknopf (Einkerbung die nur mit spitzen Gegenstand erreichbar ist; nicht WPS-Knopf) für mehr als 10 Sekunden drückst, löst du den Reset auf unsere Werkseinstellungen aus.
 
 Dabei sollte die LED des Routers kurz ausgehen, dann orange leuchten, gefolgt von orangen blinken bis der Reset fertig ist.
 
-Anschließend kannst du nochmal versuchen die Anleitung mit dem StuStaNet-Logo durchzuführen.
+Anschließend kannst du nochmal versuchen die beiliegende Anleitung mit dem StuStaNet-Logo durchzuführen.
 
 ### StuStaNet-Router Konfiguration für Nummer #5000 - #5999
 
@@ -95,7 +95,7 @@ Die anderen Router von uns werden wie in deren StuStaNet-Anleitung beschrieben m
 
 ## Lösung 1: {#solution_1}
 
-Finde heraus über welche IP sich dein PC mit dem Router verbindet.
+Finde heraus über welche IP-Adresse sich dein PC mit dem Router verbindet.
 
 Bei Windows suche dazu in der Windows-Suche nach **cmd** und öffne das Programm.
 
@@ -110,8 +110,7 @@ Für dich relevant ist das Standardgateway, um damit die IP-Adresse des Routers 
 Mit der Adresse des **Standardgateway**, in dem Fall **192.168.0.1**, kannst du normalerweise im Browser die Konfigurationsseite des Routers erreichen.
 
 Für andere Betriebssysteme sollte es ähnlich möglich sein.
-
-Such am besten in der Suchmaschine deiner Wahl nach **Standardgateway** für dein Betriebssystem.
+Such am besten in der Suchmaschine deiner Wahl nach **Standardgateway** in Kombination mit deinem Betriebssystem.
 
 Wenn die IP-Adresse die du rausgefunden hast sich stark von 192.168.**X**.**X** unterscheiden (z.B. 10.**X**.**X**.**X**), dann hast du wahrscheinlich eine statische IP auf deinem Computer eingestellt und musst diese wieder auf automatischen Bezug ändern.
 
