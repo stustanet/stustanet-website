@@ -22,11 +22,11 @@ Falls du Probleme hast die Seite zu verwenden oder nicht weißt was du mit den M
 
 ## Fehler 1: Seite nicht aufrufbar
 
-{{< figure src="/support/nointernetchrome.png" title="Beispiel: Chrome" height="150" >}}
+{{< figure src="/support/selftest/nointernetchrome.png" title="Beispiel: Chrome" height="150" >}}
 
 oder
 
-{{< figure src="/support/nointernetfirefox.png" title="Beispiel: Firefox" height="150" >}}
+{{< figure src="/support/selftest/nointernetfirefox.png" title="Beispiel: Firefox" height="150" >}}
 
 Es liegt wahrscheinlich ein Problem mit deiner Router-Konfiguration oder deiner PC-Konfiguration vor.
 
