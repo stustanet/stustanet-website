@@ -7,49 +7,120 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
-## Problem (WIP)
-Du hast einen angeschlossenen StuStaNet Router.
+Hier sind einige Probleme mit Lösungsansätze, um Probleme mit der Internetverbindung in Kombination mit einem Router zu beheben.
 
-Du bist per W-Lan mit dem Router verbunden, aber hast keine Verbindung zum Internet, d.h. die Website [selftest.stustanet.de](http://selftest.stustanet.de) lädt überhaupt nicht über deinen Internetanschluss.
+Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 
-Stattdessen wird dir eine Fehlermeldung angezeigt.
+* korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon einer nicht funktioniert) 
+* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss für den Internetanschluss)
+* richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
-{{< figure src="/support/nointernetchrome.png" title="Beispiel Chrome" height="150" >}}
+und falls du keinen Router vom Stustanet besitzt, dass du die Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
 
-oder
+Füre die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
 
-{{< figure src="/support/nointernetfirefox.png" title="Beispiel Firefox" height="150" >}}
+Sollte keine der beschriebenen Anssätze das Problem lösten, kannst du uns eine Mail schreiben.
+Eine Anleitung dazu findest du [hier]({{< ref "_index.de.md#mail" >}}).
+
+## Test 0:
+
+Nur für StuStaNet-Router:
+Gehe zu [Lösung 0]({{< ref "#solution_0" >}}).
+
+## Test 1:
+
+Kannst du das Webinterface deines Routers erreichen, wenn du mit dem Router per W-LAN oder einem LAN-Kabel verbunden bist?
+
+Das ist die Seite auf der man die Einstellungen des Routers festlegen kann.
+Sie ist über den Webbrowser mit der IP-Adresse des Routers erreichbar.
+
+Die Adresse ist oft **192.168.1.1** (z.B. StuStaNet-Router) oder auch **192.168.0.1**.
+Die Adresse sollte auch in der Anleitung des Routers zu finden sein.
+
+Falls du die Einstellungen nicht erreichen kannst, gehe zu [Lösung 1]({{< ref "#solution_1" >}}).
+
+## Test 2:
+
+Kannst du [selftest.stustanet.de](http://selftest.stustanet.de) aufrufen?
+Mögliche Fehlercodes auf der Seite sind [hier]({{< ref "selftest.de.md" >}}) beschrieben.
+
+Sollte es zu dem dort gelisteten **_Fehler 1_** kommen, ist dein Router wahrscheinlich nicht korrekt eingerichtet.
+Gehe in dem Fall zu [Lösung 2]({{< ref "#solution_2" >}})
+
+## Lösung 0: {#solution_0}
+
+Die StuStaNet-Router haben von uns zur Unterscheidung eine Nummer bekommen.
+
+Die Nummer kannst du auf der Packung, StuStaNet-Routeranleitung oder Routerunterseite finden.
+Sie hat vier Stellen und sollte mit einem **_#_** beginnen.
+
+### Stustanet-Router LED-Codes für Nummer #6000 oder höher:
+
+Die StuStaNet Router der Nummer *6000* und neuer haben einen LED Code aus dem man meistens den Fehler eingrenzen kann.
 
 
-Bitte führe die folgenden Schritte auf einem mit deinem Internetanschluss verbundenen Gerät aus und **nicht** über dein Smartphone.
-***
+**dauerhaftes oranges leuchten:**
 
-## Wichtig:
-Hat dein Routernummer eine 5000er Routernummer, also die Nummer die auf der Rückseite des Routers auf dem StuStaNet Aufkleber nach dem #-Zeichen steht ist #5XXX (oder auf der Schachtel), dann wird das Konfigurationsskript durch das drücken der Reset-Taste mit einem spitzen Gegenstand (Stift) für mehrere Sekunden drückt.
+Es besteht keine Verbindung zum Netzwerk. Kontrolliere, ob der Router mit dem korrekten Netzwerkanschluss an der Wand verbunden ist und ob das Kabel auch am Router im richtigen Anschluss steckt.
 
-Dies trifft nur auf die Router der 5000er Reihe zu. Die Anderen werden wie in der Anleitung beschrieben mit der WPS-Taste konfiguriert.
+**oranges blinken:**
 
-## Tests um die Fehlerquelle zu finden:
-### Test 1:
-Kannst du deinen Router über das Webinterface erreichen?
+Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der Router sein Setupskript aus. Das kann etwas dauern. Danach sollte die LED unregeläßig blau blinken.
 
-Um das zu versuchen rufe über die Adresszeile deines Webrowsers die Adresse `192.168.1.1` auf.
+**unregelmäßiges blaues blinken:**
 
-Falls du die Login-Page erreichst gehe zu xxxx.
+Der Router wurde konfiguriert und alles sollte zumindest auf Seiten des Routers funktionieren.
+Sollte es noch immer zu Problemen kommen liegt es wahrscheinlich entweder an der Verbindung zwischen Router und Computer oder an einer Virensperrung.
+Für letzeres führe 
 
-Falls nicht:
+**dauerhaftes blau-oranges unregelmäßig abwechselndes (auch leicht lila) leuchten:**
 
-### Test 2:
+Dein Router ist nicht oder nicht korrekt konfiguriert und kann keine Verbindung zum Internet aufbauen. Führe die Konfiguration noch einmal nach der Anleitung aus und achte darauf, dass der Router nachdem du den WPS-Knopf für mehr als fünf Sekunden gedrückt hattest orange blinkt wie oben beschrieben.
+
+Sollte ein wiederholen der Anleitung keine Besserung bringen, kannst du versuchen den Router auf Werkszustand zurückzusetzen.
+
+### StuStaNet-Router Reset für Nummer #6000 oder höher:
+
+Wenn du den Resetknopf (Einkerbung die nur mit spitzen Gegenstand erreichbar ist; nicht WPS Knopf) für mehr als 10 Sekunden drückst, löst du den Reset auf unsere Werkseinstellungen aus.
+
+Dabei sollte die LED des Routers kurz ausgehen, dann orange leuchten, gefolgt von orangen blinken bis der Reset fertig ist.
+
+Anschließend kannst du nochmal versuchen die Anleitung mit dem Stustanet-Logo durchzuführen.
+
+### StuStaNet-Router Konfiguration für Nummer #5000 - #5999
+
+Das Konfigurationsskript wird durch das drücken der Reset-Taste mit einem spitzen Gegenstand (Stift) für mehrere Sekunden ausgelöst.
+
+Die anderen Router von uns werden wie in deren StuStaNet-Anleitung beschrieben mit der WPS-Taste konfiguriert.
+
+## Lösung 1: {#solution_1}
+
 Finde heraus über welche IP sich dein PC mit dem Router verbindet.
 
-Für Windows führe dafür den Befehl `ipconfig` in der Eingabeaufforderung aus.
+Bei Windows suche dazu in der Windows-Suche nach **cmd** und öffne das Programm.
 
-Suche dazu in der Windows-Suche nach `cmd`.
+{{< figure src="/support/routerproblem/searchcmd.png" height="400" >}}
 
-{{< figure src="/support/routerproblem/searchcmd.png" title="CMD Suche" height="400" >}}
+In der Eingabeaufforderung tippe den Befehl **ipconfig** ein und drücke Enter.
 
-Tippe in dem sich öffnenden Fenster `ipconfig` ein und drücke Enter. Suche in der Ausgabe des Befehls nach der Zeile
+Für dich relevant ist das Standardgateway, um damit die IP-Adresse des Routers herauszufinden.
 
-{{< figure src="/support/routerproblem/ipconfigcmd.png" title="IPconig output" height="200" >}}
+{{< figure src="/support/routerproblem/ipconfigcmd.png" height="300" >}}
 
-Unterscheidet sich die IP-Adresse rechts von `IPv4-Adresse` von `192.168.1.`**X**, wobei X eine beliebige Zahl sein kann, dann gehe zu xxxxxx.
+Mit der Adresse des **Standardgateway**, in dem Fall **192.168.0.1**, kannst du normalerweise im Browser die Konfigurationsseite des Routers erreichen.
+
+Für andere Betriebssysteme sollte es ähnlich möglich sein.
+
+Such am besten in der Suchmaschine deiner Wahl nach **Standardgateway** für dein Betriebssystem.
+
+Wenn die IP-Adresse die du rausgefunden hast sich stark von 192.168.**X**.**X** unterscheiden (z.B. 10.**X**.**X**.**X**), dann hast du wahrscheinlich eine statische IP auf deinem Computer eingestellt und musst diese wieder auf automatischen Bezug ändern.
+
+## Lösung 2: {#solution_2}
+
+Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
+
+* *Für StuStaNet-Router*: beachte die beiligende Anleitung mit StuStaNet-Logo
+* *Für normale Router*: beachte die Punkte auf der Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}})
+
+Die anderen Fehler mit Lösungsansätze sind [hier]({{< ref "selftest.de.md" >}}) genauer beschrieben.
+Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
