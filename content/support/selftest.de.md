@@ -70,4 +70,4 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich [im Wiki](https://wiki.stus
 
 {{< figure src="/support/selftest/selftestunknown.png" title="Unbekannter Fehler" height="70" >}}
 
-Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Siehe dazu die Seite [Supportmail]({{< ref "/support/_index.de.md#support" >}}).
+Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Siehe dazu die Seite [Supportmail]({{< ref "/support/_index.de.md#mail" >}}).
