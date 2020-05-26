@@ -39,7 +39,8 @@ The StuStaNet offers various network accessories. Members also get this at a dis
 We offer many different services, including cloud storage, e-mail addresses and much more. In the [Wiki](https://wiki.stusta.de/StuStaNet-Services) and under [account.stustanet.de](https://account.stustanet.de) (only accessible from StuStaNet) you get an overview after you have picked up your membership card.
 
 ### Can I also use the StuStaNet Router outside the Studentenstadt?
-Yes, you can also use it outside the Studentenstadt. However, you will need to adjust your settings, such as the network settings.
+Yes, you can also use it outside the Studentenstadt. 
+However, you will need to adjust your settings, such as the network settings,  in the web interface of the router.
 
 ### My Internet access has been blocked due to viruses. How do I get it unlocked again?
 A prerequisite for a connection to the German Research Network (Deutsches Forschungsnetz) is permanent monitoring of the network to detect and prevent harmful behavior, such as computer viruses. Such malicious behavior can also be caused by hidden programs running in the background and is not always directly visible to the user.
@@ -78,7 +79,7 @@ In order to solve the problem for you as fast as possible and to save us a lot o
 * Router from StuStaNet/other router/no router:
 * Visited [selftest.stustanet.de](http://selftest.stustanet.de)? Please attach the log:
 
-For a quick solution to the problem, please include relevant information about your problem or setup.
+For a quick solution to the problem, please include relevant information about your problem, setup and the failed step of the troubleshooting from these page.
 
 You can reach us at [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A).
 
