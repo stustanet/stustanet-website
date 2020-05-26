@@ -123,3 +123,7 @@ Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 
 Die anderen Fehler mit Lösungsansätze sind [hier]({{< ref "selftest.de.md" >}}) genauer beschrieben.
 Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
+
+## Lösung 3: 
+
+Sollten alle anderen Schritte nicht zu einer Lösung führen, kannst du uns gerne eine [E-Mail]({{< ref "/support/_index.en.md#mail" >}}) schicken.
