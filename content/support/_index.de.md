@@ -23,6 +23,7 @@ Falls du einen Router verwendest, kannst du dir die Problemlösungen auf [dieser
  Mit dem Ergebnis des Tests und der Information was bei der Problemlösung nicht funktioniert wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
 
 ### Wie richte ich einen eigenen Router ein, den ich nicht beim StuStaNet gekauft habe?
+Neben den Router den wir beim StuStaNet zum Verkauf anbieten, kannst du dir auch selbst einen Router kaufen und einrichten.
 Mehr Informationen dazu kannst du auf [dieser Seite]({{< ref "router_instructions.de.md" >}}) finden.
 
 ### Ich bin innerhalb der Studentenstadt umgezogen. Muss ich nochmals Mitglied werden?
