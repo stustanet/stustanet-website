@@ -40,7 +40,7 @@ We offer many different services, including cloud storage, e-mail addresses and 
 
 ### Can I also use the StuStaNet Router outside the Studentenstadt?
 Yes, you can also use it outside the Studentenstadt. 
-However, you will need to adjust your settings, such as the network settings,  in the web interface of the router.
+However, you will need to adjust your settings, such as the network settings, in the web interface of the router.
 
 ### My Internet access has been blocked due to viruses. How do I get it unlocked again?
 A prerequisite for a connection to the German Research Network (Deutsches Forschungsnetz) is permanent monitoring of the network to detect and prevent harmful behavior, such as computer viruses. Such malicious behavior can also be caused by hidden programs running in the background and is not always directly visible to the user.
@@ -86,5 +86,5 @@ You can reach us at [admins[at]stustanet.de](https://stustanet.de/mail/admins?bo
 
 <a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A">Send eMail</a>
 
-Because we work on the mails in our free time, it sometimes takes some time until we answer.
-Normally, we reply within one or two days.
+Because all administrators work voluntarly at varying work times, not all inquiries can be replied to immediately.
+However, we normaly reply within one or two days.
