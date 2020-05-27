@@ -73,7 +73,8 @@ Für letzteres führe [selftest.stustanet.de](http://selftest.stustanet.de) aus.
 
 **dauerhaftes blau-oranges unregelmäßig abwechselndes (auch leicht lila) leuchten:**
 
-Dein Router ist nicht oder nicht korrekt konfiguriert und kann keine Verbindung zum Internet aufbauen. Führe die Konfiguration noch einmal nach der beiligenden StuStaNet-Anleitung aus und achte darauf, dass der Router nachdem du den WPS-Knopf für mehr als fünf Sekunden gedrückt hattest orange blinkt wie oben beschrieben.
+Dein Router ist nicht oder nicht korrekt konfiguriert und kann keine Verbindung zum Internet aufbauen.
+Führe die Konfiguration noch einmal nach der beiligenden StuStaNet-Anleitung aus und achte besonders darauf, dass der Router nachdem du den *WPS-Knopf für mehr als fünf Sekunden* gedrückt hattest orange blinkt wie oben beschrieben.
 
 Sollte ein wiederholen der Anleitung keine Besserung bringen, kannst du versuchen den Router auf Werkszustand zurückzusetzen.
 
