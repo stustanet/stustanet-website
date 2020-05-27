@@ -36,7 +36,8 @@ Der StuStaNet bietet verschiedenes Netzwerkzubehör an. Mitglieder erhalten dies
 Wir bieten viele verschiedene Services an, unter anderem einen eigenen Cloud-Speicher, eine eigene E-Mail-Adresse und vieles mehr. Im [Wiki](https://wiki.stusta.de/StuStaNet-Dienste) und unter [account.stustanet.de](https://account.stustanet.de) (nur aus dem StuStaNet erreichbar) erhältst Du einen Überblick, nachdem du deinen Mitgliedsausweis abgeholt hast.
 
 ### Kann ich den StuStaNet Router auch außerhalb der Studentenstadt verwenden?
-Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden. Allerdings müssen die Einstellungen angepasst werden, beispielsweise die Netzwerkeinstellungen.
+Ja, du kannst ihn auch außerhalb der Studentenstadt verwenden.
+Allerdings müssen die Einstellungen, beispielsweise die Netzwerkeinstellungen, im Webinterface des Routers angepasst werden.
 
 ### Mein Internetzugang wurde wegen Viren gesperrt. Wie werde ich wieder entsperrt?
 Voraussetzung für eine Anbindung an das Deutsche Forschungsnetz ist ein permanentes Monitoring des Netzwerks um schädliches Verhalten, wie zum Beispiel durch Computerviren, zu erkennen und zu unterbinden. Solch schädliches Verhalten kann auch durch versteckt im Hintergrund laufende Programme geschehen und ist nicht immer direkt für den Nutzer ersichtlich.<br />
@@ -75,8 +76,12 @@ Um das Problem für dich möglichst schnell zu lösen und uns viel Arbeit zu ers
 * Router vom StuStaNet/anderer Router/kein Router:
 * [selftest.stustanet.de](http://selftest.stustanet.de) aufgerufen? Bitte Log einfügen:
 
-Für eine schnelle Lösung des Problems, füge bitte soweit relevant auch Informationen zu deinem Problem oder Setup bei.
+Für eine schnelle Lösung des Problems, füge bitte soweit relevant auch Informationen zu deinem Problem, Setup und wo die Lösungsansätzen von diesen Seiten gescheitert sind.
+Umso mehr Informationen du uns gibst, umso schneller und leichter können wir dir helfen.
 
 Du erreichst uns unter [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A).
 
 <a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A">eMail schicken</a>
+
+Da alle Admins ehrenamtlich und zu keinen festen Arbeitszeiten arbeiten, können nicht alle Anfragen umgehend beantwortet werden.
+Normalerweise erfolgt eine Antwort jedoch innerhalb von ein oder zwei Tagen.
