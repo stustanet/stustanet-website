@@ -9,24 +9,17 @@ headerImage: headers/keyboard.jpg
 
 ## Generelle Hinweise für selbst gekaufte Router
 
-Hier sind kurze Hinweise für die Einrichtung von Routern für das Netzwerk des StuStaNets.
+Grundsätzlich sollte aber jeder im Handel erhältliche Router funktionieren.
 
 Aufgrund der vielen verschiedenen Modelle und Aktualisierungen können wir leider keine genauen Anleitungen anbieten.
 Deshalb sollte diese Seite auch eher als Leitfaden und nicht als Schritt für Schritt Anleitung gesehen werden.
-
-Grundsätzlich sollte aber jeder im Handel erhältliche Router funktionieren.
-
-Wenn man Wert auf maximale Datenrate und minimale Latenz legt kann es sinnvoll sein, einen Router mit Support für das 5 GHz WLAN-Netz (ac Standard oder neuer) zu kaufen, entsprechende Support im Handy und Computer natürlich vorausgesetzt.
-Für den normalen Gebrauch ist das 2,4 GHz Netz allerdings vollkommen ausreichend.
-
-Schreib gerne an [admins[at]stustanet.de](https://stustanet.de/mail/admins) solltest du hier einen Fehler finden oder falls hast eine Anleitung hast, die du uns gerne zur Verfügung stellen willst.
 
 ## Generelle Einrichtungshinweise
 
 Wichtig beim einrichten des Routers ist:
 
-* korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon einer nicht funktioniert) 
-* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss für den Internetanschluss)
+* korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon in der Regel nur die Linke funktioniert) 
+* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (**WAN**) für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
 Letzteres funktioniert ähnlich wie am Computer und die Netzdaten die du auf einem Zettel beim Einzug bekommen hast müssen verwendet werden.
@@ -87,3 +80,10 @@ Hier können wir leider nur generelle Hinweise geben:
 
 * such nach **statische IP**, **Betrieb mit anderem Router**, **Betrieb über vorhandenen Internetanschluss**, **kaskadierten Router** oder äquivalenten Begriffen in der Anleitung oder dem Internet
 * wenn du nicht die vier Parameter **statische IP-Adresse**, **Subnetzmaske**, **Default Gateway** und **DNS Server** einstellen kannst, hast du wahrscheinlich den falschen Betriebsmodus ausgewählt
+
+## Sonstige Hinweise
+
+Wenn man Wert auf maximale Datenrate und minimale Latenz legt kann es sinnvoll sein, einen Router mit Support für das 5 GHz WLAN-Netz (ac Standard oder neuer) zu kaufen, entsprechende Support im Handy und Computer natürlich vorausgesetzt.
+Für den normalen Gebrauch ist das 2,4 GHz Netz allerdings vollkommen ausreichend.
+
+Schreib gerne an [admins[at]stustanet.de](https://stustanet.de/mail/admins) solltest du hier einen Fehler finden oder falls hast eine Anleitung hast, die du uns gerne zur Verfügung stellen willst.

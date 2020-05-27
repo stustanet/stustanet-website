@@ -7,8 +7,6 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
-Hier sind einige Probleme mit Lösungsansätze, um Probleme mit der Internetverbindung in Kombination mit einem Router zu beheben.
-
 Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 
 * korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon einer nicht funktioniert) 
