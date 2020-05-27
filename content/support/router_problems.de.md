@@ -124,4 +124,4 @@ Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *s
 
 ## Lösung 3: 
 
-Sollten alle anderen Schritte nicht zu einer Lösung führen, kannst du uns gerne eine [E-Mail]({{< ref "/support/_index.en.md#mail" >}}) schicken.
+Sollten alle anderen Schritte nicht zu einer Lösung führen, kannst du uns gerne eine [E-Mail]({{< ref "/support/_index.de.md#mail" >}}) schicken.
