@@ -40,7 +40,7 @@ Falls du die Einstellungen nicht erreichen kannst, gehe zu [Lösung 1]({{< ref "
 ## Test 2:
 
 Kannst du [selftest.stustanet.de](http://selftest.stustanet.de) aufrufen?
-Mögliche Fehlercodes auf der Seite sind auf der [Hilfsseite Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
+Mögliche Fehlercodes auf der Seite sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
 
 Sollte es zu dem dort gelisteten **_Fehler 1_** kommen, ist dein Router wahrscheinlich nicht korrekt eingerichtet.
 Gehe in dem Fall zu [Lösung 2]({{< ref "#solution_2" >}})
@@ -119,7 +119,7 @@ Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 * *Für StuStaNet-Router*: beachte die beiliegende Anleitung mit StuStaNet-Logo
 * *Für normale Router*: beachte die Punkte auf der Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}})
 
-Die anderen Fehler mit Lösungsansätze sind auf der [Hilfsseite Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
+Die anderen Fehler mit Lösungsansätze sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
 Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
 
 ## Lösung 3: 
