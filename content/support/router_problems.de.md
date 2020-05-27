@@ -15,12 +15,12 @@ Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 * richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
-und falls du keinen Router vom StuStaNet besitzt, dass du die Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
+und falls du keinen Router vom StuStaNet besitzt, dass du die Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
 
 Führe die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
 
 Sollte keine der beschriebenen Anssätze das Problem lösten, kannst du uns eine Mail schreiben.
-Eine Anleitung dazu findest du [hier]({{< ref "_index.de.md#mail" >}}).
+Schreib uns dazu bitte alle Informationen die in unserem [FAQ zur Mail]({{< ref "_index.de.md#mail" >}}) aufgelistet sind.
 
 ## Test 0:
 
@@ -42,7 +42,7 @@ Falls du die Einstellungen nicht erreichen kannst, gehe zu [Lösung 1]({{< ref "
 ## Test 2:
 
 Kannst du [selftest.stustanet.de](http://selftest.stustanet.de) aufrufen?
-Mögliche Fehlercodes auf der Seite sind [hier]({{< ref "selftest.de.md" >}}) beschrieben.
+Mögliche Fehlercodes auf der Seite sind auf der [Hilfsseite Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
 
 Sollte es zu dem dort gelisteten **_Fehler 1_** kommen, ist dein Router wahrscheinlich nicht korrekt eingerichtet.
 Gehe in dem Fall zu [Lösung 2]({{< ref "#solution_2" >}})
@@ -119,9 +119,9 @@ Wenn die IP-Adresse die du rausgefunden hast sich stark von 192.168.**X**.**X** 
 Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 
 * *Für StuStaNet-Router*: beachte die beiliegende Anleitung mit StuStaNet-Logo
-* *Für normale Router*: beachte die Punkte auf der Seite zur [allgemeinen Routereinrichtung]({{< ref "router_instructions.de.md" >}})
+* *Für normale Router*: beachte die Punkte auf der Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}})
 
-Die anderen Fehler mit Lösungsansätze sind [hier]({{< ref "selftest.de.md" >}}) genauer beschrieben.
+Die anderen Fehler mit Lösungsansätze sind auf der [Hilfsseite Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
 Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
 
 ## Lösung 3: 
