@@ -83,6 +83,9 @@ Hier können wir leider nur generelle Hinweise geben:
 
 ## Sonstige Hinweise
 
+Zum Testen, ob die Einrichtung erfolgreich war, kannst du unser Tool [selftest.stustanet.de](http://selftest.stustanet.de) verwenden.
+Mehr Informationen dazu findest du auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}).
+
 Wenn man Wert auf maximale Datenrate und minimale Latenz legt kann es sinnvoll sein, einen Router mit Support für das 5 GHz WLAN-Netz (ac Standard oder neuer) zu kaufen, entsprechende Support im Handy und Computer natürlich vorausgesetzt.
 Für den normalen Gebrauch ist das 2,4 GHz Netz allerdings vollkommen ausreichend.
 
