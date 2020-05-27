@@ -19,7 +19,7 @@ Deshalb sollte diese Seite auch eher als Leitfaden und nicht als Schritt für Sc
 Wichtig beim einrichten des Routers ist:
 
 * korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon in der Regel nur die Linke funktioniert) 
-* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (**WAN**) für den Internetanschluss)
+* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (*WAN*) für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
 Letzteres funktioniert ähnlich wie am Computer und die Netzdaten die du auf einem Zettel beim Einzug bekommen hast müssen verwendet werden.
