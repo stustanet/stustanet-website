@@ -1,6 +1,6 @@
 ---
-title: Router Einrichtung
-header: Router Einrichtung
+title: Allgemeine Routereinrichtung
+header: Allgemeine Routereinrichtung
 description: Kurze Hinweise wie Router korrekt konfiguriert werden können.
 type: page
 color: none
