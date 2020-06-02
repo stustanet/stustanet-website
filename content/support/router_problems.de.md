@@ -20,12 +20,12 @@ Führe die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem d
 Sollte keine der beschriebenen Anssätze das Problem lösten, kannst du uns eine Mail schreiben.
 Schreib uns dazu bitte alle Informationen die in unserem [FAQ zur Mail]({{< ref "_index.de.md#mail" >}}) aufgelistet sind.
 
-## Test 0:
+## Test 0 - StuStaNet-Router:
 
 Nur für StuStaNet-Router:
 Gehe zu [Lösung 0]({{< ref "#solution_0" >}}).
 
-## Test 1:
+## Test 1 - Router <-> Computer Verbindung:
 
 Kannst du das Webinterface deines Routers erreichen, wenn du mit dem Router per W-LAN oder einem LAN-Kabel verbunden bist?
 
@@ -37,7 +37,7 @@ Die Adresse sollte auch in der Anleitung des Routers zu finden sein.
 
 Falls du die Einstellungen nicht erreichen kannst, gehe zu [Lösung 1]({{< ref "#solution_1" >}}).
 
-## Test 2:
+## Test 2 - Router <-> Internet Verbindung:
 
 Kannst du [selftest.stustanet.de](http://selftest.stustanet.de) aufrufen?
 Mögliche Fehlercodes auf der Seite sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
@@ -45,7 +45,7 @@ Mögliche Fehlercodes auf der Seite sind auf der [Hilfeseite Selftest]({{< ref "
 Sollte es zu dem dort gelisteten **_Fehler 1_** kommen, ist dein Router wahrscheinlich nicht korrekt eingerichtet.
 Gehe in dem Fall zu [Lösung 2]({{< ref "#solution_2" >}})
 
-## Lösung 0: {#solution_0}
+## Lösung 0 - StuStaNet-Router: {#solution_0}
 
 Die StuStaNet-Router haben von uns zur Unterscheidung eine Nummer bekommen.
 
@@ -92,7 +92,7 @@ Das Konfigurationsskript wird durch das drücken der Reset-Taste mit einem spitz
 
 Die anderen Router von uns werden wie in deren StuStaNet-Anleitung beschrieben mit der WPS-Taste konfiguriert.
 
-## Lösung 1: {#solution_1}
+## Lösung 1 - Router <-> Computer Verbindung: {#solution_1}
 
 Finde heraus über welche IP-Adresse sich dein PC mit dem Router verbindet.
 
@@ -113,7 +113,7 @@ Such am besten in der Suchmaschine deiner Wahl nach **Standardgateway** in Kombi
 
 Wenn die IP-Adresse die du rausgefunden hast sich stark von 192.168.**X**.**X** unterscheiden (z.B. 10.**X**.**X**.**X**), dann hast du wahrscheinlich eine statische IP auf deinem Computer eingestellt und musst diese wieder auf automatischen Bezug ändern.
 
-## Lösung 2: {#solution_2}
+## Lösung 2 - Router <-> Internet Verbindung: {#solution_2}
 
 Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 
@@ -123,6 +123,7 @@ Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 Die anderen Fehler mit Lösungsansätze sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
 Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
 
-## Lösung 3: 
+## Sonstige Lösungen - Mailsupport: 
 
 Sollten alle anderen Schritte nicht zu einer Lösung führen, kannst du uns gerne eine [E-Mail]({{< ref "/support/_index.de.md#mail" >}}) schicken.
+Bitte beschreibe dabei genau, wo du auf dieser Seite gescheitert bist.

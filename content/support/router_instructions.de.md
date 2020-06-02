@@ -1,7 +1,7 @@
 ---
 title: Allgemeine Routereinrichtung
 header: Allgemeine Routereinrichtung
-description: Kurze Hinweise wie Router korrekt konfiguriert werden können.
+description: Kurze Hinweise wie Router in der StuSta korrekt konfiguriert werden können.
 type: page
 color: none
 headerImage: headers/keyboard.jpg
@@ -9,17 +9,17 @@ headerImage: headers/keyboard.jpg
 
 ## Generelle Hinweise für selbst gekaufte Router
 
-Grundsätzlich sollte aber jeder im Handel erhältliche Router funktionieren.
+Grundsätzlich sollte mit der richtigen Konfiguration jeder im Handel erhältliche Router funktionieren.
 
 Aufgrund der vielen verschiedenen Modelle und Aktualisierungen können wir leider keine genauen Anleitungen anbieten.
 Deshalb sollte diese Seite auch eher als Leitfaden und nicht als Schritt für Schritt Anleitung gesehen werden.
 
 ## Generelle Einrichtungshinweise
 
-Wichtig beim einrichten des Routers ist:
+Wichtig beim Einrichten des Routers ist:
 
 * korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon in der Regel nur die Linke funktioniert) 
-* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (*WAN*) für den Internetanschluss)
+* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (genannt *WAN*) für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
 Letzteres funktioniert ähnlich wie am Computer und die Netzdaten die du auf einem Zettel beim Einzug bekommen hast müssen verwendet werden.
@@ -27,14 +27,14 @@ Letzteres funktioniert ähnlich wie am Computer und die Netzdaten die du auf ein
 Das heißt es müssen eingestellt werden:
 
 * korrekter Betriebsmodus
-* statische IP Adresse
+* statische IP-Adresse
 * Subnetzmaske
-* DNS Server
-* Default Gateway
+* DNS-Server
+* Standard-Gateway
 
 Folgendes ist normalerweise standardmäßig schon richtig eingestellt, aktiviert und sollte auch so bleiben:
 
-* DHCP Server
+* DHCP-Server
 * Firewall
 * NAT
 
@@ -42,7 +42,7 @@ Folgendes ist normalerweise standardmäßig schon richtig eingestellt, aktiviert
 
 ### TP-Link
 
-Such am besten in der Anleitung deines Routers nach **Statische IP-Adresse** oder **Statische IP** in Zusammenhang mit der Internetkonfiguration.
+Such in der Anleitung deines Routers nach **Statische IP-Adresse** oder **Statische IP** in Zusammenhang mit der Internetkonfiguration.
 
 Bei vielen Modellen gibt es in der **Schnellinstallation/-einrichtung** oder im Reiter **Internet** (oder **Netzwerk**) eine Option die so heißen sollte.
 
@@ -50,7 +50,7 @@ Anschließend kann man die benötigten Parameter eintragen.
 
 ### Asus
 
-Such am besten in der Anleitung deines Routers nach **Statische IP** oder **Feste IP** in Zusammenhang mit der Internetkonfiguration.
+Such in der Anleitung deines Routers nach **Statische IP** oder **Feste IP** in Zusammenhang mit der Internetkonfiguration.
 
 Bei vielen Modellen gibt es in der **Schnellinstallation/-einrichtung** oder im Reiter **WAN** (oder **Internetverbindung**) eine Option die so heißen sollte.
 
@@ -60,11 +60,11 @@ Anschließend kann man die benötigten Parameter eintragen.
 
 #### Neuere Modelle
 
-Such in der Anleitung oder der AVM Wissensdatenbank nach dem Stichwort **kaskadierten Router** und folge der Anleitung.
+Such in der Anleitung oder der AVM-Wissensdatenbank nach dem Stichwort **kaskadierten Router** in Kombination mit deinem Routermodell und folge der Anleitung.
 
 #### Ältere Modelle
 
-Such in der Anleitung oder der AVM Wissensdatenbank nach dem Stichwort **Betrieb mit anderem Router einrichten** und folge der Anleitung.
+Such in der Anleitung oder der AVM-Wissensdatenbank nach dem Stichwort **Betrieb mit anderem Router einrichten** in Kombination mit deinem Routermodell und folge der Anleitung.
 
 -------------
 
