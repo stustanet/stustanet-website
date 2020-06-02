@@ -89,4 +89,4 @@ Mehr Informationen dazu findest du auf der [Hilfeseite Selftest]({{< ref "selfte
 Wenn man Wert auf maximale Datenrate und minimale Latenz legt kann es sinnvoll sein, einen Router mit Support für das 5 GHz WLAN-Netz (ac Standard oder neuer) zu kaufen, entsprechende Support im Handy und Computer natürlich vorausgesetzt.
 Für den normalen Gebrauch ist das 2,4 GHz Netz allerdings vollkommen ausreichend.
 
-Schreib uns gerne eine [E-Mail]({{< ref "/support/_index.de.md#mail" >}}) solltest du hier einen Fehler finden oder falls hast eine Anleitung hast, die du uns gerne zur Verfügung stellen willst.
+Schreib uns gerne eine [E-Mail]({{< ref "/support/_index.de.md#mail" >}}) solltest du mehr Hilfe brauchen, hier einen Fehler finden oder falls du eine Anleitung hast, die du uns gerne zur Verfügung stellen willst.

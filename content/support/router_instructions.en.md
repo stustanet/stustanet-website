@@ -84,9 +84,9 @@ Unfortunately, we can only give general information here:
 ## Other notes
 
 To test if the setup was successful, you can use our tool [selftest.stustanet.de](http://selftest.stustanet.de).
-You can find more information on the [Selftest help page]({{{< ref "selftest.de.md" >}}).
+You can find more information on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
 
 If you want maximum data rate and minimum latency, it might be useful to buy a router with support for the 5 GHz WLAN network (ac standard or newer), assuming you have the appropriate support in your phone and computer.
 For normal use, the 2.4 GHz network is sufficient.
 
-Please write us an [E-Mail]({{< ref "/support/_index.en.md#mail" >}}) if you find an error or if you have a manual that you would like to share with us.
+Please write us an [E-Mail]({{< ref "/support/_index.en.md#mail" >}}) if you need further help, find an error or if you have a manual that you would like to share with us.

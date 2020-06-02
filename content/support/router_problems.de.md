@@ -9,8 +9,8 @@ headerImage: headers/keyboard.jpg
 
 Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 
-* korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon einer nicht funktioniert) 
-* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss für den Internetanschluss)
+* korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon in der Regel nur die Linke funktioniert) 
+* richtigen Anschluss am Router für das LAN-Kabel auswählen (meistens gibt es eine speziell markierten Anschluss (genannt *WAN*) für den Internetanschluss)
 * richtige Konfiguration des Routers nach der jeweiligen beiligenden Anleitung
 
 und falls du keinen Router vom StuStaNet besitzt, dass du die Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}}) durchgelesen hast.
@@ -18,7 +18,7 @@ und falls du keinen Router vom StuStaNet besitzt, dass du die Seite [Allgemeine 
 Führe die folgenden Punkte in Reihenfolge mit eingerichtetem Router und einem damit verbundenen Gerät aus.
 
 Sollte keine der beschriebenen Anssätze das Problem lösten, kannst du uns eine Mail schreiben.
-Schreib uns dazu bitte alle Informationen die in unserem [FAQ zur Mail]({{< ref "_index.de.md#mail" >}}) aufgelistet sind.
+Schreib uns dazu bitte alle Informationen die in unserem [FAQ zur Mail]({{< ref "_index.de.md#mail" >}}) aufgelistet sind und beschreibe genau was auf dieser Seite nicht funktioniert hat.
 
 ## Test 0 - StuStaNet-Router:
 
@@ -40,7 +40,7 @@ Falls du die Einstellungen nicht erreichen kannst, gehe zu [Lösung 1]({{< ref "
 ## Test 2 - Router <-> Internet Verbindung:
 
 Kannst du [selftest.stustanet.de](http://selftest.stustanet.de) aufrufen?
-Mögliche Fehlercodes auf der Seite sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
+Mögliche Fehlercodes auf der Seite sind auf der Seite [Hilfe Selftest]({{< ref "selftest.de.md" >}}) beschrieben.
 
 Sollte es zu dem dort gelisteten **_Fehler 1_** kommen, ist dein Router wahrscheinlich nicht korrekt eingerichtet.
 Gehe in dem Fall zu [Lösung 2]({{< ref "#solution_2" >}})
@@ -56,14 +56,16 @@ Sie hat vier Stellen und sollte mit einem **_#_** beginnen.
 
 Die StuStaNet Router der Nummer *6000* und neuer haben einen LED Code aus dem man meistens den Fehler eingrenzen kann.
 
-
 **dauerhaftes oranges leuchten:**
 
-Es besteht keine Verbindung zum Netzwerk. Kontrolliere, ob der Router mit dem korrekten Netzwerkanschluss an der Wand verbunden ist und ob das Kabel auch am Router im richtigen Anschluss steckt.
+Es besteht keine Verbindung zum Netzwerk. 
+Kontrolliere, ob der Router mit dem korrekten Netzwerkanschluss an der Wand verbunden ist und ob das Kabel auch am Router im richtigen Anschluss steckt.
 
 **oranges blinken:**
 
-Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der Router sein Setupskript aus. Das kann etwas dauern. Danach sollte die LED unregelmäßig blau blinken.
+Nachdem die WPS-Taste für mehr als fünf Sekunden gedrückt wurde, führt der Router sein Setupskript aus. 
+Das kann etwas dauern. 
+Danach sollte die LED unregelmäßig blau blinken.
 
 **unregelmäßiges blaues blinken:**
 
@@ -89,6 +91,8 @@ Anschließend kannst du nochmal versuchen die beiliegende Anleitung mit dem StuS
 ### StuStaNet-Router Konfiguration für Nummer #5000 - #5999
 
 Das Konfigurationsskript wird durch das drücken der Reset-Taste mit einem spitzen Gegenstand (Stift) für mehrere Sekunden ausgelöst.
+
+### StuStaNet-Router Konfiguration für Nummer kleiner #5000
 
 Die anderen Router von uns werden wie in deren StuStaNet-Anleitung beschrieben mit der WPS-Taste konfiguriert.
 
@@ -120,10 +124,5 @@ Kontrolliere und wiederhole in dem Fall noch einmal die Einrichtung und
 * *Für StuStaNet-Router*: beachte die beiliegende Anleitung mit StuStaNet-Logo
 * *Für normale Router*: beachte die Punkte auf der Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}})
 
-Die anderen Fehler mit Lösungsansätze sind auf der [Hilfeseite Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
+Die anderen Fehler mit Lösungsansätze sind auf der Seite [Hilfe Selftest]({{< ref "selftest.de.md" >}}) genauer beschrieben.
 Befolge die dortigen Anweisungen und folge den Links in der Fehlermeldung von *selftest*.
-
-## Sonstige Lösungen - Mailsupport: 
-
-Sollten alle anderen Schritte nicht zu einer Lösung führen, kannst du uns gerne eine [E-Mail]({{< ref "/support/_index.de.md#mail" >}}) schicken.
-Bitte beschreibe dabei genau, wo du auf dieser Seite gescheitert bist.
