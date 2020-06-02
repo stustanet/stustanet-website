@@ -9,8 +9,8 @@ headerImage: headers/keyboard.jpg
 
 First make sure that the following tasks have been carried out:
 
-* choose correct network plug at the wall (most rooms have two from which normally only the left one is functional)
-* choose correct plug for the LAN cable at the router (most of the time there is a marked plug (called *WAN*) for the internet connection)
+* choose correct network plug at the wall (most rooms have two on the wall, of which normally only the left one is functional)
+* choose correct plug for the LAN cable at the router (most of the time there is a marked plug (labeled *WAN*) for the internet connection)
 * choose right configuration for your router according to its instructions
 
 and if you do not have a StuStaNet router, that you have read the [General Router Configuration]({{< ref "router_instructions.en.md" >}}) page.
@@ -42,7 +42,7 @@ If you cannot reach the settings, go to [Solution 1]({{< ref "#solution_1" >}}).
 Can you access [selftest.stustanet.de](http://selftest.stustanet.de)?
 Possible error codes on the page are described on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
 
-If the **_error 1_** listed there occurs, your router is probably not set up correctly.
+If the **_Error 1_** listed there occurs, your router is probably not set up correctly.
 In this case go to [solution 2]({{< ref "#solution_2" >}})
 
 ## Solution 0 - StuStaNet router: {#solution_0}

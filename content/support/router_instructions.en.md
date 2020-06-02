@@ -18,8 +18,8 @@ Therefore, this site provides more of a guideline and not step-by-step instructi
 
 Important notes for the router configuration:
 
-* choose correct network plug at the wall (most rooms have two from which normally only the left one is functional)
-* choose correct plug for the LAN cable at the router (most of the time there is a marked plug (called *WAN*) for the internet connection)
+* choose correct network plug at the wall (most rooms have two on the wall, of which normally only the left one is functional)
+* choose correct plug for the LAN cable at the router (most of the time there is a marked plug (labeled *WAN*) for the internet connection)
 * choose right configuration for your router according to its instructions
 
 The latter works similar as the configuration when using only computer and the network information on a page you got when moving has to be used.

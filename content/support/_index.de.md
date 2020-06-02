@@ -16,11 +16,11 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 ## Frequently Answered Questions {#faq}
 
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
-Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit der [Anleitung zum StuStaNet Selftest]({{< ref "selftest.de.md" >}}).
+Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit dem [StuStaNet Selftest]({{< ref "selftest.de.md" >}}) zu machen.
 
 Falls du einen Router verwendest, kannst du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}) Lösungsansätze finden.
 
- Mit dem Ergebnis des Tests und der Information was bei der Problemlösung nicht funktionierte wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
+Mit dem Ergebnis des Tests und der Information was bei der Problemlösung nicht funktionierte wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
 
 ### Wie richte ich einen eigenen Router ein, den ich nicht beim StuStaNet gekauft habe?
 Neben den Router den wir beim StuStaNet zum Verkauf anbieten, kannst du dir auch selbst einen Router kaufen und einrichten.

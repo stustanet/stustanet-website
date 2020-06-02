@@ -25,7 +25,7 @@ If you have problems with the site or if you are unsure what to do with the resu
 
 oder
 
-{{< figure src="/support//selftest/nointernetfirefox.png" height="150" >}}
+{{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 There is probably a problem with your router configuration or your PC configuration.
 For routers you can find more help on the the page [Router Problems First Aid]({{< ref "router_problems.en.md" >}}).

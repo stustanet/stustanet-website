@@ -16,14 +16,14 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 ## Frequently Answered Questions {#faq}
 
 ### I have set up my Internet according to the instructions. But I still have no connection?
-This can have many causes. The best way to do this is to perform a connection test with the [instructions for the StuStaNet selftest]({{< ref "selftest.en.md" >}}).
+This can have many causes. The best way to do this is to perform a connection test with the [StuStaNet Selftest]({{< ref "selftest.en.md" >}}).
 
 If you are using a router, you can find solutions on the [Router Problems First Aid]({{< ref "router_problems.en.md" >}}) page.
 
- With the result of the test and the information what did not work during the problem solving you can contact the network administrators by [mail to the network administrators]({{< ref "#mail" >}})).
+ With the result of the test and the information what did not work during the problem solving you can [contact the network administrators by mail]({{< ref "#mail" >}})).
 
 ### How do I set up my own router that I did not buy from StuStaNet?
-In addition to the routers we offer for sale on the StuStaNet, you can also buy and set up your own router.
+In addition to the routers we offer for sale at StuStaNet, you can also buy and set up your own router.
 You can find information on this on the [General Router Setup]({{< ref "router_instructions.en.md" >}}) page.
 
 ### I moved within Studentenstadt. Do I have to become a member again?
