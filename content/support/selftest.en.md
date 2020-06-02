@@ -1,6 +1,6 @@
 ---
-title: Selftest
-header: Selftest
+title: Selftest Help
+header: Selftest Help
 description: Short description of selftest and possible error messages
 type: page
 color: none
@@ -21,13 +21,14 @@ If you have problems with the site or if you are unsure what to do with the resu
 
 ## Error 1: Page not accessible
 
-{{< figure src="/support/nointernetchrome.png" height="150" >}}
+{{< figure src="/support/selftest/nointernetchrome.png" height="150" >}}
 
 oder
 
-{{< figure src="/support/nointernetfirefox.png" height="150" >}}
+{{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 There is probably a problem with your router configuration or your PC configuration.
+For routers you can find more help on the the page [Router Problems First Aid]({{< ref "router_problems.en.md" >}}).
 
 If you are not able to solve this yourself, please contact the network admins. Just follow the instructions on the link at the end of the page.
 
@@ -71,4 +72,4 @@ You can find out about the advantages of a membership [in the Wiki](https://wiki
 
 If you use a *data saver*, *mobile booser* or similar extension or function, that redirects the Internet traffic to another server, then please turn it off for the test.
 
-Please send us the log of [selftest.stustanet.de](http://selftest.stustanet.de). See the [support mail page]({{< ref "/support/_index.en.md#mail" >}}).
+Please send us the log of [selftest.stustanet.de](http://selftest.stustanet.de). For that have a look at the section [support mail]({{< ref "/support/_index.en.md#mail" >}}).

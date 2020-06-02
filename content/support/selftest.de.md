@@ -1,6 +1,6 @@
 ---
-title: Selftest
-header: Selftest
+title: Selftest Hilfe
+header: Selftest Hilfe
 description: Kurze Erklärung von selftest und möglicher Fehlermeldungen
 type: page
 color: none
@@ -29,6 +29,7 @@ oder
 {{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 Es liegt wahrscheinlich ein Problem mit deiner Router-Konfiguration oder deiner PC-Konfiguration vor.
+Weitere Hilfe zur Routerproblemen findest du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}).
 
 Solltest du das nicht lösen können, dann kontaktiere bitte die Netzwerkadmins. Eine Link dazu findest du am Ende der Seite.
 
@@ -72,4 +73,4 @@ Zu den Vorteilen einer Mitgliedschaft kannst du dich [im Wiki](https://wiki.stus
 
 Falls du eine *Datenspar*, *Mobile Booster* oder ähnliches Erweiterung oder Funktion nutzt, die den Internettraffic über einen anderen Server umleitet, dann schalte sie bitte für den Test aus.
 
-Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Siehe dazu die Seite [Supportmail]({{< ref "/support/_index.de.md#mail" >}}).
+Bitte schicke den Log von [selftest.stustanet.de](http://selftest.stustanet.de). Sieh dir dazu den Abschnitt [Supportmail]({{< ref "/support/_index.de.md#mail" >}}) an.
