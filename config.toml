@@ -46,6 +46,12 @@ name = "Verein"
 identifier = "about"
 url = "/de/about/"
 
+[[Languages.de.menu.main]]
+weight = 5
+name = "Login"
+identifier = "login"
+url = "https://account.stustanet.de"
+
 [Languages.en]
 weight = 2
 languageCode = "en-US"
@@ -74,6 +80,12 @@ weight = 4
 name = "About Us"
 identifier = "about"
 url = "/en/about/"
+
+[[Languages.en.menu.main]]
+weight = 5
+name = "Login"
+identifier = "login"
+url = "https://account.stustanet.de"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
