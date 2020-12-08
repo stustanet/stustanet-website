@@ -51,6 +51,22 @@ Allerdings müssen die Einstellungen, beispielsweise die Netzwerkeinstellungen, 
 Voraussetzung für eine Anbindung an das Deutsche Forschungsnetz ist ein permanentes Monitoring des Netzwerks um schädliches Verhalten, wie zum Beispiel durch Computerviren, zu erkennen und zu unterbinden. Solch schädliches Verhalten kann auch durch versteckt im Hintergrund laufende Programme geschehen und ist nicht immer direkt für den Nutzer ersichtlich.<br />
 Ist eine Sperrung erfolgt, so sind die Instruktionen auf der Sperrseite zu befolgen. Nach Beseitigung des Problems erfolgt entweder nach kurzer Zeit eine automatische Entsperrung (Gelbe Sperrseite / Temporäre Sperrung), oder ist und ein Antrag auf Entsperrung an die auf der Sperrseite angegebene E-Mail-Adresse zu senden (Rote Sperrseite / Permanente Sperrung).
 
+### Wie kann ich den Namen und das Passwort meines WLANs unabhängig von der Marke meines WLAN-Routers ändern?
+Um den Namen (auch SSID bzw. Service Set Identifier genannt) Ihres WLAN-Netzwerks zu ändern, müssen Sie die Administrationsseite Ihres Routers aufrufen. Folgen Sie den folgenden Schritten:
+Schritt 1: Geben Sie die IP-Adresse Ihres Routers in Ihren bevorzugten Webbrowser ein.
+Schritt 2: Melden Sie sich als Administrator an.
+Schritt 3: Gehen Sie in die Einstellungen und suchen Sie nach einer Option mit dem Titel "WLAN-Name" oder "SSID".
+Schritt 4: Geben Sie Ihren neuen gewünschten WLAN-Namen ein.
+Schritt 5: Klicken Sie auf "Speichern" oder "Übernehmen", um die Änderungen zu speichern.
+Schritt 6 (optional): Überprüfen Sie die Änderung mit einem Wifi-Analyzer, wie z.B mit NetSpot -einer WLAN-Analyse-App.
+
+Um das Kennwort Ihres WiFi-Netzwerks zu ändern, wiederholen Sie die obigen Schritte 1 bis 2 (falls Sie noch nicht als Administrator in der Weboberfläche des Routers angemeldet sind), und führen Sie dann die folgenden Schritte aus:
+Schritt 3: Gehen Sie zu den Einstellungen und suchen Sie nach einer Option mit dem Titel "Sicherheit", "Passwort", "Passphrase", "WLAN Schlüssel" oder "WPA-PSK Schlüssel".
+Schritt 4: Stellen Sie außerdem sicher, dass die Authentifizierungsmethode Ihres Routers am sichersten ist. Derzeit ist WPA2 am sichersten.
+Schritt 5: Geben Sie ein neues sicheres Passwort ein.
+Schritt 6: Klicken Sie auf "Speichern" oder "Übernehmen", um die Änderungen zu speichern.
+Wenn Sie über Wi-Fi mit der Webschnittstelle Ihres Routers verbunden sind, nachdem Sie ein neues Kennwort eingegeben haben, wird die Verbindung zu Ihrem Gerät getrennt, da der Router sein altes Wi-Fi-Netzwerk herunterfährt und ein neues Netzwerk aufruft. Einige Router müssen sich komplett neu starten, um die neuen Einstellungen zu übernehmen. Beachten Sie, dass Sie sich von allen Geräten, die zuvor mit dem Netzwerk verbunden waren, erneut mit dem Netzwerk verbinden müssen.
+
 ### Kann ich mich beim StuStaNet einbringen?
 Ja, sehr gerne. Wir freuen uns immer über Interessenten. Siehe dazu die [Infoseite über den StuStaNet e.V.]({{< ref "/about.de.md" >}}).
 
