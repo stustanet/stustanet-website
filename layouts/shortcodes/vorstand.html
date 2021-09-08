@@ -1,14 +1,45 @@
 <dl class="vorstand">
     <dt>{{ i18n "chairman" }}:</dt>
-    <dd>{{ .Site.Data.Vorstand.VV }}</dd>
+    {{/* a comment */}}
+    <dd>{{ .Site.Data.Vorstand.VV }} 
+    {{ if and (fileExists "keys/board/vv.md") 
+            ((time (.Site.GetPage "keys/board/vv.md").ExpiryDate).After now) 
+            (gt (len (.Site.GetPage "keys/board/vv.md").Content) 10) }}
+        <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">[PGP key]</a>
+    {{ end }}
+    </dd>
     <dt>{{ i18n "treasurer" }}:</dt>
-    <dd>{{ .Site.Data.Vorstand.CC }}</dt>
+    <dd>{{ .Site.Data.Vorstand.CC }} 
+    {{ if and (fileExists "keys/board/cc.md") 
+            ((time (.Site.GetPage "keys/board/cc.md").ExpiryDate).After now) 
+            (gt (len (.Site.GetPage "keys/board/cc.md").Content) 10) }}
+        <a href="{{ ref . (dict "path" "/keys/board/cc.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.CC }}.pub">[PGP key]</a>
+    {{ end }}
+    </dd>
     <dt>{{ i18n "1stcto" }}:</dt>
-    <dd>{{ .Site.Data.Vorstand.TV1 }}</dt>
+    <dd>{{ .Site.Data.Vorstand.TV1 }}
+    {{ if and (fileExists "keys/board/tv1.md") 
+            ((time (.Site.GetPage "keys/board/tv1.md").ExpiryDate).After now) 
+            (gt (len (.Site.GetPage "keys/board/tv1.md").Content) 10) }}
+        <a href="{{ ref . (dict "path" "/keys/board/tv1.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV1 }}.pub">[PGP key]</a>
+    {{ end }}
+    </dd>
     <dt>{{ i18n "2ndcto" }}:</dt>
-    <dd>{{ .Site.Data.Vorstand.TV2 }}</dt>
+    <dd>{{ .Site.Data.Vorstand.TV2 }}
+    {{ if and (fileExists "keys/board/tv2.md") 
+            ((time (.Site.GetPage "keys/board/tv2.md").ExpiryDate).After now) 
+            (gt (len (.Site.GetPage "keys/board/tv2.md").Content) 10) }}
+        <a href="{{ ref . (dict "path" "/keys/board/tv2.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV2 }}.pub">[PGP key]</a>
+    {{ end }}
+    </dd>
     <dt>{{ i18n "3rdcto" }}:</dt>
-    <dd>{{ .Site.Data.Vorstand.TV3 }}</dt>
+    <dd>{{ .Site.Data.Vorstand.TV3 }}
+    {{ if and (fileExists "keys/board/tv3.md") 
+            ((time (.Site.GetPage "keys/board/tv3.md").ExpiryDate).After now) 
+            (gt (len (.Site.GetPage "keys/board/tv3.md").Content) 10) }}
+        <a href="{{ ref . (dict "path" "/keys/board/tv3.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV3 }}.pub">[PGP key]</a>
+    {{ end }}
+    </dd>
 </dl>
 <p>
     <i>{{ i18n "validity" }}: {{ .Site.Data.Vorstand.Valid }}</i>
