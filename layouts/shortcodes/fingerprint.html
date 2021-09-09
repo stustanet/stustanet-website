@@ -1,0 +1,13 @@
+<pre>
+{{ if and (eq (.Get 0) "vv") ((time (.Site.GetPage "keys/board/vv.md").ExpiryDate).After now) }}
+    {{ (.Site.GetPage "keys/board/vv.md").Param "fingerprint" }}
+{{ else if and (eq (.Get 0) "cc") ((time (.Site.GetPage "keys/board/cc.md").ExpiryDate).After now) }}
+    {{ (.Site.GetPage "keys/board/cc.md").Param "fingerprint" }}
+{{ else if and (eq (.Get 0) "tv1") ((time (.Site.GetPage "keys/board/tv1.md").ExpiryDate).After now) }}
+    {{ (.Site.GetPage "keys/board/tv1.md").Param "fingerprint" }}
+{{ else if and (eq (.Get 0) "tv2") ((time (.Site.GetPage "keys/board/tv2.md").ExpiryDate).After now) }}
+    {{ (.Site.GetPage "keys/board/tv2.md").Param "fingerprint" }}
+{{ else if and (eq (.Get 0) "tv3") ((time (.Site.GetPage "keys/board/tv3.md").ExpiryDate).After now) }}
+    {{ (.Site.GetPage "keys/board/tv3.md").Param "fingerprint" }}
+{{ end }}
+</pre>

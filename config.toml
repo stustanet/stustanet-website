@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableHugoGeneratorInject = true
 disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 enableGitInfo = false
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 
 [caches]
 [caches.getjson]

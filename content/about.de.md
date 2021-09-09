@@ -38,6 +38,9 @@ Das Wohnheim in der Max-Bill-Straße wurde im Juni 2016 in das Netz des StuStaNe
 ## Vorstand
 {{< vorstand >}}
 
+Eine Liste der Public-Keys vom aktuellen Vorstand und alten Vorständen befindet sich [hier]({{< ref "keys" >}}).
+
+
 
 ## Satzung
 Die aktuelle Satzung des StuStaNet e. V. ist [im Vereinsanzeiger einsehbar](https://vereinsanzeiger.stustanet.de/satzung.pdf).

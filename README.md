@@ -20,3 +20,32 @@ All content is generated from the markdown files in `content/`.
 
 ## Board
 Data in `data/Vorstand.toml`,
+
+## PGP Keys
+Keys are stored in the `content/keys` folder. Board keys (Vorstandskeys) are stored in files named
+`vorstand_2x_2y.md` in the content section. The key itself needs to be put into the `{{< key >}}`
+shortcode. Furthermore, the following two front matter variables should be set: `type: "vorstands_key"`
+and `title: ".."` should be set to keys name for example "Vorstand 21/22" (this will be shown on the
+website!). One can also define `fingerprint: "..."` with the keys fingerprint to allow users to 
+compare their given key.
+
+Every board member can also upload his or her public key into the respective file in `content/keys/board`.
+The files work similar to the board keys except that the `type` front matter variable should **not**
+be set and the `expiryDate` variable **should** be set to the date where the board member will no
+longer be in office. This will tell hugo to no longer include the key when creating the static webpage.
+
+### PGP Cheat Sheet
+```bash
+# generate key
+gpg --gen-key
+# list all keys
+gpg --list-keys
+# export key in ascii format, e.g. key CB63071990D6ED1213015E5E32E91A27940020FF
+gpg -a --export CB63071990D6ED1213015E5E32E91A27940020FF
+# or export to file
+# (email addresses can also be used to identify keys)
+gpg -o board.key -a --export vorstand@stustanet.de
+# show fingerprint
+gpg --fingerprint vorstand@stustanet.de
+```
+For further reference see https://www.gnupg.org/gph/de/manual/r1023.html or `man gpg` :)

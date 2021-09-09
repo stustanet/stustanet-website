@@ -12,7 +12,7 @@ Anbieter und Betreiber dieser Webseite ist der Verein StuStaNet e. V.
 Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Vorsitzender Vorstand des Vereins StuStaNet e. V.
 
 ## StuStaNet e. V.
-Der Computernetzwerkverein in der Studentenstadt
+Der Computernetzwerkverein in der Studentenstadt Freimann
 
 {{% dl title="Vorstandsmitglieder:" %}}
 {{< vorstand >}}
