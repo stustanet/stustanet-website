@@ -34,7 +34,11 @@ The files work similar to the board keys except that the `type` front matter var
 be set and the `expiryDate` variable **should** be set to the date where the board member will no
 longer be in office. This will tell hugo to no longer include the key when creating the static webpage.
 
-### PGP Cheat Sheet
+### GPG Cheat Sheet
+Thunderbird natively supports PGP keys. You can easily create and manage your keys
+in the GUI under Settings>End-To-End Encryption.
+
+Or directly use GPG to manage your keys:
 ```bash
 # generate key
 gpg --gen-key
