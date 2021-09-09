@@ -2,7 +2,7 @@
 {{ range where .Pages "Type" "vorstands_key" -}}
     {{ if (gt (len .Content) 10) -}}
         <h3>PGP Key {{ .Title }}</h3>
-        <a href="{{ .Permalink }}" download="{{.Title}}.pub">Download</a><br>
+        <a href="{{ .Permalink }}" download="{{.Title}}.asc">Download</a><br>
         {{ if .Param "fingerprint" -}}
             Fingerprint: <code>{{ .Param "fingerprint" }}</code><br>
         {{- end }}
