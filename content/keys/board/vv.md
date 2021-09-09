@@ -1,8 +1,8 @@
 ---
-title: "VV key"
+title: "VV Key"
 aliases: [ "/keys/board/vv/" ]
-expiryDate: 2021-09-09T23:36:56+02:00
-date: 2021-09-02T23:36:56+02:00
+expiryDate: 2021-10-10T23:36:56+02:00
+fingerprint: ""
 ---
 {{< key >}}
 {{</ key >}}

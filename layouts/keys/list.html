@@ -1,5 +1,11 @@
+{{ .Content }}
 {{ range where .Pages "Type" "vorstands_key" }}
-    <h3>{{ .Title }} <a href="{{.Permalink}}" download="{{.Title}}.pub">PGP key</a></h3>
+    <h3>PGP Key {{ .Title }}</h3>
+    <a href="{{ .Permalink }}" download="{{.Title}}.pub">Download</a><br>
+    {{ if .Param "fingerprint" }}
+        Fingerprint: <code>{{ .Param "fingerprint" }}</code><br>
+    {{ end }}
+    Key Dump:
     <pre>
     {{ .Content }}
     </pre>
