@@ -4,7 +4,7 @@
     {{ if and (fileExists "keys/board/vv.md") 
             ((time (.Page.Sites.First.GetPage "keys/board/vv.md").ExpiryDate).After now) 
             (gt (len (.Page.Sites.First.GetPage "keys/board/vv.md").Content) 10) -}}
-        [
+        &nbsp;[
         <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">PGP key</a>
         {{ if (.Page.Sites.First.GetPage "keys/board/vv.md").Param "fingerprint" -}}
             ,
@@ -18,11 +18,11 @@
     {{ if and (fileExists "keys/board/cc.md") 
             ((time (.Page.Sites.First.GetPage "keys/board/cc.md").ExpiryDate).After now) 
             (gt (len (.Page.Sites.First.GetPage "keys/board/cc.md").Content) 10) -}}
-        [
-        <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">PGP key</a>
-        {{ if (.Page.Sites.First.GetPage "keys/board/vv.md").Param "fingerprint" -}}
+        &nbsp;[
+        <a href="{{ ref . (dict "path" "/keys/board/cc.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.CC }}.pub">PGP key</a>
+        {{ if (.Page.Sites.First.GetPage "keys/board/cc.md").Param "fingerprint" -}}
             ,
-            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/vv.md" "lang" "de") }}">Fingerprint</a>
+            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/cc.md" "lang" "de") }}">Fingerprint</a>
         {{- end }}
         ]
     {{- end }}
@@ -32,11 +32,11 @@
     {{ if and (fileExists "keys/board/tv1.md") 
             ((time (.Page.Sites.First.GetPage "keys/board/tv1.md").ExpiryDate).After now) 
             (gt (len (.Page.Sites.First.GetPage "keys/board/tv1.md").Content) 10) }}
-        [
-        <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">PGP key</a>
-        {{ if (.Page.Sites.First.GetPage "keys/board/vv.md").Param "fingerprint" -}}
+        &nbsp;[
+        <a href="{{ ref . (dict "path" "/keys/board/tv1.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV1 }}.pub">PGP key</a>
+        {{ if (.Page.Sites.First.GetPage "keys/board/tv1.md").Param "fingerprint" -}}
             ,
-            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/vv.md" "lang" "de") }}">Fingerprint</a>
+            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/tv1.md" "lang" "de") }}">Fingerprint</a>
         {{- end }}
         ]
     {{- end }}
@@ -46,11 +46,11 @@
     {{ if and (fileExists "keys/board/tv2.md") 
             ((time (.Page.Sites.First.GetPage "keys/board/tv2.md").ExpiryDate).After now) 
             (gt (len (.Page.Sites.First.GetPage "keys/board/tv2.md").Content) 10) -}}
-        [
-        <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">PGP key</a>
-        {{ if (.Page.Sites.First.GetPage "keys/board/vv.md").Param "fingerprint" -}}
+        &nbsp;[
+        <a href="{{ ref . (dict "path" "/keys/board/tv2.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV2 }}.pub">PGP key</a>
+        {{ if (.Page.Sites.First.GetPage "keys/board/tv2.md").Param "fingerprint" -}}
             ,
-            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/vv.md" "lang" "de") }}">Fingerprint</a>
+            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/tv2.md" "lang" "de") }}">Fingerprint</a>
         {{- end }}
         ]
     {{- end }}
@@ -60,11 +60,11 @@
     {{ if and (fileExists "keys/board/tv3.md") 
             ((time (.Page.Sites.First.GetPage "keys/board/tv3.md").ExpiryDate).After now) 
             (gt (len (.Page.Sites.First.GetPage "keys/board/tv3.md").Content) 10) -}}
-        [
-        <a href="{{ ref . (dict "path" "/keys/board/vv.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.VV }}.pub">PGP key</a>
-        {{ if (.Page.Sites.First.GetPage "keys/board/vv.md").Param "fingerprint" -}}
+        &nbsp;[
+        <a href="{{ ref . (dict "path" "/keys/board/tv3.md" "lang" "de") }}" download="{{ .Site.Data.Vorstand.TV3 }}.pub">PGP key</a>
+        {{ if (.Page.Sites.First.GetPage "keys/board/tv3.md").Param "fingerprint" -}}
             ,
-            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/vv.md" "lang" "de") }}">Fingerprint</a>
+            <a href="{{ ref . (dict "path" "/keys/board/fingerprints/tv3.md" "lang" "de") }}">Fingerprint</a>
         {{- end }}
         ]
     {{- end }}

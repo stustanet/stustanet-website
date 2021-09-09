@@ -38,9 +38,8 @@ Das Wohnheim in der Max-Bill-Straße wurde im Juni 2016 in das Netz des StuStaNe
 ## Vorstand
 {{< vorstand >}}
 
-Den public key des aktuellen Vorstandes und den von älteren Vorständen ist [hier]({{< ref "keys" >}}) zu finden.
+Eine Liste der Public-Keys vom aktuellen Vorstand und alten Vorständen befindet sich [hier]({{< ref "keys" >}}).
 
-TODO: vorstand keys, fix page.url, maybe move board to keys/board, fix de
 
 
 ## Satzung

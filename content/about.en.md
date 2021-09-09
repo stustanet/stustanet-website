@@ -40,7 +40,8 @@ The dormitory in the Max-Bill street was integrated into the StuStaNet Network i
 
 ## The Board of Directors
 {{< vorstand >}}
-Den public key des aktuellen Vorstandes und den von älteren Vorständen ist [hier]({{< ref path="keys" lang="de" >}}) zu finden.
+
+A list of public keys of the current board and previous boards can be viewed [here]({{< ref path="keys" lang="de" >}}).
 
 ## Statute
 The current statute of the StuStaNet e. V. can be found [here](https://vereinsanzeiger.stustanet.de/satzung.pdf) [German].
