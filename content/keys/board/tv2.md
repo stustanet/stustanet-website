@@ -1,7 +1,7 @@
 ---
 title: "TV2 Key"
 aliases: [ "/keys/board/tv2/" ]
-expiryDate: 2021-10-10
+expiryDate: 2022-06-30
 fingerprint: "6D23 2D5B E42A A22A 942F  4239 7102 7C2E 4927 4B98"
 ---
 {{< key >}}
