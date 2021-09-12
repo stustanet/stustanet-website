@@ -1,7 +1,7 @@
 ---
 title: "TV1 Key"
 aliases: [ "/keys/board/tv1/" ]
-expiryDate: 2021-10-10
+expiryDate: 2022-06-30
 fingerprint: "6D8A AF64 2744 1CB4 2813  482E EF5A D8C2 4A3A F378"
 ---
 {{< key >}}-----BEGIN PGP PUBLIC KEY BLOCK-----
