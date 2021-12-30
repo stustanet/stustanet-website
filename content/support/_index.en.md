@@ -54,6 +54,23 @@ However, you will need to adjust your settings, such as the network settings, in
 A prerequisite for a connection to the German Research Network (Deutsches Forschungsnetz) is permanent monitoring of the network to detect and prevent harmful behavior, such as computer viruses. Such malicious behavior can also be caused by hidden programs running in the background and is not always directly visible to the user.
 If a blocking has occurred, the instructions on the blocking page must be followed. Once the problem has been solved, either an automatic unblocking (yellow blocking page / temporary block) is performed after a short time, or a request for unblocking must be sent to the e-mail address specified on the blocking page (red blocking page / permanent block).
 
+### How can I change the name as well as the password of my WiFi regardless of the brand of my WiFi router?
+To change the name of your WiFi network (also known as SSID, or Service Set Identifier), perform the following steps:
+Step 1: Enter your router’s IP address into your favorite web browser.
+Step 2: Access the router's web interface and log in as the administrator (Tip: Often, the default password is either “admin” or just blank. On some routers, you may need to enter “admin” as the username and a blank password, “admin” as both the username and password, or “admin” as just the password with a blank username).
+Step 3: Go to the WiFi settings (depending on your router, these may be on the first page you see, or buried in a section named something like “Wi-Fi", “Wireless”, or “Wireless Networks”. Click around and you should find it) and look for an option called “WiFi name” or “SSID”.
+Step 4: Enter your new desired WiFi name.
+Step 5: Click "Save" or "Apply".
+Step 6 (optional): You can verify the change using a WiFi Analyzer tool on the Internet, for example NetSpot.
+
+To change the password of your WiFi network, repeat step 1 to step 2 above (if you are not already logged in the router's web interface as the administrator), then continue to perform the following steps:
+Step 3: Go to the WiFi settings and look for an option titled "Security", “Password,” “Passphrase,” “Wireless key,” or “WPA-PSK key”. 
+Step 4: Also make sure that the authentication method of your router is the most secure. Currently, WPA2  is the most secure.
+Step 5: Enter a new, strong password.
+Step 6: Click "Save" or "Apply".
+
+After you have entered a new password, If you are connected to your router’s web interface over Wi-Fi, your device will disconnect as the router shuts down its old Wi-Fi network and brings up a new one. Some routers need to restart themselves entirely to apply new settings. Keep in mind that you will have to reconnect to the network from all the devices that were previously connected to it.
+
 ### Can I get involved with StuStaNet?
 Yes, of course! We're always pleased about interested people. See the [information page about the StuStaNet e.V.]({{< ref "/about.en.md" >}}).
 
@@ -94,5 +111,5 @@ You can reach us at [admins[at]stustanet.de](https://stustanet.de/mail/admins?bo
 
 <a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0ARoom%20number%3A%0AHouse%3A%0AStuStaNet%20membership%20%2F%20membership%20fee%20paid%3A%0ARouter%20from%20StuStaNet%2Fother%20router%2Fno%20router%3A%0AVisited%20selftest.stustanet.de%3F%20Please%20attach%20the%20log%3A">Send eMail</a>
 
-Because all administrators work voluntarly at varying work times, not all inquiries can be replied to immediately.
+Because all administrators work voluntarily at varying work times, not all inquiries can be replied to immediately.
 However, we normaly reply within one or two days.
