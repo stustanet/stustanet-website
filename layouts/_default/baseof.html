@@ -35,7 +35,7 @@
         <ul class="menu">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
-            <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.URL) }} class="active"{{end}}>
+            <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.RelPermalink) }} class="active"{{end}}>
               <a class="menu-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>
           {{ end }}
@@ -57,7 +57,7 @@
     <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.URL)}} class="active"{{end}}>
+          <li{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq .URL $.RelPermalink)}} class="active"{{end}}>
             <a class="menu-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
           </li>
         {{ end }}
