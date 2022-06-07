@@ -49,7 +49,6 @@ WLAN **StuStaNet** auswählen. Auf **Zertifikatdetails** klicken und  den Finger
 |--------|--------|
 |Benutzername| [_dein Benutzername@stusta.de_](https://account.stustanet.de/login)|
 |Passwort| [_dein Passwort_](https://account.stustanet.de/login)|
-|Fingerabdruck|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
 ### <i class="fa fa-linux"></i> Linux NetworkManager {#linux-networkmanager}
 |**Feld**|**Wert**|

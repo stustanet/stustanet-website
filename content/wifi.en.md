@@ -48,7 +48,6 @@ Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fing
 |--------|--------|
 |Username| [_your username@stusta.de_](https://account.stustanet.de/login)|
 |Password| [_your password_](https://account.stustanet.de/login)|
-|Fingerprint|0F E4 C0 60 48 98 41 61 75 7B CD 7A 36 85 C1 86 BC A8 CF F2 CE CC 3B F8 7E 99 EA 27 39 3E 6B 4B|
 
 ### <i class="fa fa-linux"></i> Linux NetworkManager {#linux-networkmanager}
 |**Option**|**Value**|
