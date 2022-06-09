@@ -27,7 +27,8 @@ Im Areal der Studentenstadt bietet StuStaNet für Mitglieder in Außenbereichen 
 
 ## Voraussetzungen
 * StuStaNet-Vereinsmitgliedschaft - Siehe [hier](/)
-* Mitgliedsausweis - diesen kannst du während einer unserer [Sprechstunden]({{< ref "officehours.de.md" >}}) abholen.
+* Wohnhaft in einem Zimmer der StuSta
+* Wlan Zugang - Dieser kann auf der StuStaNet [Account Seite](https://account.stustanet.de) generiert werden
 
 ## Wie verbinde ich mich mit dem WLAN?
 

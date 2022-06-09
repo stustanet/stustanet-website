@@ -27,7 +27,8 @@ In the Studentenstadt StuStaNet offers the StuStaNet WLAN for members in outdoor
 
 ## Prerequisites
 * StuStaNet-Membership - More information [here](/)
-* Member Card - Can be picked up during one of our [office hours]({{< ref "officehours.en.md" >}}).
+* Living in a room the StuSta
+* Wifi Access - Can be created on the StuStaNet [account page](https://account.stustanet.de)
 
 ## How do I connect to the Wi-Fi?
 

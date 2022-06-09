@@ -44,7 +44,7 @@ The StuStaNet offers various network accessories. Members also get this at a dis
 
 
 ### What other advantages do I have with my membership?
-We offer many different services, including cloud storage, e-mail addresses and much more. In the [Wiki](https://wiki.stusta.de/StuStaNet-Services) and under [account.stustanet.de](https://account.stustanet.de) (only accessible from StuStaNet) you get an overview after you have picked up your membership card.
+We offer many different services, including cloud storage, e-mail addresses and much more. In the [Wiki](https://wiki.stusta.de/StuStaNet-Services) and under [account.stustanet.de](https://account.stustanet.de) you get an overview.
 
 ### Can I also use the StuStaNet Router outside the Studentenstadt?
 Yes, you can also use it outside the Studentenstadt. 
