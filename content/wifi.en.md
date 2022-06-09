@@ -42,7 +42,7 @@ Then choose **more options**.
 |Password| [_your password_](https://account.stustanet.de/login)|
 
 ### <i class="fa fa-windows"></i> Windows 10 {#windows-10}
-Select WiFi **StuStaNet**. Click on **Certificate details** and compare the Fingerprint.
+Select WiFi **StuStaNet**.
 
 |**Option**|**Value**|
 |--------|--------|
