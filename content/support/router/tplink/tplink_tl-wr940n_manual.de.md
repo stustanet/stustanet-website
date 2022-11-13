@@ -8,6 +8,7 @@ headerImage: headers/keyboard.jpg
 ---
 - Important steps are marked in red.
 - Make sure to use the IP data from the room and not the one shown.
+- Should work for TP-Link TL-WR940N & TL-WR841N and maybe other.
 
 ### Select "Quick Setup"
 

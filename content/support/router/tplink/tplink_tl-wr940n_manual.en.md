@@ -1,13 +1,14 @@
 ---
-title: TP-Link TL-WR940N Example Steps
-header: TP-Link TL-WR940N Example Steps
-description: Example slide show a basic TP-Link TL-WR940N configuration example. Make sure to replace the IP addresses with your own.
+title: TP-Link TL-WR940N & TL-WR841N Example Steps
+header: TP-Link TL-WR940N & TL-WR841N Example Steps
+description: Example slide show a basic TP-Link TL-WR940N & TL-WR841N configuration example. Make sure to replace the IP addresses with your own.
 type: page
 color: none
 headerImage: headers/keyboard.jpg
 ---
 - Important steps are marked in red.
 - Make sure to use the IP data from the room and not the one shown.
+- Should work for TP-Link TL-WR940N & TL-WR841N and maybe other.
 
 ### Select "Quick Setup"
 

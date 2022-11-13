@@ -56,7 +56,7 @@ Might apply to different TP-Link models as well, as they have similar configurat
 - [Archer C6]({{< ref "/support/router/tplink/tplink_c6_manual.en.md" >}})
 - [Archer C2]({{< ref "/support/router/tplink/tplink_c2_manual.en.md" >}})
 - [Archer C50]({{< ref "/support/router/tplink/tplink_c50_manual.en.md" >}})
-- [TL-WR940N]({{< ref "/support/router/tplink/tplink_tl-wr940n_manual.en.md" >}})
+- [TL-WR940N & TL-WR841N]({{< ref "/support/router/tplink/tplink_tl-wr940n_manual.en.md" >}})
 
 ### Asus
 
