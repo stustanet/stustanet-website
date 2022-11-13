@@ -13,6 +13,8 @@ The page [selftest.stustanet.de](http://selftest.stustanet.de) performs several 
 
 The checks are performed automatically when you visit the site and ideally they are all positive.
 
+Sometimes Safari blocks the diagnostic, then it can help to use a different browser.
+
 {{< figure src="/support/selftest/selftestok.png" height="250" >}}
 
 If you have problems with the site or if you are unsure what to do with the resulting message, please have a look at the following potential errors.
@@ -28,7 +30,7 @@ oder
 {{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 There is probably a problem with your router configuration or your PC configuration.
-For routers you can find more help on the the page [Router Problems First Aid]({{< ref "router_problems.en.md" >}}).
+For routers you can find more help on the the page [Router Problems First Aid]({{< ref "support/router/router_problems.en.md" >}}).
 
 If you are not able to solve this yourself, please contact the network admins. Just follow the instructions on the link at the end of the page.
 
