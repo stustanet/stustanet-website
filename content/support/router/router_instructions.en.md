@@ -27,15 +27,15 @@ The latter works similar as the configuration when using only computer and the n
 You have to configure:
 
 * correct mode of operation
-* static IP adress
-* subnet mask
-* DNS server
-* default gateway
+* Static IP Address
+* Subnet Mask
+* DNS Server
+* Default Gateway
 
 The following are normally correct by the default settings, activated and should stay that way:
 
 * DHCP server
-* firewall
+* Firewall
 * NAT
 
 ## Vendor specific notes
@@ -47,6 +47,16 @@ Search the manual of your router for **Static IP adress** or **Static IP** in th
 For many models, there is an option in the **Quick Install/Quick Setup** or in the **Internet** (or **Network**) tab that should be called like this.
 
 There you can enter the required parameters.
+
+#### Example steps
+
+Check if the configuration site of your router looks similar.
+Might apply to different TP-Link models as well, as they have similar configuration.
+
+- [Archer C6]({{< ref "/support/router/tplink/tplink_c6_manual.en.md" >}})
+- [Archer C2]({{< ref "/support/router/tplink/tplink_c2_manual.en.md" >}})
+- [Archer C50]({{< ref "/support/router/tplink/tplink_c50_manual.en.md" >}})
+- [TL-WR940N]({{< ref "/support/router/tplink/tplink_tl-wr940n_manual.en.md" >}})
 
 ### Asus
 

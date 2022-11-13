@@ -40,7 +40,7 @@ If you cannot reach the settings, go to [Solution 1]({{< ref "#solution_1" >}}).
 ## Test 2 - Router <-> Internet connection:
 
 Can you access [selftest.stustanet.de](http://selftest.stustanet.de)?
-Possible error codes on the page are described on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
+Possible error codes on the page are described on the [Selftest Help]({{< ref "support/diagnostic/selftest.en.md" >}}) page.
 
 If the **_Error 1_** listed there occurs, your router is probably not set up correctly.
 In this case go to [solution 2]({{< ref "#solution_2" >}})
@@ -122,7 +122,7 @@ If the IP address you have found out is very different from 192.168.**X**.**X** 
 In this case check and repeat the installation and
 
 * *For StuStaNet routers*: follow the enclosed instructions with StuStaNet logo
-* *For normal routers*: note the items on the [General Router Setup]({{< ref "router_instructions.en.md" >}}) page
+* *For normal routers*: note the items on the [General Router Setup]({{< ref "support/router/router_instructions.en.md" >}}) page
 
-The other errors with possible solutions are described in more detail on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
+The other errors with possible solutions are described in more detail on the [Selftest Help]({{< ref "support/diagnostic/selftest.en.md" >}}) page.
 Follow the instructions there and follow the links in the *selftest* error message.

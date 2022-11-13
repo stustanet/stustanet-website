@@ -48,6 +48,17 @@ Bei vielen Modellen gibt es in der **Schnellinstallation/-einrichtung** oder im 
 
 Anschließend kann man die benötigten Parameter eintragen.
 
+#### Beispielschritte
+
+Hier sind Beispielanleitungen für einige Routermodelle.
+Auch wenn ein Router hier nicht gelistet ist, kann die Konfiguration trotzdem gleich oder ähnlich sein.
+Am besten mal durchschauen, ob es ähnlich aussieht.
+
+- [Archer C6]({{< ref "/support/router/tplink/tplink_c6_manual.de.md" >}})
+- [Archer C2]({{< ref "/support/router/tplink/tplink_c2_manual.de.md" >}})
+- [Archer C50]({{< ref "/support/router/tplink/tplink_c50_manual.de.md" >}})
+- [TL-WR940N]({{< ref "/support/router/tplink/tplink_tl-wr940n_manual.de.md" >}})
+
 ### Asus
 
 Such in der Anleitung deines Routers nach **Statische IP** oder **Feste IP** in Zusammenhang mit der Internetkonfiguration.
