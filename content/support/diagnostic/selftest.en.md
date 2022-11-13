@@ -13,6 +13,8 @@ The page [selftest.stustanet.de](http://selftest.stustanet.de) performs several 
 
 The checks are performed automatically when you visit the site and ideally they are all positive.
 
+Sometimes Safari blocks the diagnostic, then it can help to use a different browser.
+
 {{< figure src="/support/selftest/selftestok.png" height="250" >}}
 
 If you have problems with the site or if you are unsure what to do with the resulting message, please have a look at the following potential errors.

@@ -13,8 +13,9 @@ Die Seite [selftest.stustanet.de](http://selftest.stustanet.de) führt verschied
 
 Die Checks werden automatisch beim Aufrufen der Seite ausgeführt und im Idealfall sind sie alle positiv.
 
-{{< figure src="/support/selftest/selftestok.png" height="250" >}}
+Manchmal blockiert Safari die Diagnose. Dann kann es helfen einen anderen Browser zu benutzen.
 
+{{< figure src="/support/selftest/selftestok.png" height="250" >}}
 
 Falls du Probleme hast die Seite zu verwenden oder nicht weißt was du mit den Meldungen tun sollst, schau dir bitte die folgende Liste möglicher Fehlermeldungen an.
 
