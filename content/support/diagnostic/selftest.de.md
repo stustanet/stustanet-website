@@ -29,7 +29,7 @@ oder
 {{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 Es liegt wahrscheinlich ein Problem mit deiner Router-Konfiguration oder deiner PC-Konfiguration vor.
-Weitere Hilfe zur Routerproblemen findest du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}).
+Weitere Hilfe zur Routerproblemen findest du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "support/router/router_problems.de.md" >}}).
 
 Solltest du das nicht lösen können, dann kontaktiere bitte die Netzwerkadmins. Eine Link dazu findest du am Ende der Seite.
 

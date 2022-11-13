@@ -28,7 +28,7 @@ oder
 {{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 There is probably a problem with your router configuration or your PC configuration.
-For routers you can find more help on the the page [Router Problems First Aid]({{< ref "router_problems.en.md" >}}).
+For routers you can find more help on the the page [Router Problems First Aid]({{< ref "support/router/router_problems.en.md" >}}).
 
 If you are not able to solve this yourself, please contact the network admins. Just follow the instructions on the link at the end of the page.
 
