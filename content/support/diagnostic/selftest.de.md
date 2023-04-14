@@ -13,8 +13,9 @@ Die Seite [selftest.stustanet.de](http://selftest.stustanet.de) führt verschied
 
 Die Checks werden automatisch beim Aufrufen der Seite ausgeführt und im Idealfall sind sie alle positiv.
 
-{{< figure src="/support/selftest/selftestok.png" height="250" >}}
+Manchmal blockiert Safari die Diagnose. Dann kann es helfen einen anderen Browser zu benutzen.
 
+{{< figure src="/support/selftest/selftestok.png" height="250" >}}
 
 Falls du Probleme hast die Seite zu verwenden oder nicht weißt was du mit den Meldungen tun sollst, schau dir bitte die folgende Liste möglicher Fehlermeldungen an.
 
@@ -29,7 +30,7 @@ oder
 {{< figure src="/support/selftest/nointernetfirefox.png" height="150" >}}
 
 Es liegt wahrscheinlich ein Problem mit deiner Router-Konfiguration oder deiner PC-Konfiguration vor.
-Weitere Hilfe zur Routerproblemen findest du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}).
+Weitere Hilfe zur Routerproblemen findest du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "support/router/router_problems.de.md" >}}).
 
 Solltest du das nicht lösen können, dann kontaktiere bitte die Netzwerkadmins. Eine Link dazu findest du am Ende der Seite.
 

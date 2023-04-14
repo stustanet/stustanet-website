@@ -18,13 +18,13 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
 Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit dem [StuStaNet Selftest]({{< ref "selftest.de.md" >}}) zu machen.
 
-Falls du einen Router verwendest, kannst du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}) Lösungsansätze finden.
+Falls du einen Router verwendest, kannst du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "support/router/router_problems.de.md" >}}) Lösungsansätze finden.
 
 Mit dem Ergebnis des Tests und der Information was bei der Problemlösung nicht funktionierte wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
 
 ### Wie richte ich einen eigenen Router ein, den ich nicht beim StuStaNet gekauft habe?
 Neben den Router den wir beim StuStaNet zum Verkauf anbieten, kannst du dir auch selbst einen Router kaufen und einrichten.
-Informationen dazu kannst du auf der Seite [Allgemeine Routereinrichtung]({{< ref "router_instructions.de.md" >}}) finden.
+Informationen dazu kannst du auf der Seite [Allgemeine Routereinrichtung]({{< ref "support/router/router_instructions.de.md" >}}) finden.
 
 ### Ich bin innerhalb der Studentenstadt umgezogen. Muss ich nochmals Mitglied werden?
 Nein, du musst nicht nochmals Mitglied werden. Schreibe bitte in diesem Fall eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand?subject=Umzug&body=Name%3A%0AAltes%20Haus%20und%20Zimmernummer%3A%0ANeues%20Haus%20und%20Zimmernummer%3A%0AMitgliedsnummer%20(sofern%20bekannt)%3A) und gib hierbei folgende Daten an:
