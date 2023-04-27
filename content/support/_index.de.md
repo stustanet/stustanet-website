@@ -15,6 +15,10 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 
 ## Frequently Answered Questions {#faq}
 
+### Ich habe am 29.04.2023 plötzlich meine Internetverbindung verloren.
+Das liegt daran, dass sich die IP-Adressen in Ihrem Zimmer an diesem Tag geändert worden und Sie Ihren Router neu konfigurieren müssen. [Hier ist, wie man das macht.]
+
+
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
 Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit dem [StuStaNet Selftest]({{< ref "selftest.de.md" >}}) zu machen.
 
