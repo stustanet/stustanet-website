@@ -34,9 +34,9 @@ Here are the option for the current StuStaNet Router:
 {{< figure src="/support/routerproblem/newips_interface_settings.png" width="600" >}}
 
 
-If you still do not have access to the Internet, you can use the self-test tool [(selftest.stusta.de)](http://selftest.stustanet.de) to diagnose the problem yourself.
-More information on general router troubleshooting can be found [here](https://stustanet.de/en/support).
-You can also contact your house's internet admin [(here's the list)](https://dokumente.stustanet.de/adminliste/adminliste.pdf) or send an email to admins@stustanet.de.
+If you still do not have access to the Internet, you can use the self-test tool [(selftest.stusta.de)]({{< ref "selftest" >}}) to diagnose the problem yourself.
+More information on general router troubleshooting can be found [here]({{< ref "support" >}}).
+You can also contact your house's internet admin ([here's the list](https://dokumente.stustanet.de/adminliste/adminliste.pdf)) or send an email to [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A).
 
 
 

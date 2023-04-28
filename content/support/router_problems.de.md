@@ -7,6 +7,12 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
+{{% alert %}}
+Die allgemeinen Router einstellungen in der Stusta haben sich geändert. Diese Informationen sind nicht mehr korrekt.
+Um den Router neu zu verbinden schaue [hier]({{< ref "armageddon." >}}).
+{{% /alert %}}
+
+
 Stelle zuerst sicher, dass folgende Punkte ausgeführt wurden:
 
 * korrekten Netzwerkanschluss an der Wand auswählen (in den meisten Zimmern sind zwei, wovon in der Regel nur die Linke funktioniert) 

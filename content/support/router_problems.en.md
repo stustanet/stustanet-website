@@ -7,6 +7,12 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
+{{% alert %}}
+The general rotuer setup in StuSta changed. The information on this page is no longer valid.
+To connet your router again look at [this]({{< ref "armageddon." >}}).
+{{% /alert %}}
+
+
 First make sure that the following tasks have been carried out:
 
 * choose correct network plug on the wall (most rooms have two, of which normally only the left one is functional)

@@ -7,6 +7,12 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
+{{% alert %}}
+The general rotuer setup in StuSta changed. The information on this page is no longer valid.
+To connet your router again look at [this]({{< ref "armageddon." >}}).
+{{% /alert %}}
+
+
 ## General note for self-bought router
 
 In general, every available router should be usable with the right configuration.
