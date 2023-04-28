@@ -24,6 +24,15 @@ If these addresses do not work, you can find the correct one in the network sett
 ### Changing the IP assignment method:
 This step depends greatly on the router's model. You need to navigate to WAN settings (can be under "Network" or "Interfaces") and change the IP assignment method (can be called "Protocol" or "Connection type") to DHCP ("Dynamic" or "Automatic"). After saving the settings the internet connection should be back.
 
+Here are the option for the current StuStaNet Router:
+1. navigate to *Network* -> *Interfaces*
+2. Edit the Wan interface
+3. Select Protocol *DHCP*
+4. Save and apply everything
+
+{{< figure src="/support/routerproblem/newips_network_settings.png" width="600" >}}
+{{< figure src="/support/routerproblem/newips_interface_settings.png" width="600" >}}
+
 
 If you still do not have access to the Internet, you can use the self-test tool [(selftest.stusta.de)](http://selftest.stustanet.de) to diagnose the problem yourself.
 More information on general router troubleshooting can be found [here](https://stustanet.de/en/support).
