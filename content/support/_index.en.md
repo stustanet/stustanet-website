@@ -15,7 +15,7 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 
 ## Frequently Answered Questions {#faq}
 
-### I have suddenly lost my Internet connection on 29.04.2023.
+### I live at the Max-Bill dormitory and have suddenly lost my Internet connection on 14.10.2023.
 This is because IP addresses in your room changed on that day and you need to reconfigure your router.
 [Here is how to do that.]({{< ref "armageddon.en.md" >}})
 
