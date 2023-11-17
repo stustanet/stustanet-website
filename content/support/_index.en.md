@@ -9,6 +9,7 @@ headerImage: headers/keyboard.jpg
 
 ## First Aid
 On this page you can find first aid for your Internet access in the Studentenstadt.<br />
+If you're looking for help on how to configure your router, have a look on [Router Instructions]({{< ref "router_instructions." >}}).<br>
 For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftest.stustanet.de) can help.
 
 <a class="button" href="http://selftest.stustanet.de/">Connectivity Selftest</a>
@@ -22,7 +23,7 @@ This is because IP addresses in your room changed on that day and you need to re
 ### I have set up my Internet according to the instructions. But I still have no connection?
 This can have many causes. The best way to do this is to perform a connection test with the [StuStaNet Selftest]({{< ref "selftest.en.md" >}}).
 
-If you are using a router, you can find solutions on the [Router Problems First Aid]({{< ref "router_problems.en.md" >}}) page.
+If you are using a router, you can find more information on the page [Router Instructions]({{< ref "router_instructions.en.md" >}}) page.
 
  With the result of the test and the information what did not work during the problem solving you can [contact the network administrators by mail]({{< ref "#mail" >}})).
 

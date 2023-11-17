@@ -1,6 +1,6 @@
 ---
-title: General Router Configuration
-header: General Router Configuration
+title: General Router Configuration & First Aid
+header: General Router Configuration & First Aid
 description: Shorts hints how routers should be configured correctly in the StuSta.
 type: page
 color: none
@@ -8,14 +8,14 @@ headerImage: headers/keyboard.jpg
 ---
 
 {{% alert %}}
-The general rotuer setup in StuSta changed. The information on this page is no longer valid.
-To connet your router again look at [this]({{< ref "armageddon." >}}).
+On 14. October of 2013, the Max Bill House was switched from static IPs to DHCP, which resulted in the loss of internet. For information on what you need to do to re-establish the connection, see [here]({{< ref "armageddon." >}}).
 {{% /alert %}}
 
 
-## General note for self-bought router
+## Which router should I buy?
 
 In general, every available router should be usable with the right configuration.
+For particularly simple setup, we also sell routers in our [office hours]({{< ref "../officehours." >}}). We also offer support for these.
 
 We unfortunately cannot provide exact instructions, due to the vast amount of models.
 Therefore, this site provides more of a guideline and not step-by-step instructions.
@@ -24,68 +24,128 @@ Therefore, this site provides more of a guideline and not step-by-step instructi
 
 Important notes for the router configuration:
 
-* choose correct network plug on the wall (most rooms have two, of which normally only the left one is functional)
-* choose correct plug for the LAN cable at the router (most of the time there is a marked plug (labeled *WAN*) for the internet connection)
-* choose right configuration for your router according to its instructions
+* If you are not a member of StuStaNet, you must first set up a proxy.
+  You can find instructions for this [here for the Studentenstadt](https://dokumente.stustanet.de/netzwerkanleitung/Netzwerkanleitung.pdf) and [here for the Max Bill House](https://dokumente.stustanet.de/netzwerkanleitung/Netzwerkanleitung_mb.pdf). [Here](https://reg.stustanet.de/) you can become a member of StuStaNet and use the internet without a proxy.
+* Choose correct network plug on the wall (most rooms have two, of which normally only the left one is functional)
+* Select the correct port on the router for the LAN cable
+  (often there is a specially marked port (called *WAN*) for the Internet connection, caution: on some routers *WAN* is a DSL port and LAN 1, for example, must be used)
+* If the router supports different operating modes, connection to another router and obtaining the IP address (or something similar) must be selected;
+  Operation as a modem is incorrect in any case
+* Choose right configuration for your router according to its instructions
 
-The latter works similar as the configuration when using only computer and the network information on a page you got when moving has to be used.
+## It still doesn't work?
 
-You have to configure:
+Carry out the following points in sequence with the router set up and a device connected to it.
 
-* correct mode of operation
-* static IP adress
-* subnet mask
-* DNS server
-* default gateway
+If none of the described approaches solve the problem, you can write us an email.
+Please write us all the information listed in our [FAQ about mail]({{< ref "_index.en.md#mail" >}}) and describe exactly what did not work on this page.
 
-The following are normally correct by the default settings, activated and should stay that way:
+### Test 0 - StuStaNet router:
 
-* DHCP server
-* firewall
-* NAT
+Only for StuStaNet routers:
+Go to [Solution 0]({{< ref "#solution_0" >}}).
 
-## Vendor specific notes
+### Test 1 - Router <-> Computer connection:
 
-### TP-Link
+Can you access your router's web interface if you are connected to the router via W-LAN or a LAN cable?
 
-Search the manual of your router for **Static IP adress** or **Static IP** in the context of the internet configuration.
+This is the page where you can set the router's settings.
+It can be accessed via the web browser with the IP address of the router.
 
-For many models, there is an option in the **Quick Install/Quick Setup** or in the **Internet** (or **Network**) tab that should be called like this.
+The address is often **192.168.1.1** (e.g. StuStaNet router) or also **192.168.0.1**.
+The address should also be found in the router's manual.
 
-There you can enter the required parameters.
+If you cannot reach the settings, go to [Solution 1]({{< ref "#solution_1" >}}).
 
-### Asus
+### Test 2 - Router <-> Internet connection:
 
-Search the manual of your router for **Static IP address** or **Static IP** in the context of the internet configuration.
+Can you access [selftest.stustanet.de](http://selftest.stustanet.de)?
+Possible error codes on the page are described on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
 
-For many models, there is an option in the **Quick Install/Setup** or in the **WAN** (or **Internet Connection**) tab that should be called like this.
+If the **_Error 1_** listed there occurs, your router is probably not set up correctly.
+In this case go to [solution 2]({{< ref "#solution_2" >}})
 
-There you can enter the required parameters.
+### Solution 0 - StuStaNet router: {#solution_0}
 
-### FRITZ!Box
+We have given the StuStaNet routers a number to help distinguish them from each other.
 
-#### Newer models
+You can find the number on the package, the StuStaNet router manual or on the bottom of the router.
+It has four digits and should begin with a **_#_**.
 
-Search in the manual or AVM knowledgebase for the keyword **cascaded router** in combination with your router model and follow the instructions.
+#### Stustanet router LED codes for number #6000 or higher:
 
-#### Older models
+StuStaNet routers of number *6000* and newer have an LED code from which you can usually narrow down the error.
 
-Search in the guide or AVM knowledgebase for the keyword **setting up for use with another router** in combination with your router model and follow the instructions.
+**permanent orange light:**
 
--------------
+There is no connection to the network.
+Check that the router is connected to the correct network port on the wall and that the cable is also plugged into the correct port on the router.
 
-Select the option **Configure the IP address manually** and not **Obtain the IP address automatically (DHCP)**.
+**orange blinking:**
 
-Then you can enter the required parameters.
+After pressing the WPS button for more than five seconds, the router runs its setup script.
+This may take some time.
+After that the LED should blink blue irregularly.
 
-Our downstream/upstream rate is currently about 100 Mbit/s (100000 kbit/s).
+**Irregular blue flashing:**
 
-### Other router manufacturers
+The router has been configured and everything should work at least on the router side.
+If there are still problems, it is probably either because of the connection between router and computer or because of a virus lock.
+For the latter, run [selftest.stustanet.de](http://selftest.stustanet.de)
 
-Unfortunately, we can only give general information here:
+**permanent blue-orange irregularly alternating (also slightly purple) light:**
 
-* search for **static IP**, **operation with other router**, **operation via existing internet connection**, **cascaded router** or equivalent terms in the manual or the internet
-* if you cannot set the four parameters **static IP address**, **subnet mask**, **default gateway** and **DNS server**, you probably selected the wrong operating mode
+Your router is not or not correctly configured and cannot connect to the Internet.
+Carry out the configuration again according to the StuStaNet instructions supplied with the router and make sure that the router flashes orange after you have pressed the *WPS button for more than five seconds* as described above.
+
+If repeating the instructions does not help, you can try resetting the router to its factory default settings.
+
+#### StuStaNet router reset for number #6000 or higher:
+
+If you press the reset button (notch that can only be reached with a pointed object; not the WPS button) for more than 10 seconds, you will trigger the reset to our factory settings.
+
+The router's LED should turn off briefly, then turn orange, followed by orange flashing until the reset is complete.
+
+You can then try again to carry out the enclosed instructions with the StuStaNet logo.
+
+#### StuStaNet router configuration for number #5000 - #5999
+
+The configuration script is triggered by pressing the reset button with a pointed object (pen) for several seconds.
+
+#### StuStaNet router configuration for number smaller #5000
+
+We configure the other routers as described in their StuStaNet instructions using the WPS button.
+
+### Solution 1 - Router <-> Computer connection: {#solution_1}
+
+Find out which IP address your PC uses to connect to the router.
+
+For Windows, search for **cmd** in the Windows search and open the program.
+
+{{< figure src="/support/routerproblem/searchcmd.png" height="400" >}}
+
+At the command prompt, type **ipconfig** and press Enter.
+
+Relevant for you is the default gateway in order to find out the IP address of the router.
+
+{{< figure src="/support/routerproblem/ipconfigcmd.png" height="300" >}}
+
+With the address of the **default gateway**, in the case **192.168.0.1**, you can usually reach the router's configuration page in the browser.
+
+For other operating systems it should be similarly possible.
+It is best to search for **default gateway** in combination with your operating system in the search engine of your choice.
+
+If the IP address you have found out is very different from 192.168.**X**.**X** (e.g. 10.**X**.**X**.**X**.**X**), then you have probably set a static IP on your computer and need to change it back to automatic reference.
+
+### Solution 2 - Router <-> Internet connection: {#solution_2}
+
+In this case check and repeat the installation and
+
+* *For StuStaNet routers*: follow the enclosed instructions with StuStaNet logo
+* *For normal routers*: note the items on the [General Router Setup]({{< ref "router_instructions.en.md" >}}) page
+
+The other errors with possible solutions are described in more detail on the [Selftest Help]({{< ref "selftest.en.md" >}}) page.
+Follow the instructions there and follow the links in the *selftest* error message.
 
 ## Other notes
 
