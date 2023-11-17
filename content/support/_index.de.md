@@ -9,6 +9,7 @@ headerImage: headers/keyboard.jpg
 
 ## Erste Hilfe
 Auf dieser Seite findest du eine erste Hilfe für deinen Internetzugang in der Studentenstadt.<br />
+Bei gängigen Fragen hilft häufig unsere [Router Anleitung]({{< ref "router_instructions." >}}).<br>
 Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http://selftest.stustanet.de) weiterhelfen.
 
 <a class="button" href="http://selftest.stustanet.de/">Connectivity Selftest</a>
@@ -22,7 +23,7 @@ Das liegt daran, dass sich die IP-Adressen in Ihrem Zimmer an diesem Tag geände
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
 Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit dem [StuStaNet Selftest]({{< ref "selftest.de.md" >}}) zu machen.
 
-Falls du einen Router verwendest, kannst du auf der Seite [Routerprobleme Erste Hilfe]({{< ref "router_problems.de.md" >}}) Lösungsansätze finden.
+Falls du einen Router verwendest, kannst du in der [Router Anleitung]({{< ref "router_instructions.de.md" >}}) Lösungsansätze finden.
 
 Mit dem Ergebnis des Tests und der Information was bei der Problemlösung nicht funktionierte wendest du dich per [Mail an die Netzwerkadministratoren]({{< ref "#mail" >}}).
 
