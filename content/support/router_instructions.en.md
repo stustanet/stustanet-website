@@ -7,10 +7,6 @@ color: none
 headerImage: headers/keyboard.jpg
 ---
 
-{{% alert %}}
-On 14. October of 2013, the Max Bill House was switched from static IPs to DHCP, which resulted in the loss of internet. For information on what you need to do to re-establish the connection, see [here]({{< ref "armageddon." >}}).
-{{% /alert %}}
-
 
 ## Which router should I buy?
 

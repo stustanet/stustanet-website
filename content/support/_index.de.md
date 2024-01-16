@@ -16,10 +16,6 @@ Bei vielen Problemen kann unser Selbstdiagnose-Tool [selftest.stustanet.de](http
 
 ## Frequently Answered Questions {#faq}
 
-### Ich wohne im Max-Bill-Wohnheim und habe am 14.10.2023 plötzlich meine Internetverbindung verloren.
-Das liegt daran, dass sich die IP-Adressen in Ihrem Zimmer an diesem Tag geändert worden und der Router neu konfiguriert werden muss. [Siehe hier]({{< ref "armageddon.de.md" >}})
-
-
 ### Ich habe mein Internet nach Anleitung eingerichtet, aber habe trotzdem keine Verbindung?
 Dies kann viele Ursachen haben. Am besten ist es hierbei einen Verbindungstest mit dem [StuStaNet Selftest]({{< ref "selftest.de.md" >}}) zu machen.
 

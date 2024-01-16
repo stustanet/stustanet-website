@@ -16,10 +16,6 @@ For many problems our self-diagnosis tool [selftest.stustanet.de](http://selftes
 
 ## Frequently Answered Questions {#faq}
 
-### I live at the Max-Bill dormitory and have suddenly lost my Internet connection on 14.10.2023.
-This is because IP addresses in your room changed on that day and you need to reconfigure your router.
-[Here is how to do that.]({{< ref "armageddon.en.md" >}})
-
 ### I have set up my Internet according to the instructions. But I still have no connection?
 This can have many causes. The best way to do this is to perform a connection test with the [StuStaNet Selftest]({{< ref "selftest.en.md" >}}).
 
