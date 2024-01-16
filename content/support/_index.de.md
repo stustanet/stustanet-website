@@ -94,7 +94,7 @@ Umso mehr Informationen du uns gibst, umso schneller und leichter können wir di
 
 Du erreichst uns unter [admins[at]stustanet.de](https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A).
 
-<a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A">eMail schicken</a>
+<a class="button" href="https://stustanet.de/mail/admins?body=Name%3A%0AZimmernummer%3A%0AHaus%3A%0AMitgliedschaft%20beim%20StuStaNet%20%2F%20Mitgliedsbeitrag%20gezahlt%3A%0ARouter%20vom%20StuStaNet%2Fanderer%20Router%2Fkein%20Router%3A%0Aselftest.stustanet.de%20aufgerufen%3F%20Bitte%20Log%20einf%C3%BCgen%3A">E-Mail schicken</a>
 
 Da alle Admins ehrenamtlich und zu keinen festen Arbeitszeiten arbeiten, können nicht alle Anfragen umgehend beantwortet werden.
 Normalerweise erfolgt eine Antwort jedoch innerhalb von ein oder zwei Tagen.
