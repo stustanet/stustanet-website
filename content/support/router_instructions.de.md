@@ -8,10 +8,6 @@ headerImage: headers/keyboard.jpg
 ---
 
 
-{{% alert %}}
-Am 14.10.23 wurde das Max-Bill-Haus von statischen IPs auf DHCP umgestellt, was zum Verlust des Internets geführt hat. Zu Informationen, was du machen musst, um die Verbindung wieder herzustellen, schau [hier]({{< ref "armageddon." >}}).
-{{% /alert %}}
-
 ## Welchen Router soll ich mir kaufen?
 
 Grundsätzlich sollte mit der richtigen Konfiguration jeder im Handel erhältliche Router funktionieren.
