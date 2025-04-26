@@ -25,12 +25,14 @@ Im Areal der Studentenstadt bietet StuStaNet für Mitglieder in Außenbereichen 
     <p><b>Verfügbar in unseren <a href="{{< ref "officehours.de.md" >}}">Sprechstunden</a>.</b></p>
 </div>
 
-## Voraussetzungen
-* StuStaNet-Vereinsmitgliedschaft - Siehe [hier](/)
-* Wohnhaft in einem Zimmer der StuSta
-* Wlan Zugang - Dieser kann auf der StuStaNet [Account Seite](https://account.stustanet.de) generiert werden
-
 ## Wie verbinde ich mich mit dem WLAN?
+
+1. Du musst Mitglied beim StuStaNet sein - siehe [hier] (https://stustanet.de/de/)
+2. Du brauchst deine Mitgliedsnummer. Du kannst sie in deiner Registrierungsmail finden oder bei vorstand[at]stustanet.de erfragen.
+3. Geh auf die [Account Seite](https://account.stustanet.de) und resette dein Passwort. Dafür musst du mit dem Internet in deinem Zimmer verbunden sein.
+4. Dann klicke auf Services - Reset Passwords for Services - WLAN (Mitglieder WLAN) - Reset
+5. Die Seite generiert ein Passwort für dich.
+6. Danach kannst du dein Gerät so verbinden:
 
 ### <i class="fa fa-android"></i> Android {#android}
 Unter _Einstellungen > WLAN_ **StuStaNet** auswählen.
