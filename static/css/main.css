@@ -551,12 +551,19 @@ p, ul, ol {
     margin-top: 0.5rem;
     margin-bottom: 0;
 }
-ul, ol {
+ul {
     line-height: 1.5rem;
     margin-top: 0.5rem;
     margin-bottom: 0;
     padding: 0 8px;
     list-style-position: inside;
+}
+ol {
+    line-height: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    padding: 0 8px;
+    list-style-position: outside;
 }
 ul li,
 ol li {
