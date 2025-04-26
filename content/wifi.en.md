@@ -26,14 +26,13 @@ In the Studentenstadt StuStaNet offers the StuStaNet WLAN for members in outdoor
 </div>
 
 ## How do I connect to the Wi-Fi?
-<ol>
-    <li>You need to be a member of StuStaNet - more information [here](https://stustanet.de/en/).</li>
-    <li>You need to know your membership ID. You can find it in your registration mail. If you can't find it, you need to ask via mail at vorstand[at]stustanet.de</li>
-    <li>Visit the [account page](https://account.stustanet.de) and reset your password there. You need to be connected to your room's internet to do that.</li>
-    <li>Go to Services - Reset Passwords for Services - WLAN (Mitglieder WLAN) - Reset.</li>
-    <li>The page generates a new password for you.</li>
-    <li>When you have your Wifi Password, you can connect your devices so:</li>
-</ol>
+
+1. You need to be a member of StuStaNet - more information [here](https://stustanet.de/en/).
+2. You need to know your membership ID. You can find it in your registration mail. If you can't find it, you need to ask via mail at vorstand[at]stustanet.de
+3. Visit the [account page](https://account.stustanet.de) and reset your password there. You need to be connected to your room's internet to do that.
+4. Go to Services - Reset Passwords for Services - WLAN (Mitglieder WLAN) - Reset
+5. The page generates a new password for you.
+6. When you have your Wifi Password, you can connect your devices so:
 
 ### <i class="fa fa-android"></i> Android {#android}
 Go to _Settings > Wifi_ and choose **StuStaNet**.

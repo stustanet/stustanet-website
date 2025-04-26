@@ -26,14 +26,14 @@ Im Areal der Studentenstadt bietet StuStaNet für Mitglieder in Außenbereichen 
 </div>
 
 ## Wie verbinde ich mich mit dem WLAN?
-<ol>
-    <li>Du musst Mitglied beim StuStaNet sein - siehe [hier] (https://stustanet.de/de/).</li>
-    <li>Du brauchst deine Mitgliedsnummer. Du kannst sie in deiner Registrierungsmail finden oder bei vorstand[at]stustanet.de erfragen.</li>
-    <li>Geh auf die [Account Seite](https://account.stustanet.de) und resette dein Passwort. Dafür musst du mit dem Internet in deinem Zimmer verbunden sein.</li>
-    <li>Dann klicke auf Services - Reset Passwords for Services - WLAN (Mitglieder WLAN) - Reset.</li>
-    <li>Die Seite generiert ein Passwort für dich.</li>
-    <li>Danach kannst du dein Gerät so verbinden:</li>
-</ol>
+
+1. Du musst Mitglied beim StuStaNet sein - siehe [hier] (https://stustanet.de/de/)
+2. Du brauchst deine Mitgliedsnummer. Du kannst sie in deiner Registrierungsmail finden oder bei vorstand[at]stustanet.de erfragen.
+3. Geh auf die [Account Seite](https://account.stustanet.de) und resette dein Passwort. Dafür musst du mit dem Internet in deinem Zimmer verbunden sein.
+4. Dann klicke auf Services - Reset Passwords for Services - WLAN (Mitglieder WLAN) - Reset
+5. Die Seite generiert ein Passwort für dich.
+6. Danach kannst du dein Gerät so verbinden:
+
 ### <i class="fa fa-android"></i> Android {#android}
 Unter _Einstellungen > WLAN_ **StuStaNet** auswählen.
 Dann auf **erweiterte Optionen** klicken.
