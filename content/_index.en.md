@@ -33,7 +33,7 @@ You want to become a StuStaNet member in order to use our services?
 
 
 ## Next Office Hours
-The [office hours]({{< ref "officehours.en.md" >}}) take place in [House 10 (Hans-Leipelt-Straße 7), room 002](https://www.openstreetmap.org/node/4444148334).
+The [office hours]({{< ref "officehours.en.md" >}}) take place in [House 14 (Hans-Leipelt-Straße 8), WG 8](https://www.openstreetmap.org/node/4444148334).
 
 {{< officehours >}}
 
