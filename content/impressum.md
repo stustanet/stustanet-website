@@ -29,7 +29,7 @@ Amtsgericht München
 {{% dl title="Postanschrift:" %}}
 {{< address >}}
 StuStaNet e. V.
-Hans-Leipelt-Straße 7
+Willi Graf Straße 15
 80805 München
 {{< /address >}}
 {{% /dl %}}
